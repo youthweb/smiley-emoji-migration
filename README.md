@@ -1,5 +1,7 @@
 # Migration der Smilies zu Emojis
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/youthweb/smiley-emoji-migration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Auf Youthweb sollen in Zukunft Emojis statt der Smilies verwendet werden. Dafür müssen für die vorhandenen Smilies ein Ersatz aus der Emoji-Auswahl gefunden werden.
 
 ## Legende
