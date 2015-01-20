@@ -1,18 +1,32 @@
 # Migration der Smilies zu Emojis
 
-Auf Youthweb sollen in Zukunft Emojis statt der Smilies verwendet werden. Dafür müssen für die vorhandenen Smilies ein Ersatz aus der Emoji-Auswahl gefunden werden.
+Auf Youthweb möchten wir in Zukunft Emojis statt der Smilies verwenden. Das macht es später einfacher, Posts und andere Inhalte auch außerhalb von Youthweb (z.B. in einer App) anzuzeigen.
 
-## Legende
+Wir planen, die Emojis von [emojione.com](http://emojione.com) auf Youthweb zu verwenden. Die Umsetzung wird noch etwas Zeit brauchen, aber wir benötigen zur Planung vorab eine Liste, gegen welche Emojis die Smilies ersetzt werden sollen. Wenn wir das nicht machen und schon jetzt auf Emojis umsteigen, machen wir alte Forenposts und andere Inhalte kaputt, die noch auf die Smilies aufbauen.
 
-Diese Liste zeigt alle 363 Smilies, die derzeit auf Youthweb verwendet werden. Die Spalten haben folgende Bedeutung:
+## Mithelfen
+
+Wenn alle mit anpacken, geht es schneller. Wenn du uns helfen möchtest, die entsprechenden Emojis zu finden, dann kannst du folgendes machen:
+
+1. Guck in der Liste unten, ob es ein Smiley gibt, das noch kein Emoji hat.
+2. Suche auf der [Emojione Demoseite](http://www.emojione.com/demo) nach einem Emoji, dass dem Smiley am ähnlichsten ist.
+3. Bearbeite die Liste und schick uns einen Pull-Request (benötigt einen Github-Account).
+
+Bitte trage das Emoji als Bild (`<img src="http://cdn.jsdelivr.net/emojione/assets/png/1F3A3.png?v=1.2.4" />`) und als Shortcode (`:fishing_pole_and_fish:`) ein, damit man die Bilder besser vergleichen kann. Die Url zu den Emoji-Bildern findest du auf der [Emojione Demoseite](http://www.emojione.com/demo).
+
+Es ist möglich, dass mehrere Emojis für ein Smiley passen. Und es kann sein, dass ein Smiley nicht gegen ein Emoji ersetzt werden kann. Bei solchen Fälle müssen wir einzeln diskutieren und entscheiden. Die Diskussion findet hier auf Github statt. Zur Kommunikation kann das Forum auf Youthweb und [Gitterchat](https://gitter.im/youthweb/smiley-emoji-migration) verwendet werden.
+
+## Smilies vs Emojis
+
+### Legende
+
+Die nachfolgende Liste zeigt alle 363 Smilies, die derzeit auf Youthweb verwendet werden. Die Spalten haben folgende Bedeutung:
 
 * **Code**: Der Code, der als Smiley/Emoji interpretiert wird.
 * **Smiley**: Das Smiley, das angezeigt wird.
 * **Emoji**: Das Emoji, gegen das das Smiley ersetzt wird. Mehrere Emojis sind möglich, falls es mehrere zur Auswahl gibt.
 * **Emoji Shortcode**: Der Shortcode für das Emoji
-* **Filename**: Der Dateiname des Smiley bei Youthweb. Alle Smilies liegen unter `https://youthweb.net/public/vendor/smilies/` ab.
-
-## Smilies vs Emojis
+* **Filename**: Der Dateiname des Smiley bei Youthweb. Alle Smilies liegen bei Youthweb unter `https://youthweb.net/public/vendor/smilies/` ab.
 
 Code | Smiley | Emoji | Emojicode | Filename
 -----|--------|-------|-----------|---------
