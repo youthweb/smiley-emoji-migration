@@ -34,9 +34,9 @@ Code | Smiley | Emoji | Emojicode | Filename
 -----|--------|-------|-----------|---------
 `:fischer:` | <img src="https://youthweb.net/public/vendor/smilies/angeln.gif" /> | <img src="http://cdn.jsdelivr.net/emojione/assets/png/1F3A3.png?v=1.2.4" /> | `:fishing_pole_and_fish:` | `angeln.gif`
 `:sleep:` | <img src="https://youthweb.net/public/vendor/smilies/14.gif" /> | <img src="http://cdn.jsdelivr.net/emojione/assets/png/1F634.png?v=1.2.4" /> | `:sleeping:` | `14.gif`
-`:angst:` | <img src="https://youthweb.net/public/vendor/smilies/angst.gif" /> |  |  | `angst.gif`
-`:gworsky:` | <img src="https://youthweb.net/public/vendor/smilies/crazydace.gif" /> |  |  | `crazydace.gif`
-`:streiten:` | <img src="https://youthweb.net/public/vendor/smilies/093.gif" /> |  |  | `093.gif`
+`:angst:` | <img src="https://youthweb.net/public/vendor/smilies/angst.gif" /> | <img src="http://cdn.jsdelivr.net/emojione/assets/png/1F628.png?v=1.2.4" /> | `:fearful:` | `angst.gif`
+`:gworsky:` | <img src="https://youthweb.net/public/vendor/smilies/crazydace.gif" /> | <img src="http://cdn.jsdelivr.net/emojione/assets/png/1F483.png?v=1.2.4" /> | `:dancer:` | `crazydace.gif`
+`:streiten:` | <img src="https://youthweb.net/public/vendor/smilies/093.gif" /> | <img src="http://cdn.jsdelivr.net/emojione/assets/png/1F4A2.png?v=1.2.4" /> | `:anger:` | `093.gif`
 `:baby:` | <img src="https://youthweb.net/public/vendor/smilies/Baby.gif" /> |  |  | `Baby.gif`
 `:birthday:` | <img src="https://youthweb.net/public/vendor/smilies/birthday.gif" /> |  |  | `birthday.gif`
 `:bounce:` | <img src="https://youthweb.net/public/vendor/smilies/a065.gif" /> |  |  | `a065.gif`
