@@ -45,7 +45,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:buck:` | ![](https://youthweb.net/public/vendor/smilies/buck.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F60B.png?v=1.2.4) | `:yum:` | `buck.gif`
 `:confused:` | ![](https://youthweb.net/public/vendor/smilies/confused2.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F615.png?v=1.2.4) | `:confused:` | `confused2.gif`
 `:heul:` | ![](https://youthweb.net/public/vendor/smilies/crying.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F62D.png?v=1.2.4) | `:sob:` | `crying.gif`
-`:gg:` | ![](https://youthweb.net/public/vendor/smilies/gg.gif) | :question: | `` | `gg.gif`
+`:gg:` | ![](https://youthweb.net/public/vendor/smilies/gg.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F600.png?v=1.2.4) | `:grinning:` | `gg.gif`
 `:king:` | ![](https://youthweb.net/public/vendor/smilies/king.gif) | :question: | `` | `king.gif`
 `:krach:` | ![](https://youthweb.net/public/vendor/smilies/Krach.gif) | :question: | `` | `Krach.gif`
 `:kreisen:` | ![](https://youthweb.net/public/vendor/smilies/kreisen.gif) | :question: | `` | `kreisen.gif`
