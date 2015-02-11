@@ -42,7 +42,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:baby:` | ![](https://youthweb.net/public/vendor/smilies/Baby.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F476.png?v=1.2.4) | `:baby:` | `Baby.gif`
 `:birthday:` | ![](https://youthweb.net/public/vendor/smilies/birthday.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F382.png?v=1.2.4) | `:birthday:` | `birthday.gif`
 `:bounce:` | ![](https://youthweb.net/public/vendor/smilies/a065.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F603.png?v=1.2.4) | `:smiley:` | `a065.gif`
-`:buck:` | ![](https://youthweb.net/public/vendor/smilies/buck.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F60B.png?v=1.2.4) | `:yum:` | `buck.gif`
+`:buck:` | ![](https://youthweb.net/public/vendor/smilies/buck.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F61D.png?v=1.2.4) | `:stuck_out_tongue_closed_eyes:` | `buck.gif`
 `:confused:` | ![](https://youthweb.net/public/vendor/smilies/confused2.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F615.png?v=1.2.4) | `:confused:` | `confused2.gif`
 `:heul:` | ![](https://youthweb.net/public/vendor/smilies/crying.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F62D.png?v=1.2.4) | `:sob:` | `crying.gif`
 `:gg:` | ![](https://youthweb.net/public/vendor/smilies/gg.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F600.png?v=1.2.4) | `:grinning:` | `gg.gif`
