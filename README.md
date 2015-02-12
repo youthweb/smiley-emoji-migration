@@ -1,6 +1,6 @@
 # Migration der Smilies zu Emojis
 
-Fortschritt: ![](http://progressed.io/bar/6) (21/363)
+Fortschritt: ![](http://progressed.io/bar/9) (31/363)
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/youthweb/smiley-emoji-migration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -21,6 +21,8 @@ Bitte trage das Emoji als Bild (`![](http://cdn.jsdelivr.net/emojione/assets/png
 Es ist möglich, dass mehrere Emojis für ein Smiley passen. Und es kann sein, dass ein Smiley nicht gegen ein Emoji ersetzt werden kann. Bei solchen Fälle müssen wir einzeln diskutieren und entscheiden. Die Diskussion findet hier auf Github statt. Zur Kommunikation kann das Forum auf Youthweb und [Gitterchat](https://gitter.im/youthweb/smiley-emoji-migration) verwendet werden.
 
 ### Markdown Preview Plugins für Editoren
+
+_Falls du die Liste direkt über das Github-Webinterface bearbeiten möchtest, kannst du diesen Abschnitt überspringen._
 
 Da bei allen Online-Markdown Editoren leider keine .gif-Grafiken unterstützt werden, gibt es hier Lösungen für Plugins beliebter Editoren:
 
