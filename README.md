@@ -1,6 +1,6 @@
 # Migration der Smilies zu Emojis
 
-Fortschritt: ![](http://progressed.io/bar/9) (31/363)
+Fortschritt: ![](http://progressed.io/bar/13) (48/363)
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/youthweb/smiley-emoji-migration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -106,12 +106,12 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:doof:` | ![](https://youthweb.net/public/vendor/smilies/doof.gif) | :question: | `` | `doof.gif`
 `:ethe:` | ![](https://youthweb.net/public/vendor/smilies/blumen.gif) | :question: | `` | `blumen.gif`
 `:pascholti:` | ![](https://youthweb.net/public/vendor/smilies/paschol.png) | :question: | `` | `paschol.png`
-`:love1:` | ![](https://youthweb.net/public/vendor/smilies/Love1.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F48F.png?v=1.2.4) | `:couplekiss:` | `Love1.gif`
+`:love1:` | ![](https://youthweb.net/public/vendor/smilies/Love1.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F491.png?v=1.2.4) | `:couple_with_heart:` | `Love1.gif`
 `:boxen2:` | ![](https://youthweb.net/public/vendor/smilies/box.gif) | :question: | `` | `box.gif`
 `:aldi:` | ![](https://youthweb.net/public/vendor/smilies/aldi.gif) | :question: | `` | `aldi.gif`
 `:mama:` | ![](https://youthweb.net/public/vendor/smilies/mama.gif) | :question: | `` | `mama.gif`
 `:bye:` | ![](https://youthweb.net/public/vendor/smilies/fol.gif) | :question: | `` | `fol.gif`
-`:birthday2:` | ![](https://youthweb.net/public/vendor/smilies/birthday2.gif) | :question: | `` | `birthday2.gif`
+`:birthday2:` | ![](https://youthweb.net/public/vendor/smilies/birthday2.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F38A.png?v=1.2.4) | `:confetti_ball:` | `birthday2.gif`
 `:eingebildet:` | ![](https://youthweb.net/public/vendor/smilies/eingebildet.gif) | :question: | `` | `eingebildet.gif`
 `:bipa:` | ![](https://youthweb.net/public/vendor/smilies/spassbremse.gif) | :question: | `` | `spassbremse.gif`
 `:gewalt:` | ![](https://youthweb.net/public/vendor/smilies/Gewalt.gif) | :question: | `` | `Gewalt.gif`
@@ -121,7 +121,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:schleimer:` | ![](https://youthweb.net/public/vendor/smilies/schleimer.gif) | :question: | `` | `schleimer.gif`
 `:gassi:` | ![](https://youthweb.net/public/vendor/smilies/smilie_hund1.gif) | :question: | `` | `smilie_hund1.gif`
 `:heck:` | ![](https://youthweb.net/public/vendor/smilies/heck.gif) | :question: | `` | `heck.gif`
-`:baseball:` | ![](https://youthweb.net/public/vendor/smilies/aufsmaul.gif) | :question: | `` | `aufsmaul.gif`
+`:baseball:` | ![](https://youthweb.net/public/vendor/smilies/aufsmaul.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/26BE.png?v=1.2.4) | `:baseball:` | `aufsmaul.gif`
 `:heuldoch:` | ![](https://youthweb.net/public/vendor/smilies/heuldoch.gif) | :question: | `` | `heuldoch.gif`
 `:gutenacht:` | ![](https://youthweb.net/public/vendor/smilies/Gute%20nacht.gif) | :question: | `` | `Gute nacht.gif`
 `:weck` | ![](https://youthweb.net/public/vendor/smilies/62.gif) | :question: | `` | `62.gif`
@@ -130,10 +130,10 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:worship:` | ![](https://youthweb.net/public/vendor/smilies/a030.gif) | :question: | `` | `a030.gif`
 `:regin:` | ![](https://youthweb.net/public/vendor/smilies/a035.gif) | :question: | `` | `a035.gif`
 `:campen:` | ![](https://youthweb.net/public/vendor/smilies/haus56.gif) | :question: | `` | `haus56.gif`
-`:inlove:` | ![](https://youthweb.net/public/vendor/smilies/inlove.gif) | :question: | `` | `inlove.gif`
-`:rockon:` | ![](https://youthweb.net/public/vendor/smilies/rockon.gif) | :question: | `` | `rockon.gif`
-`:reiten:` | ![](https://youthweb.net/public/vendor/smilies/Reiten.gif) | :question: | `` | `Reiten.gif`
-`:kotz:` | ![](https://youthweb.net/public/vendor/smilies/kotzen.gif) | :question: | `` | `kotzen.gif`
+`:inlove:` | ![](https://youthweb.net/public/vendor/smilies/inlove.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F46B.png?v=1.2.4) | `:couple:` | `inlove.gif`
+`:rockon:` | ![](https://youthweb.net/public/vendor/smilies/rockon.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3B8.png?v=1.2.4) | `:guitar:` | `rockon.gif`
+`:reiten:` | ![](https://youthweb.net/public/vendor/smilies/Reiten.gif) | :question: | `:horse_racing:` | `Reiten.gif`
+`:kotz:` | ![](https://youthweb.net/public/vendor/smilies/kotzen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C7.png?v=1.2.4) | `` | `kotzen.gif`
 `:pfeifen:` | ![](https://youthweb.net/public/vendor/smilies/a050.gif) | :question: | `` | `a050.gif`
 `:feierabend:` | ![](https://youthweb.net/public/vendor/smilies/feierabend.gif) | :question: | `` | `feierabend.gif`
 `:danke:` | ![](https://youthweb.net/public/vendor/smilies/Danke.gif) | :question: | `` | `Danke.gif`
@@ -147,14 +147,14 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:wolke7:` | ![](https://youthweb.net/public/vendor/smilies/love5.gif) | :question: | `` | `love5.gif`
 `:stecher:` | ![](https://youthweb.net/public/vendor/smilies/stecher.gif) | :question: | `` | `stecher.gif`
 `:bart:` | ![](https://youthweb.net/public/vendor/smilies/disguise.gif) | :question: | `` | `disguise.gif`
-`:rofll:` | ![](https://youthweb.net/public/vendor/smilies/rofl1.gif) | :question: | `` | `rofl1.gif`
+`:rofll:` | ![](https://youthweb.net/public/vendor/smilies/rofl1.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F616.png?v=1.2.4) | `:confounded:` | `rofl1.gif`
 `:trainieren:` | ![](https://youthweb.net/public/vendor/smilies/weight_lift.gif) | :question: | `` | `weight_lift.gif`
 `:sboard:` | ![](https://youthweb.net/public/vendor/smilies/snowboard.gif) | :question: | `` | `snowboard.gif`
 `:schleimer2:` | ![](https://youthweb.net/public/vendor/smilies/nerd.gif) | :question: | `` | `nerd.gif`
 `:boxer:` | ![](https://youthweb.net/public/vendor/smilies/boxed3_h4h.gif) | :question: | `` | `boxed3_h4h.gif`
 `:ala:` | ![](https://youthweb.net/public/vendor/smilies/ala.gif) | :question: | `` | `ala.gif`
 `:bike:` | ![](https://youthweb.net/public/vendor/smilies/biker_h4h.gif) | :question: | `` | `biker_h4h.gif`
-`:lecker:` | ![](https://youthweb.net/public/vendor/smilies/licklips.gif) | :question: | `` | `licklips.gif`
+`:lecker:` | ![](https://youthweb.net/public/vendor/smilies/licklips.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F60B.png?v=1.2.4) | `:yum:` | `licklips.gif`
 `:schlafen:` | ![](https://youthweb.net/public/vendor/smilies/456.gif) | :question: | `` | `456.gif`
 `:rappen:` | ![](https://youthweb.net/public/vendor/smilies/rappen.gif) | :question: | `` | `rappen.gif`
 `:ohnmacht:` | ![](https://youthweb.net/public/vendor/smilies/Ohnmacht1.gif) | :question: | `` | `Ohnmacht1.gif`
@@ -179,10 +179,10 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:essen2:` | ![](https://youthweb.net/public/vendor/smilies/essen.gif) | :question: | `` | `essen.gif`
 `:boese:` | ![](https://youthweb.net/public/vendor/smilies/boese.gif) | :question: | `` | `boese.gif`
 `:verneigen:` | ![](https://youthweb.net/public/vendor/smilies/verneigen.gif) | :question: | `` | `verneigen.gif`
-`;-)` | ![](https://youthweb.net/public/vendor/smilies/winking.gif) | :question: | `` | `winking.gif`
+`;-)` | ![](https://youthweb.net/public/vendor/smilies/winking.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F609.png?v=1.2.4) | `:wink:` | `winking.gif`
 `:ja:` | ![](https://youthweb.net/public/vendor/smilies/ja.gif) | :question: | `` | `ja.gif`
 `:-p` | ![](https://youthweb.net/public/vendor/smilies/zunge.gif) | :question: | `` | `zunge.gif`
-`:-(` | ![](https://youthweb.net/public/vendor/smilies/mad01.gif) | :question: | `` | `mad01.gif`
+`:-(` | ![](https://youthweb.net/public/vendor/smilies/mad01.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F620.png?v=1.2.4) | `:angry:` | `mad01.gif`
 `:nein:` | ![](https://youthweb.net/public/vendor/smilies/nein.gif) | :question: | `` | `nein.gif`
 `:uncool:` | ![](https://youthweb.net/public/vendor/smilies/uncool.gif) | :question: | `` | `uncool.gif`
 `:klatschen:` | ![](https://youthweb.net/public/vendor/smilies/klatschen.gif) | :question: | `` | `klatschen.gif`
@@ -190,7 +190,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:muede:` | ![](https://youthweb.net/public/vendor/smilies/gaehnen.gif) | :question: | `` | `gaehnen.gif`
 `:keineahnung:` | ![](https://youthweb.net/public/vendor/smilies/keineahnung.gif) | :question: | `` | `keineahnung.gif`
 `:rudolf:` | ![](https://youthweb.net/public/vendor/smilies/rudolf.gif) | :question: | `` | `rudolf.gif`
-`:kalt:` | ![](https://youthweb.net/public/vendor/smilies/cold.gif) | :question: | `` | `cold.gif`
+`:kalt:` | ![](https://youthweb.net/public/vendor/smilies/cold.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F630.png?v=1.2.4) | `:cold_sweat:` | `cold.gif`
 `:wman:` | ![](https://youthweb.net/public/vendor/smilies/weihnachtsmann.gif) | :question: | `` | `weihnachtsmann.gif`
 `:zitter:` | ![](https://youthweb.net/public/vendor/smilies/xpb_zitter.gif) | :question: | `` | `xpb_zitter.gif`
 `:wman2:` | ![](https://youthweb.net/public/vendor/smilies/woswmann950.gif) | :question: | `` | `woswmann950.gif`
@@ -198,23 +198,23 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:hochzeit:` | ![](https://youthweb.net/public/vendor/smilies/hochzeit.gif) | :question: | `` | `hochzeit.gif`
 `:oops:` | ![](https://youthweb.net/public/vendor/smilies/oops.gif) | :question: | `` | `oops.gif`
 `:kaputthauen:` | ![](https://youthweb.net/public/vendor/smilies/kaputthauen.gif) | :question: | `` | `kaputthauen.gif`
-`:baden3:` | ![](https://youthweb.net/public/vendor/smilies/baden3.gif) | :question: | `` | `baden3.gif`
+`:baden3:` | ![](https://youthweb.net/public/vendor/smilies/baden3.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F6C1.png?v=1.2.4) | `:bathtub:` | `baden3.gif`
 `:lenak:` | ![](https://youthweb.net/public/vendor/smilies/484.gif) | :question: | `` | `484.gif`
 `:jeff:` | ![](https://youthweb.net/public/vendor/smilies/Jeff.gif) | :question: | `` | `Jeff.gif`
 `:knuddell:` | ![](https://youthweb.net/public/vendor/smilies/knuddel.gif) | :question: | `` | `knuddel.gif`
 `:ruhe:` | ![](https://youthweb.net/public/vendor/smilies/ruhe.gif) | :question: | `` | `ruhe.gif`
 `:cool:` | ![](https://youthweb.net/public/vendor/smilies/cool.gif) | :question: | `` | `cool.gif`
 `:manweisetnich:` | ![](https://youthweb.net/public/vendor/smilies/man_weiset.png) | :question: | `` | `man_weiset.png`
-`:(` | ![](https://youthweb.net/public/vendor/smilies/frown.gif) | :question: | `` | `frown.gif`
+`:(` | ![](https://youthweb.net/public/vendor/smilies/frown.gif) | :question: | Fast gleich mit dem Smiley ":-)" - Kann man entfernen! | `frown.gif`
 `:knuddel2:` | ![](https://youthweb.net/public/vendor/smilies/liebe_061.gif) | :question: | `` | `liebe_061.gif`
-`:denken:` | ![](https://youthweb.net/public/vendor/smilies/verwirrte_026.gif) | :question: | `` | `verwirrte_026.gif`
+`:denken:` | ![](https://youthweb.net/public/vendor/smilies/verwirrte_026.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F614.png?v=1.2.4) | `:pensive:` | `verwirrte_026.gif`
 `:denken2:` | ![](https://youthweb.net/public/vendor/smilies/Denken2.gif) | :question: | `` | `Denken2.gif`
 `:denken3:` | ![](https://youthweb.net/public/vendor/smilies/idee.gif) | :question: | `` | `idee.gif`
 `:knuddel3:` | ![](https://youthweb.net/public/vendor/smilies/liebe_028.gif) | :question: | `` | `liebe_028.gif`
 `:romantik:` | ![](https://youthweb.net/public/vendor/smilies/romantik.gif) | :question: | `` | `romantik.gif`
 `:foto:` | ![](https://youthweb.net/public/vendor/smilies/fotosmilie.gif) | :question: | `` | `fotosmilie.gif`
 `:sauer2:` | ![](https://youthweb.net/public/vendor/smilies/sauer.gif) | :question: | `` | `sauer.gif`
-`:krankes:` | ![](https://youthweb.net/public/vendor/smilies/Krankes.gif) | :question: | `` | `Krankes.gif`
+`:krankes:` | ![](https://youthweb.net/public/vendor/smilies/Krankes.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F48A.png?v=1.2.4) | `:pill:` | `Krankes.gif`
 `:doof1:` | ![](https://youthweb.net/public/vendor/smilies/bin_ich_doof.gif) | :question: | `` | `bin_ich_doof.gif`
 `:car:` | ![](https://youthweb.net/public/vendor/smilies/car.gif) | :question: | `` | `car.gif`
 `:wayne:` | ![](https://youthweb.net/public/vendor/smilies/wayne_interessierts.gif) | :question: | `` | `wayne_interessierts.gif`
@@ -235,7 +235,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:hase2:` | ![](https://youthweb.net/public/vendor/smilies/HASE4.gif) | :question: | `` | `HASE4.gif`
 `:hase3:` | ![](https://youthweb.net/public/vendor/smilies/has2.gif) | :question: | `` | `has2.gif`
 `:irre:` | ![](https://youthweb.net/public/vendor/smilies/bunny_4.gif) | :question: | `` | `bunny_4.gif`
-`:herz:` | ![](https://youthweb.net/public/vendor/smilies/herzchen.gif) | :question: | `` | `herzchen.gif`
+`:herz:` | ![](https://youthweb.net/public/vendor/smilies/herzchen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/2764.png?v=1.2.4) | `:heart:` | `herzchen.gif`
 `:achja:` | ![](https://youthweb.net/public/vendor/smilies/achja.gif) | :question: | `` | `achja.gif`
 `:morgähn:` | ![](https://youthweb.net/public/vendor/smilies/morgaehn.gif) | :question: | `` | `morgaehn.gif`
 `:amen:` | ![](https://youthweb.net/public/vendor/smilies/amen.gif) | :question: | `` | `amen.gif`
@@ -373,7 +373,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:krank:` | ![](https://youthweb.net/public/vendor/smilies/krank.gif) | :question: | `` | `krank.gif`
 `:krank1:` | ![](https://youthweb.net/public/vendor/smilies/krank1.gif) | :question: | `` | `krank1.gif`
 `:lästern:` | ![](https://youthweb.net/public/vendor/smilies/laestern.gif) | :question: | `` | `laestern.gif`
-`:küsschen:` | ![](https://youthweb.net/public/vendor/smilies/love_350.gif) | :question: | `` | `love_350.gif`
+`:küsschen:` | ![](https://youthweb.net/public/vendor/smilies/love_350.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F48F.png?v=1.2.4) | `:couplekiss:` | `love_350.gif`
 `:willkommen:` | ![](https://youthweb.net/public/vendor/smilies/Willkommen.gif) | :question: | `` | `Willkommen.gif`
 `:ywsuchti:` | ![](https://youthweb.net/public/vendor/smilies/urlaub_lapi.gif) | :question: | `` | `urlaub_lapi.gif`
 `:sun:` | ![](https://youthweb.net/public/vendor/smilies/sun.gif) | :question: | `` | `sun.gif`
