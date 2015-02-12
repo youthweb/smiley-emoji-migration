@@ -132,8 +132,8 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:campen:` | ![](https://youthweb.net/public/vendor/smilies/haus56.gif) | :question: | `` | `haus56.gif`
 `:inlove:` | ![](https://youthweb.net/public/vendor/smilies/inlove.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F46B.png?v=1.2.4) | `:couple:` | `inlove.gif`
 `:rockon:` | ![](https://youthweb.net/public/vendor/smilies/rockon.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3B8.png?v=1.2.4) | `:guitar:` | `rockon.gif`
-`:reiten:` | ![](https://youthweb.net/public/vendor/smilies/Reiten.gif) | :question: | `:horse_racing:` | `Reiten.gif`
-`:kotz:` | ![](https://youthweb.net/public/vendor/smilies/kotzen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C7.png?v=1.2.4) | `` | `kotzen.gif`
+`:reiten:` | ![](https://youthweb.net/public/vendor/smilies/Reiten.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C7.png?v=1.2.4) | `:horse_racing:` | `Reiten.gif`
+`:kotz:` | ![](https://youthweb.net/public/vendor/smilies/kotzen.gif) | :question: | `` | `kotzen.gif`
 `:pfeifen:` | ![](https://youthweb.net/public/vendor/smilies/a050.gif) | :question: | `` | `a050.gif`
 `:feierabend:` | ![](https://youthweb.net/public/vendor/smilies/feierabend.gif) | :question: | `` | `feierabend.gif`
 `:danke:` | ![](https://youthweb.net/public/vendor/smilies/Danke.gif) | :question: | `` | `Danke.gif`
