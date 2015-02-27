@@ -222,7 +222,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:sagnix:` | ![](https://youthweb.net/public/vendor/smilies/ich_sag_nix.gif) | :question: | `` | `ich_sag_nix.gif`
 `:regin2:` | ![](https://youthweb.net/public/vendor/smilies/hauen.gif) | :question: | `` | `hauen.gif`
 `:kuuhl:` | ![](https://youthweb.net/public/vendor/smilies/kuuuhl.png) | :question: | `` | `kuuuhl.png`
-`:saugen:` | ![](https://youthweb.net/public/vendor/smilies/staubsauger!.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F489.png?v=1.2.4) | `:syringe:` | `staubsauger!.gif`
+`:saugen:` | ![](https://youthweb.net/public/vendor/smilies/staubsauger!.gif) | :question: | `` | `staubsauger!.gif`
 `:para:` | ![](https://youthweb.net/public/vendor/smilies/kreis.gif) | :question: | `` | `kreis.gif`
 `:blach:` | ![](https://youthweb.net/public/vendor/smilies/blach.gif) | :question: | `` | `blach.gif`
 `:rofllll:` | ![](https://youthweb.net/public/vendor/smilies/smilie_happy_251.gif) | :question: | `` | `smilie_happy_251.gif`
