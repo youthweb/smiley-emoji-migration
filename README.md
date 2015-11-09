@@ -1,6 +1,6 @@
 # Migration der Smilies zu Emojis
 
-Fortschritt: ![](http://progressed.io/bar/37) (135/363)
+Fortschritt: ![](http://progressed.io/bar/40) (145/363)
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/youthweb/smiley-emoji-migration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -87,16 +87,16 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:toilette:` | ![](https://youthweb.net/vendor/smilies/00001798.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F6BD.png?v=1.2.4) | `:toilet:` | `00001798.gif`
 `:sdu8:` | ![](https://youthweb.net/vendor/smilies/coolkaugummi.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F60E.png?v=1.2.4) | `:sunglasses:` | `coolkaugummi.gif`
 `:arab:` | ![](https://youthweb.net/vendor/smilies/arab.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F473.png?v=1.2.4) | `:man_with_turban:` | `arab.gif`
-`:mcdonalds:` | ![](https://youthweb.net/vendor/smilies/mcdonald.gif) | '[](http://cdn.jsdelivr.net/emojione/assets/png/1F354.png?v=1.2.4)![](http://cdn.jsdelivr.net/emojione/assets/png/1F35F.png?v=1.2.4) | `:hamburger::fries:` | `mcdonald.gif`
-`:boxen:` | ![](https://youthweb.net/vendor/smilies/boxxen.gif) | :question: | `` | `boxxen.gif`
-`:verrückt:` | ![](https://youthweb.net/vendor/smilies/verrueckt.gif) | :question: | `` | `verrueckt.gif`
-`:urlaub:` | ![](https://youthweb.net/vendor/smilies/strand.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F305.png?v=1.2.4) | `:sunrise:` | `strand.gif`
+`:mcdonalds:` | ![](https://youthweb.net/vendor/smilies/mcdonald.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F354.png?v=1.2.4)![](http://cdn.jsdelivr.net/emojione/assets/png/1F35F.png?v=1.2.4) | `:hamburger::fries:` | `mcdonald.gif`
+`:boxen:` | ![](https://youthweb.net/vendor/smilies/boxxen.gif) | !()[http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4] | `:punch:` | `boxxen.gif`
+`:verrückt:` | ![](https://youthweb.net/vendor/smilies/verrueckt.gif) | !()[http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4] | `:punch:` | `verrueckt.gif`
+`:urlaub:` | ![](https://youthweb.net/vendor/smilies/strand.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C4.png?v=1.2.4) | `:surfer:` | `strand.gif`
 `:victory:` | ![](https://youthweb.net/vendor/smilies/b025.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/270C.png?v=1.2.4) | `:v:` | `b025.gif`
 `:liebesbrief:` | ![](https://youthweb.net/vendor/smilies/liebesbrief.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F48C.png?v=1.2.4) | `:love_letter:` | `liebesbrief.gif`
 `:weinen:` | ![](https://youthweb.net/vendor/smilies/weinen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F62D.png?v=1.2.4) | `:sob:` | `weinen.gif`
 `:gucken:` | ![](https://youthweb.net/vendor/smilies/00000952[1].gif) | :question: | `` | `00000952[1].gif`
-`:pcprob:` | ![](https://youthweb.net/vendor/smilies/PcProb.gif) | :question: | `` | `PcProb.gif`
-`:waschen2:` | ![](https://youthweb.net/vendor/smilies/00001797[1].gif) | :question: | `` | `00001797[1].gif`
+`:pcprob:` | ![](https://youthweb.net/vendor/smilies/PcProb.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F4BB.png?v=1.2.4)![](http://cdn.jsdelivr.net/emojione/assets/png/1F620.png?v=1.2.4)![](http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4) | `:computer::angry::punch:` | `PcProb.gif`
+`:waschen2:` | ![](https://youthweb.net/vendor/smilies/00001797[1].gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F455.png?v=1.2.4)![](http://cdn.jsdelivr.net/emojione/assets/png/1F6BF.png?v=1.2.4) | `:shirt::shower:` | `00001797[1].gif`
 `:koch:` | ![](https://youthweb.net/vendor/smilies/Koch.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F373.png?v=1.2.4) | `:egg:` | `Koch.gif`
 `:baden:` | ![](https://youthweb.net/vendor/smilies/00001779[1].gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F6C0.png?v=1.2.4) | `:bath:` | `00001779[1].gif`
 `:troesten:` | ![](https://youthweb.net/vendor/smilies/troesten.gif) | :question: | `` | `troesten.gif`
