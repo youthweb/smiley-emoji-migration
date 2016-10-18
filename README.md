@@ -345,7 +345,8 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:keks:` | ![](https://youthweb.net/vendor/smilies/keks.gif) | :question: | `` | `keks.gif`
 `:radfahrer:` | ![](https://youthweb.net/vendor/smilies/chiller.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F6B4.png?v=1.2.4) | `:bicyclist:` | `chiller.gif`
 `:nadia:` | ![](https://youthweb.net/vendor/smilies/nadia.gif) | :question: | `` | `nadia.gif`
-`:bball:` | ![](https://youthweb.net/vendor/smilies/baseball.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C0.png?v=1.2.4) | `:basketball:` | `baseball.gif`
+`:bball:` | ![](https://youthweb.net/vendor/smilies/baseball.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C0.png?v=1.2.4) | `:
+:` | `baseball.gif`
 `:eis:` | ![](https://youthweb.net/vendor/smilies/eis.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F366.png?v=1.2.4) | `:icecream:` | `eis.gif`
 `:geige:` | ![](https://youthweb.net/vendor/smilies/gaige.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3BB.png?v=1.2.4) | `:violin:` | `gaige.gif`
 `:qflöte:` | ![](https://youthweb.net/vendor/smilies/querfloete.gif) | :question: | `` | `querfloete.gif`
@@ -365,7 +366,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:blackb:` | ![](https://youthweb.net/vendor/smilies/82.gif) | :question: | `` | `82.gif`
 `:koko:` | ![](https://youthweb.net/vendor/smilies/c010.gif) | :question: | `` | `c010.gif`
 `:bahnhof:` | ![](https://youthweb.net/vendor/smilies/bahnhof.gif) | :question: | `` | `bahnhof.gif`
-`:basketball:` | ![](https://youthweb.net/vendor/smilies/basketball.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/26f9.png?v=1.2.4) | :basketball_player: | `basketball.gif`
+`:basketball:` | ![](https://youthweb.net/vendor/smilies/basketball.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/26f9.png?v=1.2.4) | `:basketball_player:` | `basketball.gif`
 `:boxer1:` | ![](https://youthweb.net/vendor/smilies/boxer.gif) | :question: | `` | `boxer.gif`
 `:gitarre:` | ![](https://youthweb.net/vendor/smilies/gittare.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3B8.png?v=1.2.4) | `:guitar:` | `gittare.gif`
 `:hand:` | ![](https://youthweb.net/vendor/smilies/haendedruck.gif) | :question: | `` | `haendedruck.gif`
