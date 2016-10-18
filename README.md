@@ -57,7 +57,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:gg:` | ![](https://youthweb.net/vendor/smilies/gg.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F600.png?v=1.2.4) | `:grinning:` | `gg.gif`
 `:king:` | ![](https://youthweb.net/vendor/smilies/king.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F451.png?v=1.2.4) | `:crown:` | `king.gif`
 `:krach:` | ![](https://youthweb.net/vendor/smilies/Krach.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F621.png?v=1.2.4) | `:rage:` | `Krach.gif`
-`:kreisen:` | ![](https://youthweb.net/vendor/smilies/kreisen.gif) | :question: | `` | `kreisen.gif`
+`:kreisen:` | ![](https://youthweb.net/vendor/smilies/kreisen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F643.png?v=1.2.4) | `:upside_down:` | `kreisen.gif`
 `:lol:` | ![](https://youthweb.net/vendor/smilies/lol.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F606.png?v=1.2.4) | `:laughing:` | `lol.gif`
 `:leaa:` | ![](https://youthweb.net/vendor/smilies/smilie_girl_151.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/270C.png?v=1.2.4)![](http://cdn.jsdelivr.net/emojione/assets/png/1F600.png?v=1.2.4) | `:v::grinning:` | `smilie_girl_151.gif`
 `:esta:` | ![](https://youthweb.net/vendor/smilies/496.gif) | :question: | `` | `496.gif`
