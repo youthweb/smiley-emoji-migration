@@ -13,7 +13,7 @@ Wir planen, die Emojis von [emojione.com](http://emojione.com) auf Youthweb zu v
 Wenn alle mit anpacken, geht es schneller. Wenn du uns helfen möchtest, die entsprechenden Emojis zu finden, dann kannst du folgendes machen:
 
 1. Guck in der Liste unten, ob es ein Smiley gibt, das noch kein Emoji hat.
-2. Suche auf der [Emojione Demoseite](http://www.emojione.com/demo) nach einem Emoji, dass dem Smiley am ähnlichsten ist.
+2. Suche auf der [Emojione Demoseite](http://www.emojione.com/demo) nach einem Emoji, das dem Smiley am ähnlichsten ist.
 3. Bearbeite die Liste und schick uns einen Pull-Request (benötigt einen Github-Account).
 
 Bitte trage das Emoji als Bild (`![](http://cdn.jsdelivr.net/emojione/assets/png/1F3A3.png?v=1.2.4)`) und als Shortcode (`:fishing_pole_and_fish:`) ein, damit man die Bilder besser vergleichen kann. Die Url zu den Emoji-Bildern findest du auf der [Emojione Demoseite](http://www.emojione.com/demo).
@@ -88,8 +88,8 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:sdu8:` | ![](https://youthweb.net/vendor/smilies/coolkaugummi.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F60E.png?v=1.2.4) | `:sunglasses:` | `coolkaugummi.gif`
 `:arab:` | ![](https://youthweb.net/vendor/smilies/arab.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F473.png?v=1.2.4) | `:man_with_turban:` | `arab.gif`
 `:mcdonalds:` | ![](https://youthweb.net/vendor/smilies/mcdonald.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F354.png?v=1.2.4)![](http://cdn.jsdelivr.net/emojione/assets/png/1F35F.png?v=1.2.4) | `:hamburger::fries:` | `mcdonald.gif`
-`:boxen:` | ![](https://youthweb.net/vendor/smilies/boxxen.gif) | !()[http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4] | `:punch:` | `boxxen.gif`
-`:verrückt:` | ![](https://youthweb.net/vendor/smilies/verrueckt.gif) | !()[http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4] | `:punch:` | `verrueckt.gif`
+`:boxen:` | ![](https://youthweb.net/vendor/smilies/boxxen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4) | `:punch:` | `boxxen.gif`
+`:verrückt:` | ![](https://youthweb.net/vendor/smilies/verrueckt.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4) | `:punch:` | `verrueckt.gif`
 `:urlaub:` | ![](https://youthweb.net/vendor/smilies/strand.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C4.png?v=1.2.4) | `:surfer:` | `strand.gif`
 `:victory:` | ![](https://youthweb.net/vendor/smilies/b025.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/270C.png?v=1.2.4) | `:v:` | `b025.gif`
 `:liebesbrief:` | ![](https://youthweb.net/vendor/smilies/liebesbrief.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F48C.png?v=1.2.4) | `:love_letter:` | `liebesbrief.gif`
