@@ -115,7 +115,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:eingebildet:` | ![](https://youthweb.net/vendor/smilies/eingebildet.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F633.png?v=1.2.4) | `:flushed:` | `eingebildet.gif`
 `:bipa:` | ![](https://youthweb.net/vendor/smilies/spassbremse.gif) | :question: | `` | `spassbremse.gif`
 `:gewalt:` | ![](https://youthweb.net/vendor/smilies/Gewalt.gif) | :question: | `` | `Gewalt.gif`
-`:kopfschlag:` | ![](https://youthweb.net/vendor/smilies/Kopfschlag.gif) | :question: | `` | `Kopfschlag.gif`
+`:kopfschlag:` | ![](https://youthweb.net/vendor/smilies/Kopfschlag.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1f926.png?v=1.2.4) | `:face_palm:` | `Kopfschlag.gif`
 `:look:` | ![](https://youthweb.net/vendor/smilies/atanz2.gif) | :question: | `` | `atanz2.gif`
 `:noterror:` | ![](https://youthweb.net/vendor/smilies/noterror.gif) | :question: | `` | `noterror.gif`
 `:schleimer:` | ![](https://youthweb.net/vendor/smilies/schleimer.gif) | :question: | `` | `schleimer.gif`
