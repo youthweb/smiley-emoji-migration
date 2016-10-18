@@ -365,7 +365,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:blackb:` | ![](https://youthweb.net/vendor/smilies/82.gif) | :question: | `` | `82.gif`
 `:koko:` | ![](https://youthweb.net/vendor/smilies/c010.gif) | :question: | `` | `c010.gif`
 `:bahnhof:` | ![](https://youthweb.net/vendor/smilies/bahnhof.gif) | :question: | `` | `bahnhof.gif`
-`:basketball:` | ![](https://youthweb.net/vendor/smilies/basketball.gif) | :question: | `` | `basketball.gif`
+`:basketball:` | ![](https://youthweb.net/vendor/smilies/basketball.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/26f9.png?v=1.2.4) | :basketball_player: | `basketball.gif`
 `:boxer1:` | ![](https://youthweb.net/vendor/smilies/boxer.gif) | :question: | `` | `boxer.gif`
 `:gitarre:` | ![](https://youthweb.net/vendor/smilies/gittare.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3B8.png?v=1.2.4) | `:guitar:` | `gittare.gif`
 `:hand:` | ![](https://youthweb.net/vendor/smilies/haendedruck.gif) | :question: | `` | `haendedruck.gif`
