@@ -345,8 +345,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:keks:` | ![](https://youthweb.net/vendor/smilies/keks.gif) | :question: | `` | `keks.gif`
 `:radfahrer:` | ![](https://youthweb.net/vendor/smilies/chiller.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F6B4.png?v=1.2.4) | `:bicyclist:` | `chiller.gif`
 `:nadia:` | ![](https://youthweb.net/vendor/smilies/nadia.gif) | :question: | `` | `nadia.gif`
-`:bball:` | ![](https://youthweb.net/vendor/smilies/baseball.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C0.png?v=1.2.4) | `:
-:` | `baseball.gif`
+`:bball:` | ![](https://youthweb.net/vendor/smilies/baseball.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C0.png?v=1.2.4) | `:basketball:` | `baseball.gif`
 `:eis:` | ![](https://youthweb.net/vendor/smilies/eis.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F366.png?v=1.2.4) | `:icecream:` | `eis.gif`
 `:geige:` | ![](https://youthweb.net/vendor/smilies/gaige.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3BB.png?v=1.2.4) | `:violin:` | `gaige.gif`
 `:qflöte:` | ![](https://youthweb.net/vendor/smilies/querfloete.gif) | :question: | `` | `querfloete.gif`
