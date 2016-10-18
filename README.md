@@ -1,6 +1,6 @@
 # Migration der Smilies zu Emojis
 
-Fortschritt: ![](http://progressed.io/bar/40) (145/363)
+Fortschritt: ![](http://progressed.io/bar/41) (150/363)
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/youthweb/smiley-emoji-migration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
