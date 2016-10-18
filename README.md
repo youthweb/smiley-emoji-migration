@@ -88,8 +88,8 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:sdu8:` | ![](https://youthweb.net/vendor/smilies/coolkaugummi.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F60E.png?v=1.2.4) | `:sunglasses:` | `coolkaugummi.gif`
 `:arab:` | ![](https://youthweb.net/vendor/smilies/arab.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F473.png?v=1.2.4) | `:man_with_turban:` | `arab.gif`
 `:mcdonalds:` | ![](https://youthweb.net/vendor/smilies/mcdonald.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F354.png?v=1.2.4)![](http://cdn.jsdelivr.net/emojione/assets/png/1F35F.png?v=1.2.4) | `:hamburger::fries:` | `mcdonald.gif`
-`:boxen:` | ![](https://youthweb.net/vendor/smilies/boxxen.gif) | ![][http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4] | `:punch:` | `boxxen.gif`
-`:verrückt:` | ![](https://youthweb.net/vendor/smilies/verrueckt.gif) | ![][http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4] | `:punch:` | `verrueckt.gif`
+`:boxen:` | ![](https://youthweb.net/vendor/smilies/boxxen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4) | `:punch:` | `boxxen.gif`
+`:verrückt:` | ![](https://youthweb.net/vendor/smilies/verrueckt.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=1.2.4) | `:punch:` | `verrueckt.gif`
 `:urlaub:` | ![](https://youthweb.net/vendor/smilies/strand.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C4.png?v=1.2.4) | `:surfer:` | `strand.gif`
 `:victory:` | ![](https://youthweb.net/vendor/smilies/b025.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/270C.png?v=1.2.4) | `:v:` | `b025.gif`
 `:liebesbrief:` | ![](https://youthweb.net/vendor/smilies/liebesbrief.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F48C.png?v=1.2.4) | `:love_letter:` | `liebesbrief.gif`
