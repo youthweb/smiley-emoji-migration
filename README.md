@@ -353,7 +353,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:chor:` | ![](https://youthweb.net/vendor/smilies/schief_singen.gif) | :question: | `` | `schief_singen.gif`
 `:luck:` | ![](https://youthweb.net/vendor/smilies/good_luck.gif) | :question: | `` | `good_luck.gif`
 `:otto:` | ![](https://youthweb.net/vendor/smilies/eclipsee_gold_cup.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C6.png?v=1.2.4) | `:trophy:` | `eclipsee_gold_cup.gif`
-`:diddy:` | ![](https://youthweb.net/vendor/smilies/schlagzeug.gif) | :question: | `` | `schlagzeug.gif`
+`:diddy:` | ![](https://youthweb.net/vendor/smilies/schlagzeug.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1f941.png?v=1.2.4) | `:drum:` | `schlagzeug.gif`
 `:isy:` | ![](https://youthweb.net/vendor/smilies/skuchen.gif) | :question: | `` | `skuchen.gif`
 `:alex:` | ![](https://youthweb.net/vendor/smilies/dunce.gif) | :question: | `` | `dunce.gif`
 `:shenok:` | ![](https://youthweb.net/vendor/smilies/hund.gif) | :question: | `` | `hund.gif`
