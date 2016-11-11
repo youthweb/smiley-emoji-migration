@@ -1,8 +1,8 @@
 # Migration der Smilies zu Emojis
 
 Fortschritt: ![](http://progressed.io/bar/41) (150/363)
-[![Build Status](https://travis-ci.org/youthweb/smiley-emoji-migration.svg?branch=master)](https://travis-ci.org/youthweb/smiley-emoji-migration)
 
+[![Build Status](https://travis-ci.org/youthweb/smiley-emoji-migration.svg?branch=master)](https://travis-ci.org/youthweb/smiley-emoji-migration)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/youthweb/smiley-emoji-migration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Auf Youthweb möchten wir in Zukunft Emojis statt der Smilies verwenden. Das macht es später einfacher, Posts und andere Inhalte auch außerhalb von Youthweb (z.B. in einer App) anzuzeigen.
