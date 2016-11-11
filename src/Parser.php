@@ -36,16 +36,17 @@ class Parser
 
 			$parts = explode('|', $line);
 
+			$urls = $this->parseEmojiUrls($parts[2]);
+
 			$entries[] = [
 				'smiley_code' => trim($parts[0], ' `'),
-				'smiley_filename' => trim($parts[4], ' `'),
 				'smiley_url' => trim($parts[1], ' ![]()'),
-				'emoji_urls' => $this->parseEmojiUrls($parts[2]),
+				'smiley_filename' => trim($parts[4], ' `'),
 				'emoji_codes' => $this->parseEmojiCodes($parts[3]),
+				'emoji_urls' => $urls,
+				'emoji_filenames' => $this->parseEmojiFilenames($urls),
 			];
 		}
-
-		//$output = json_encode($entries);
 
 		return $entries;
 	}
@@ -97,5 +98,22 @@ class Parser
 		}
 
 		return $codes;
+	}
+
+	/**
+	 * parse the emoji filenames from urls
+	 */
+	public function parseEmojiFilenames(array $urls)
+	{
+		$filenames = [];
+
+		foreach ($urls as $url)
+		{
+			// Beispiel: http://cdn.jsdelivr.net/emojione/assets/png/1F3B7.png?v=2.2.6
+			$filename = substr($url, 44, -8);
+			$filenames[] = strtolower($filename);
+		}
+
+		return $filenames;
 	}
 }
