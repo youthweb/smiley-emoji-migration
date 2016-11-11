@@ -205,7 +205,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:ruhe:` | ![](https://youthweb.net/vendor/smilies/ruhe.gif) | :question: | `` | `ruhe.gif`
 `:cool:` | ![](https://youthweb.net/vendor/smilies/cool.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F60E.png?v=2.2.6) | `:sunglasses:` | `cool.gif`
 `:manweisetnich:` | ![](https://youthweb.net/vendor/smilies/man_weiset.png) | :question: | `` | `man_weiset.png`
-`:(` | ![](https://youthweb.net/vendor/smilies/frown.gif) | :question: | Fast gleich mit dem Smiley ":-)" - Kann man entfernen! | `frown.gif`
+`:(` | ![](https://youthweb.net/vendor/smilies/frown.gif) | :question: | `` | `frown.gif`
 `:knuddel2:` | ![](https://youthweb.net/vendor/smilies/liebe_061.gif) | :question: | `` | `liebe_061.gif`
 `:denken:` | ![](https://youthweb.net/vendor/smilies/verwirrte_026.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F614.png?v=2.2.6) | `:pensive:` | `verwirrte_026.gif`
 `:denken2:` | ![](https://youthweb.net/vendor/smilies/Denken2.gif) | :question: | `` | `Denken2.gif`

@@ -19,6 +19,9 @@
             <directory suffix="Test.php">tests/</directory>
         </testsuite>
     </testsuites>
+	<listeners>
+		<listener class="PhpunitListener" file="tests/PhpunitListener.php"></listener>
+	</listeners>
     <filter>
         <whitelist>
             <directory suffix=".php">src/</directory>
