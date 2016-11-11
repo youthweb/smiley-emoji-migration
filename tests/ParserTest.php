@@ -163,6 +163,12 @@ class ParserTest extends \PHPUnit_Framework_TestCase
 			}
 		}
 
+		// Prüfe, dass die Anzahl der Urls, Codes und Filenames gleich ist
+		$expected_count = count($entry['emoji_urls']);
+
+		$this->assertCount($expected_count, $entry['emoji_codes']);
+		$this->assertCount($expected_count, $entry['emoji_filenames']);
+
 		// return 'has_emoji' für die Statistik
 		if ( ! empty($entry['emoji_urls']) )
 		{
