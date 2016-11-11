@@ -60,9 +60,9 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:krach:` | ![](https://youthweb.net/vendor/smilies/Krach.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F621.png?v=2.2.6) | `:rage:` | `Krach.gif`
 `:kreisen:` | ![](https://youthweb.net/vendor/smilies/kreisen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F643.png?v=2.2.6) | `:upside_down:` | `kreisen.gif`
 `:lol:` | ![](https://youthweb.net/vendor/smilies/lol.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F606.png?v=2.2.6) | `:laughing:` | `lol.gif`
-`:leaa:` | ![](https://youthweb.net/vendor/smilies/smilie_girl_151.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/270C.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F600.png?v=2.2.6) | `:v::grinning:` | `smilie_girl_151.gif`
+`:leaa:` | ![](https://youthweb.net/vendor/smilies/smilie_girl_151.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/270C.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F600.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/270C.png?v=2.2.6) | `:v::grinning::v:` | `smilie_girl_151.gif`
 `:esta:` | ![](https://youthweb.net/vendor/smilies/496.gif) | :question: | `` | `496.gif`
-`:mecker:` | ![](https://youthweb.net/vendor/smilies/mecker.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F446.png?v=2.2.6) | `:point_up_2:` | `mecker.gif`
+`:mecker:` | ![](https://youthweb.net/vendor/smilies/mecker.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/261d.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1f620.png?v=2.2.6) | `:point_up::angry:` | `mecker.gif`
 `:band:` | ![](https://youthweb.net/vendor/smilies/Band.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3A4.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F3B8.png?v=2.2.6) | `:microphone::guitar:` | `Band.gif`
 `:music:` | ![](https://youthweb.net/vendor/smilies/kopfhoehrer.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3A7.png?v=2.2.6) | `:headphones:` | `kopfhoehrer.gif`
 `:band2:` | ![](https://youthweb.net/vendor/smilies/musicband.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3BB.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F3B8.png?v=2.2.6) | `:violin::guitar:` | `musicband.gif`
@@ -71,9 +71,9 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:birthday3:` | ![](https://youthweb.net/vendor/smilies/birthday3.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F388.png?v=2.2.6) | `:balloon:` | `birthday3.gif`
 `:schulstreit:` | ![](https://youthweb.net/vendor/smilies/059.gif) | :question: | `` | `059.gif`
 `:lesen:` | ![](https://youthweb.net/vendor/smilies/buch.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F4DA.png?v=2.2.6) | `:books:` | `buch.gif`
-`:rofl:` | ![](https://youthweb.net/vendor/smilies/rofl.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F606.png?v=2.2.6) | `:laughing:` | `rofl.gif`
-`:-)` | ![](https://youthweb.net/vendor/smilies/smile0001.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F60A.png?v=2.2.6) | `:blush:` | `smile0001.gif`
-`:super:` | ![](https://youthweb.net/vendor/smilies/489.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F44D.png?v=2.2.6) | `:thumbsup:` | `489.gif`
+`:rofl:` | ![](https://youthweb.net/vendor/smilies/rofl.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F923.png?v=2.2.6) | `:rofl:` | `rofl.gif`
+`:-)` | ![](https://youthweb.net/vendor/smilies/smile0001.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/263A.png?v=2.2.6) | `:relaxed:` | `smile0001.gif`
+`:super:` | ![](https://youthweb.net/vendor/smilies/489.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F609.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F44D.png?v=2.2.6) | `:wink::thumbsup:` | `489.gif`
 `:ww:` | ![](https://youthweb.net/vendor/smilies/222.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F44B.png?v=2.2.6) | `:wave:` | `222.gif`
 `:blinz:` | ![](https://youthweb.net/vendor/smilies/blinkendes_auge.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F609.png?v=2.2.6) | `:wink:` | `blinkendes_auge.gif`
 `:crazy:` | ![](https://youthweb.net/vendor/smilies/paranoid.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F61C.png?v=2.2.6) | `:stuck_out_tongue_winking_eye:` | `paranoid.gif`
