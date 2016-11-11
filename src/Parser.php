@@ -36,9 +36,6 @@ class Parser
 
 			$parts = explode('|', $line);
 
-
-			// TODO: Es können mehrere Emojis angegeben sein,
-			// daher müssen emoji_urls und emoji_codes in Arrays geparst werden
 			$entries[] = [
 				'smiley_code' => trim($parts[0], ' `'),
 				'smiley_filename' => trim($parts[4], ' `'),
@@ -80,10 +77,25 @@ class Parser
 	/**
 	 * parse the emoji codes
 	 */
-	private function parseEmojiCodes($string)
+	public function parseEmojiCodes($string)
 	{
-		return [
-			trim($string, ' `'),
-		];
+		$codes = [];
+
+		$string = trim($string);
+		$string = trim($string, ' `');
+
+		if ($string === '')
+		{
+			return $codes;
+		}
+
+		$parts = explode('::', $string);
+
+		foreach ($parts as $part)
+		{
+			$codes[] = sprintf(':%s:', trim($part, ' :'));
+		}
+
+		return $codes;
 	}
 }

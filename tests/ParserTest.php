@@ -49,6 +49,38 @@ class ParserTest extends \PHPUnit_Framework_TestCase
 	}
 
 	/**
+	 * @dataProvider EmojiCodesProvider
+	 */
+	public function testParseEmojiCodes($string, $expected)
+	{
+		$parser = new Parser;
+
+		$this->assertSame($expected, $parser->parseEmojiCodes($string));
+	}
+
+	/**
+	 * EmojiCodesProvider
+	 */
+	public function EmojiCodesProvider()
+	{
+		return [
+			['', []],
+			['``', []],
+			[' `` ', []],
+			['`:angry:`', [':angry:']],
+			[' `:angry:` ', [':angry:']],
+			[
+				'`:worried::thumbsdown:`',
+				[':worried:', ':thumbsdown:'],
+			],
+			[
+				'`:computer::angry::punch:`',
+				[':computer:', ':angry:', ':punch:'],
+			],
+		];
+	}
+
+	/**
 	 * @dataProvider EntryProvider
 	 */
 	public function testEntryAttributes($entry)
