@@ -1,6 +1,6 @@
 # Migration der Smilies zu Emojis
 
-Fortschritt: ![](http://progressed.io/bar/41) (150/363)
+Fortschritt: ![](http://progressed.io/bar/42) (153/363)
 
 [![Build Status](https://travis-ci.org/youthweb/smiley-emoji-migration.svg?branch=master)](https://travis-ci.org/youthweb/smiley-emoji-migration)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/youthweb/smiley-emoji-migration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -77,9 +77,9 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:ww:` | ![](https://youthweb.net/vendor/smilies/222.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F44B.png?v=2.2.6) | `:wave:` | `222.gif`
 `:blinz:` | ![](https://youthweb.net/vendor/smilies/blinkendes_auge.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F609.png?v=2.2.6) | `:wink:` | `blinkendes_auge.gif`
 `:crazy:` | ![](https://youthweb.net/vendor/smilies/paranoid.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F61C.png?v=2.2.6) | `:stuck_out_tongue_winking_eye:` | `paranoid.gif`
-`:morgen:` | ![](https://youthweb.net/vendor/smilies/morgen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F307.png?v=2.2.6) | `:city_sunset:` | `morgen.gif`
+`:morgen:` | ![](https://youthweb.net/vendor/smilies/morgen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F634.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F304.png?v=2.2.6) | `:sleeping::sunrise_over_mountains:` | `morgen.gif`
 `:giveup:` | ![](https://youthweb.net/vendor/smilies/giveup.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3F3.png?v=2.2.6) | `:flag_white:` | `giveup.gif`
-`:kruecken:` | ![](https://youthweb.net/vendor/smilies/bhindi.gif) | :question: | `` | `bhindi.gif`
+`:kruecken:` | ![](https://youthweb.net/vendor/smilies/bhindi.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F915.png?v=2.2.6) | `:head_bandage:` | `bhindi.gif`
 `:essen:` | ![](https://youthweb.net/vendor/smilies/39[1].gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F374.png?v=2.2.6) | `:fork_and_knife:` | `39[1].gif`
 `:fernsehn:` | ![](https://youthweb.net/vendor/smilies/fernsehen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F6CB.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F4FA.png?v=2.2.6) | `:couch::tv: ` | `fernsehen.gif`
 `:duschen:` | ![](https://youthweb.net/vendor/smilies/00001783.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F6BF.png?v=2.2.6) | `:shower:` | `00001783.gif`
@@ -89,7 +89,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:sdu8:` | ![](https://youthweb.net/vendor/smilies/coolkaugummi.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F60E.png?v=2.2.6) | `:sunglasses:` | `coolkaugummi.gif`
 `:arab:` | ![](https://youthweb.net/vendor/smilies/arab.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F473.png?v=2.2.6) | `:man_with_turban:` | `arab.gif`
 `:mcdonalds:` | ![](https://youthweb.net/vendor/smilies/mcdonald.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F354.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F35F.png?v=2.2.6) | `:hamburger::fries:` | `mcdonald.gif`
-`:boxen:` | ![](https://youthweb.net/vendor/smilies/boxxen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=2.2.6) | `:punch:` | `boxxen.gif`
+`:boxen:` | ![](https://youthweb.net/vendor/smilies/boxxen.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F94A.png?v=2.2.6) | `:boxing_glove:` | `boxxen.gif`
 `:verrückt:` | ![](https://youthweb.net/vendor/smilies/verrueckt.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F44A.png?v=2.2.6) | `:punch:` | `verrueckt.gif`
 `:urlaub:` | ![](https://youthweb.net/vendor/smilies/strand.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F3C4.png?v=2.2.6) | `:surfer:` | `strand.gif`
 `:victory:` | ![](https://youthweb.net/vendor/smilies/b025.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/270C.png?v=2.2.6) | `:v:` | `b025.gif`
@@ -100,7 +100,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:waschen2:` | ![](https://youthweb.net/vendor/smilies/00001797[1].gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F455.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F6BF.png?v=2.2.6) | `:shirt::shower:` | `00001797[1].gif`
 `:koch:` | ![](https://youthweb.net/vendor/smilies/Koch.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F373.png?v=2.2.6) | `:egg:` | `Koch.gif`
 `:baden:` | ![](https://youthweb.net/vendor/smilies/00001779[1].gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F6C0.png?v=2.2.6) | `:bath:` | `00001779[1].gif`
-`:troesten:` | ![](https://youthweb.net/vendor/smilies/troesten.gif) | :question: | `` | `troesten.gif`
+`:troesten:` | ![](https://youthweb.net/vendor/smilies/troesten.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F917.png?v=2.2.6) | `:hugging:` | `troesten.gif`
 `:bügeln:` | ![](https://youthweb.net/vendor/smilies/buegeln.gif) | :question: | `` | `buegeln.gif`
 `:respekt:` | ![](https://youthweb.net/vendor/smilies/288.gif) | :question: | `` | `288.gif`
 `:naund:` | ![](https://youthweb.net/vendor/smilies/00000673.gif) | :question: | `` | `00000673.gif`
@@ -108,7 +108,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:ethe:` | ![](https://youthweb.net/vendor/smilies/blumen.gif) | :question: | `` | `blumen.gif`
 `:pascholti:` | ![](https://youthweb.net/vendor/smilies/paschol.png) | :question: | `` | `paschol.png`
 `:love1:` | ![](https://youthweb.net/vendor/smilies/Love1.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F491.png?v=2.2.6) | `:couple_with_heart:` | `Love1.gif`
-`:boxen2:` | ![](https://youthweb.net/vendor/smilies/box.gif) | :question: | `` | `box.gif`
+`:boxen2:` | ![](https://youthweb.net/vendor/smilies/box.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F93C.png?v=2.2.6) | `:wrestlers:` | `box.gif`
 `:aldi:` | ![](https://youthweb.net/vendor/smilies/aldi.gif) | :question: | `` | `aldi.gif`
 `:mama:` | ![](https://youthweb.net/vendor/smilies/mama.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F469.png?v=2.2.6) | `:woman:` | `mama.gif`
 `:bye:` | ![](https://youthweb.net/vendor/smilies/fol.gif) | ![](http://cdn.jsdelivr.net/emojione/assets/png/1F44B.png?v=2.2.6) | `:wave:` | `fol.gif`
