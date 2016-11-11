@@ -25,9 +25,22 @@ class ParserTest extends \PHPUnit_Framework_TestCase
 	public function testEntryAttributes($entry)
 	{
 		$this->assertTrue(is_array($entry));
+		$this->assertSame(
+			[
+				'smiley_code',
+				'smiley_filename',
+				'smiley_url',
+				'emoji_urls',
+				'emoji_codes',
+			],
+			array_keys($entry)
+		);
+
+		$this->assertTrue(is_array($entry['emoji_urls']));
+		$this->assertTrue(is_array($entry['emoji_codes']));
 
 		// return 'has_emoji' für die Statistik
-		if ( $entry['emoji_codes'] !== '' )
+		if ( $entry['emoji_codes'][0] !== '' )
 		{
 			return 'has_emoji';
 		}

@@ -12,6 +12,9 @@ namespace Youthweb\SmileyEmojiMigration;
 
 class Parser
 {
+	/**
+	 * parse the README.md
+	 */
 	public function parseReadme()
 	{
 		$file_path = realpath(__DIR__) . \DIRECTORY_SEPARATOR . '..' . \DIRECTORY_SEPARATOR . 'README.md';
@@ -40,13 +43,33 @@ class Parser
 				'smiley_code' => trim($parts[0], ' `'),
 				'smiley_filename' => trim($parts[4], ' `'),
 				'smiley_url' => trim($parts[1], ' ![]()'),
-				'emoji_urls' => trim($parts[2], ' ![]()'),
-				'emoji_codes' => trim($parts[3], ' `'),
+				'emoji_urls' => $this->parseUrls($parts[2]),
+				'emoji_codes' => $this->parseCodes($parts[3]),
 			];
 		}
 
 		//$output = json_encode($entries);
 
 		return $entries;
+	}
+
+	/**
+	 * parse the emoji urls
+	 */
+	private function parseUrls($string)
+	{
+		return [
+			trim($string, ' ![]()'),
+		];
+	}
+
+	/**
+	 * parse the emoji codes
+	 */
+	private function parseCodes($string)
+	{
+		return [
+			trim($string, ' `'),
+		];
 	}
 }
