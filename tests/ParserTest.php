@@ -40,7 +40,7 @@ class ParserTest extends \PHPUnit_Framework_TestCase
 		$this->assertTrue(is_array($entry['emoji_codes']));
 
 		// return 'has_emoji' für die Statistik
-		if ( $entry['emoji_codes'][0] !== '' )
+		if ( ! empty($entry['emoji_urls']) )
 		{
 			return 'has_emoji';
 		}
@@ -63,5 +63,34 @@ class ParserTest extends \PHPUnit_Framework_TestCase
 		}
 
 		return $return;
+	}
+
+	/**
+	 * @dataProvider EmojiUrlsProvider
+	 */
+	public function testParseEmojiUrls($string, $expected)
+	{
+		$parser = new Parser;
+
+		$this->assertSame($expected, $parser->parseEmojiUrls($string));
+	}
+
+	/**
+	 * EmojiUrlsProvider
+	 */
+	public function EmojiUrlsProvider()
+	{
+		return [
+			['', []],
+			[':question:', []],
+			[
+				'![](http://cdn.jsdelivr.net/emojione/assets/png/1F60A.png?v=2.2.6)',
+				['http://cdn.jsdelivr.net/emojione/assets/png/1F60A.png?v=2.2.6']
+			],
+			[
+				'![](http://cdn.jsdelivr.net/emojione/assets/png/1F60A.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F44D.png?v=2.2.6)',
+				['http://cdn.jsdelivr.net/emojione/assets/png/1F60A.png?v=2.2.6', 'http://cdn.jsdelivr.net/emojione/assets/png/1F44D.png?v=2.2.6']
+			],
+		];
 	}
 }

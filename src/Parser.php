@@ -43,8 +43,8 @@ class Parser
 				'smiley_code' => trim($parts[0], ' `'),
 				'smiley_filename' => trim($parts[4], ' `'),
 				'smiley_url' => trim($parts[1], ' ![]()'),
-				'emoji_urls' => $this->parseUrls($parts[2]),
-				'emoji_codes' => $this->parseCodes($parts[3]),
+				'emoji_urls' => $this->parseEmojiUrls($parts[2]),
+				'emoji_codes' => $this->parseEmojiCodes($parts[3]),
 			];
 		}
 
@@ -56,17 +56,31 @@ class Parser
 	/**
 	 * parse the emoji urls
 	 */
-	private function parseUrls($string)
+	public function parseEmojiUrls($string)
 	{
-		return [
-			trim($string, ' ![]()'),
-		];
+		$urls = [];
+
+		$string = trim($string);
+
+		if ($string === ':question:' or $string === '')
+		{
+			return $urls;
+		}
+
+		$parts = explode(')![](', $string);
+
+		foreach ($parts as $part)
+		{
+			$urls[] = trim($part, ' ![]()');
+		}
+
+		return $urls;
 	}
 
 	/**
 	 * parse the emoji codes
 	 */
-	private function parseCodes($string)
+	private function parseEmojiCodes($string)
 	{
 		return [
 			trim($string, ' `'),
