@@ -45,6 +45,7 @@ class Parser
 				'emoji_codes' => $this->parseEmojiCodes($parts[3]),
 				'emoji_urls' => $urls,
 				'emoji_filenames' => $this->parseEmojiFilenames($urls),
+				'unicodes' => $this->parseEmojiUnicode($urls),
 			];
 		}
 
@@ -115,5 +116,22 @@ class Parser
 		}
 
 		return $filenames;
+	}
+
+	/**
+	 * parse the emoji unicode from urls
+	 */
+	public function parseEmojiUnicode(array $urls)
+	{
+		$unicodes = [];
+
+		foreach ($urls as $url)
+		{
+			// Beispiel: http://cdn.jsdelivr.net/emojione/assets/png/1F3B7.png?v=2.2.6
+			$unicode = substr($url, 44, -12);
+			$unicodes[] = strtolower($unicode);
+		}
+
+		return $unicodes;
 	}
 }

@@ -122,6 +122,7 @@ class ParserTest extends \PHPUnit_Framework_TestCase
 				'emoji_codes',
 				'emoji_urls',
 				'emoji_filenames',
+				'unicodes',
 			],
 			array_keys($entry)
 		);
