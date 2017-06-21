@@ -38,12 +38,12 @@ class ParserTest extends \PHPUnit_Framework_TestCase
 			['', []],
 			[':question:', []],
 			[
-				'![](http://cdn.jsdelivr.net/emojione/assets/png/1F60A.png?v=2.2.6)',
-				['http://cdn.jsdelivr.net/emojione/assets/png/1F60A.png?v=2.2.6']
+				'![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f60a.png)',
+				['https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f60a.png']
 			],
 			[
-				'![](http://cdn.jsdelivr.net/emojione/assets/png/1F60A.png?v=2.2.6)![](http://cdn.jsdelivr.net/emojione/assets/png/1F44D.png?v=2.2.6)',
-				['http://cdn.jsdelivr.net/emojione/assets/png/1F60A.png?v=2.2.6', 'http://cdn.jsdelivr.net/emojione/assets/png/1F44D.png?v=2.2.6']
+				'![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f60a.png)![](http://cdn.jsdelivr.net/emojione/assets/png/1f44d.png)',
+				['https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f60a.png', 'http://cdn.jsdelivr.net/emojione/assets/png/1f44d.png']
 			],
 		];
 	}
@@ -98,11 +98,11 @@ class ParserTest extends \PHPUnit_Framework_TestCase
 		return [
 			[[], []],
 			[
-				['http://cdn.jsdelivr.net/emojione/assets/png/1F1E9-1F1EA.png?v=2.2.6'],
+				['https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f1e9-1f1ea.png'],
 				['1f1e9-1f1ea.png'],
 			],
 			[
-				['http://cdn.jsdelivr.net/emojione/assets/png/1F303.png?v=2.2.6', 'http://cdn.jsdelivr.net/emojione/assets/png/1F3B7.png?v=2.2.6'],
+				['https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f303.png', 'https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f3b7.png'],
 				['1f303.png', '1f3b7.png'],
 			],
 		];
@@ -132,7 +132,7 @@ class ParserTest extends \PHPUnit_Framework_TestCase
 
 		if ( ! empty($entry['emoji_urls']) )
 		{
-			$url_regex = '~^http:\/\/cdn\.jsdelivr\.net\/emojione\/assets\/png\/[a-z0-9-]{4,}\.png\?v=2\.2\.6$~is';
+			$url_regex = '~^https:\/\/cdn\.jsdelivr\.net\/emojione\/assets\/3\.0\/png/64\/[a-z0-9-]{4,}\.png$~is';
 
 			foreach ($entry['emoji_urls'] as $url)
 			{

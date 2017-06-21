@@ -110,8 +110,8 @@ class Parser
 
 		foreach ($urls as $url)
 		{
-			// Beispiel: http://cdn.jsdelivr.net/emojione/assets/png/1F3B7.png?v=2.2.6
-			$filename = substr($url, 44, -8);
+			// Beispiel: https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f3b7.png
+			$filename = substr($url, 52);
 			$filenames[] = strtolower($filename);
 		}
 
@@ -127,8 +127,8 @@ class Parser
 
 		foreach ($urls as $url)
 		{
-			// Beispiel: http://cdn.jsdelivr.net/emojione/assets/png/1F3B7.png?v=2.2.6
-			$unicode = substr($url, 44, -12);
+			// Beispiel: https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f3b7.png
+			$unicode = substr($url, 52);
 			$unicodes[] = strtolower($unicode);
 		}
 
