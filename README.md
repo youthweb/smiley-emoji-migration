@@ -5,7 +5,7 @@ Fortschritt: ![](http://progressed.io/bar/42) (153/363)
 [![Build Status](https://travis-ci.org/youthweb/smiley-emoji-migration.svg?branch=master)](https://travis-ci.org/youthweb/smiley-emoji-migration)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/youthweb/smiley-emoji-migration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Auf Youthweb möchten wir in Zukunft Emojis statt der Smilies verwenden. Das macht es später einfacher, Posts und andere Inhalte auch außerhalb von Youthweb (z.B. in einer App) anzuzeigen.
+Auf Youthweb möchten wir in Zukunft Emojis statt der Smilies verwenden. Das macht es einfacher, Posts und andere Inhalte auch außerhalb von Youthweb (z.B. in einer App) anzuzeigen.
 
 Wir planen, die Emojis von [emojione.com](http://emojione.com) auf Youthweb zu verwenden. Die Umsetzung wird noch etwas Zeit brauchen, aber wir benötigen zur Planung vorab eine Liste, gegen welche Emojis die Smilies ersetzt werden sollen. Wenn wir das nicht machen und schon jetzt auf Emojis umsteigen, machen wir alte Forenposts und andere Inhalte kaputt, die noch auf die Smilies aufbauen.
 
@@ -13,9 +13,10 @@ Wir planen, die Emojis von [emojione.com](http://emojione.com) auf Youthweb zu v
 
 Wenn alle mit anpacken, geht es schneller. Wenn du uns helfen möchtest, die entsprechenden Emojis zu finden, dann kannst du folgendes machen:
 
-1. Guck in der Liste unten, ob es ein Smiley gibt, das noch kein Emoji hat.
-2. Suche auf der [Emojione Demoseite](http://www.emojione.com/demo) nach einem Emoji, das dem Smiley am ähnlichsten ist.
-3. Bearbeite die Liste und schick uns einen Pull-Request (benötigt einen Github-Account).
+1. Speichere die [EmojiIndex.html](https://raw.githubusercontent.com/youthweb/smiley-emoji-migration/master/EmojiIndex.html) auf deinem Rechner und öffne sie in einem Browser.
+2. Suche in der Liste unten nach einem Smiley, das noch kein Emoji hat.
+3. Suche in der `EmojiIndex.html` nach einem (oder mehrere) Emoji, das dem Smiley am ähnlichsten ist.
+4. Bearbeite die Liste und schick uns einen Pull-Request (benötigt einen Github-Account).
 
 Bitte trage das Emoji als Bild (`![](http://cdn.jsdelivr.net/emojione/assets/png/1F3A3.png?v=2.2.6)`) und als Shortcode (`:fishing_pole_and_fish:`) ein, damit man die Bilder besser vergleichen kann. Die Url zu den Emoji-Bildern findest du auf der [Emojione Demoseite](http://www.emojione.com/demo).
 
