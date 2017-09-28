@@ -62,7 +62,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:kreisen:` | ![](https://youthweb.net/dist/smilies/kreisen.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f643.png) | `:upside_down:` | `kreisen.gif`
 `:lol:` | ![](https://youthweb.net/dist/smilies/lol.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f606.png) | `:laughing:` | `lol.gif`
 `:leaa:` | ![](https://youthweb.net/dist/smilies/smilie_girl_151.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/270c.png)![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f600.png)![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/270c.png) | `:v::grinning::v:` | `smilie_girl_151.gif`
-`:esta:` | ![](https://youthweb.net/dist/smilies/496.gif) | :question: | `` | `496.gif`
+`:esta:` | ![](https://youthweb.net/dist/smilies/496.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f62c.png)![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f6b0.png) | `:teeth::potable_water:` | `496.gif`
 `:mecker:` | ![](https://youthweb.net/dist/smilies/mecker.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/261d.png)![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f620.png) | `:point_up::angry:` | `mecker.gif`
 `:band:` | ![](https://youthweb.net/dist/smilies/Band.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f3a4.png)![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f3b8.png) | `:microphone::guitar:` | `Band.gif`
 `:music:` | ![](https://youthweb.net/dist/smilies/kopfhoehrer.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f3a7.png) | `:headphones:` | `kopfhoehrer.gif`
