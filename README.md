@@ -154,7 +154,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:sboard:` | ![](https://youthweb.net/dist/smilies/snowboard.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f3c2.png) | `:snowboarder:` | `snowboard.gif`
 `:schleimer2:` | ![](https://youthweb.net/dist/smilies/nerd.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f913.png) | :nerd: | `nerd.gif`
 `:boxer:` | ![](https://youthweb.net/dist/smilies/boxed3_h4h.gif) | :question: | `` | `boxed3_h4h.gif`
-`:ala:` | ![](https://youthweb.net/dist/smilies/ala.gif) | :question: | `` | `ala.gif`
+`:ala:` | ![](https://youthweb.net/dist/smilies/ala.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f54c.png) | `:mosque:` | `ala.gif`
 `:bike:` | ![](https://youthweb.net/dist/smilies/biker_h4h.gif) | :question: | `` | `biker_h4h.gif`
 `:lecker:` | ![](https://youthweb.net/dist/smilies/licklips.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f60b.png) | `:yum:` | `licklips.gif`
 `:schlafen:` | ![](https://youthweb.net/dist/smilies/456.gif) | :question: | `` | `456.gif`
