@@ -155,7 +155,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:schleimer2:` | ![](https://youthweb.net/dist/smilies/nerd.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f913.png) | :nerd: | `nerd.gif`
 `:boxer:` | ![](https://youthweb.net/dist/smilies/boxed3_h4h.gif) | :question: | `` | `boxed3_h4h.gif`
 `:ala:` | ![](https://youthweb.net/dist/smilies/ala.gif) | :question: | `` | `ala.gif`
-`:bike:` | ![](https://youthweb.net/dist/smilies/biker_h4h.gif) | :question: | `` | `biker_h4h.gif`
+`:bike:` | ![](https://youthweb.net/dist/smilies/biker_h4h.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f3cd.png) | `:motorcycle:` | `biker_h4h.gif`
 `:lecker:` | ![](https://youthweb.net/dist/smilies/licklips.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f60b.png) | `:yum:` | `licklips.gif`
 `:schlafen:` | ![](https://youthweb.net/dist/smilies/456.gif) | :question: | `` | `456.gif`
 `:rappen:` | ![](https://youthweb.net/dist/smilies/rappen.gif) | :question: | `` | `rappen.gif`
