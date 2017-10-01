@@ -84,7 +84,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:essen:` | ![](https://youthweb.net/dist/smilies/39[1].gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f374.png) | `:fork_and_knife:` | `39[1].gif`
 `:fernsehn:` | ![](https://youthweb.net/dist/smilies/fernsehen.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f6cb.png)![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f4fa.png) | `:couch::tv: ` | `fernsehen.gif`
 `:duschen:` | ![](https://youthweb.net/dist/smilies/00001783.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f6bf.png) | `:shower:` | `00001783.gif`
-`:abwasch:` | ![](https://youthweb.net/dist/smilies/abwasch.gif) | :question: | `` | `abwasch.gif`
+`:abwasch:` | ![](https://youthweb.net/dist/smilies/abwasch.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f37d.png)![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f6b0.png) | `:fork::potable_water:` | `abwasch.gif`
 `:arbeiten:` | ![](https://youthweb.net/dist/smilies/00001777.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f528.png) | `:hammer:` | `00001777.gif`
 `:toilette:` | ![](https://youthweb.net/dist/smilies/00001798.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f6bd.png) | `:toilet:` | `00001798.gif`
 `:sdu8:` | ![](https://youthweb.net/dist/smilies/coolkaugummi.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f60e.png) | `:sunglasses:` | `coolkaugummi.gif`
