@@ -217,7 +217,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:foto:` | ![](https://youthweb.net/dist/smilies/fotosmilie.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f4f8.png) | `:camera_flash:` | `fotosmilie.gif`
 `:sauer2:` | ![](https://youthweb.net/dist/smilies/sauer.gif) | :question: | `` | `sauer.gif`
 `:krankes:` | ![](https://youthweb.net/dist/smilies/Krankes.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f48a.png) | `:pill:` | `Krankes.gif`
-`:doof1:` | ![](https://youthweb.net/dist/smilies/bin_ich_doof.gif) | :question: | `` | `bin_ich_doof.gif`
+`:doof1:` | ![](https://youthweb.net/dist/smilies/bin_ich_doof.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f926-2642.png) | `:man_facepalming:` | `bin_ich_doof.gif`
 `:car:` | ![](https://youthweb.net/dist/smilies/car.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f697.png) | `:red_car:` | `car.gif`
 `:wayne:` | ![](https://youthweb.net/dist/smilies/wayne_interessierts.gif) | :question: | `` | `wayne_interessierts.gif`
 `:snowboard:` | ![](https://youthweb.net/dist/smilies/snowboardler.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f3c2.png) | `:snowboarder:` | `snowboardler.gif`
