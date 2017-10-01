@@ -162,7 +162,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:ohnmacht:` | ![](https://youthweb.net/dist/smilies/Ohnmacht1.gif) | :question: | `` | `Ohnmacht1.gif`
 `:wersucht:` | ![](https://youthweb.net/dist/smilies/wrsucht.gif) | :question: | `` | `wrsucht.gif`
 `:insel:` | ![](https://youthweb.net/dist/smilies/Insel.gif) | :question: | `` | `Insel.gif`
-`:lügen:` | ![](https://youthweb.net/dist/smilies/pinoccio.gif) | :question: | `` | `pinoccio.gif`
+`:lügen:` | ![](https://youthweb.net/dist/smilies/pinoccio.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f925.png) | `:lying:` | `pinoccio.gif`
 `:freak:` | ![](https://youthweb.net/dist/smilies/smiley-channel.de_schilder173.gif) | :question: | `` | `smiley-channel.de_schilder173.gif`
 `:schwein:` | ![](https://youthweb.net/dist/smilies/smiley-channel.de_schilder195.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f437.png) | `:pig:` | `smiley-channel.de_schilder195.gif`
 `:lol4:` | ![](https://youthweb.net/dist/smilies/smiley-channel.de_schilder048.gif) | :question: | `` | `smiley-channel.de_schilder048.gif`
