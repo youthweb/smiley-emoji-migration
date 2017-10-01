@@ -70,7 +70,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:nervensaege:` | ![](https://youthweb.net/dist/smilies/nervensaege.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f3bb.png) | `:violin:` | `nervensaege.gif`
 `:dj:` | ![](https://youthweb.net/dist/smilies/dj.gif) | :question: | `` | `dj.gif`
 `:birthday3:` | ![](https://youthweb.net/dist/smilies/birthday3.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f388.png) | `:balloon:` | `birthday3.gif`
-`:schulstreit:` | ![](https://youthweb.net/dist/smilies/059.gif) | :question: | `` | `059.gif`
+`:schulstreit:` | ![](https://youthweb.net/dist/smilies/059.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f595.png) | `:reversed_v:` | `059.gif`
 `:lesen:` | ![](https://youthweb.net/dist/smilies/buch.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f4da.png) | `:books:` | `buch.gif`
 `:rofl:` | ![](https://youthweb.net/dist/smilies/rofl.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f923.png) | `:rofl:` | `rofl.gif`
 `:-)` | ![](https://youthweb.net/dist/smilies/smile0001.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/263a.png) | `:relaxed:` | `smile0001.gif`
