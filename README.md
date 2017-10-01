@@ -116,7 +116,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:birthday2:` | ![](https://youthweb.net/dist/smilies/birthday2.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f38a.png) | `:confetti_ball:` | `birthday2.gif`
 `:eingebildet:` | ![](https://youthweb.net/dist/smilies/eingebildet.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f633.png) | `:flushed:` | `eingebildet.gif`
 `:bipa:` | ![](https://youthweb.net/dist/smilies/spassbremse.gif) | :question: | `` | `spassbremse.gif`
-`:gewalt:` | ![](https://youthweb.net/dist/smilies/Gewalt.gif) | :question: | `` | `Gewalt.gif`
+`:gewalt:` | ![](https://youthweb.net/dist/smilies/Gewalt.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f52b.png) | `:gun:` | `Gewalt.gif`
 `:kopfschlag:` | ![](https://youthweb.net/dist/smilies/Kopfschlag.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f926.png) | `:face_palm:` | `Kopfschlag.gif`
 `:look:` | ![](https://youthweb.net/dist/smilies/atanz2.gif) | :question: | `` | `atanz2.gif`
 `:noterror:` | ![](https://youthweb.net/dist/smilies/noterror.gif) | :question: | `` | `noterror.gif`
