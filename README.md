@@ -214,7 +214,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:denken3:` | ![](https://youthweb.net/dist/smilies/idee.gif) | :question: | `` | `idee.gif`
 `:knuddel3:` | ![](https://youthweb.net/dist/smilies/liebe_028.gif) | :question: | `` | `liebe_028.gif`
 `:romantik:` | ![](https://youthweb.net/dist/smilies/romantik.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f339.png) | `:rose:` | `romantik.gif`
-`:foto:` | ![](https://youthweb.net/dist/smilies/fotosmilie.gif) | :question: | `` | `fotosmilie.gif`
+`:foto:` | ![](https://youthweb.net/dist/smilies/fotosmilie.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f4f8.png) | `:camera_flash:` | `fotosmilie.gif`
 `:sauer2:` | ![](https://youthweb.net/dist/smilies/sauer.gif) | :question: | `` | `sauer.gif`
 `:krankes:` | ![](https://youthweb.net/dist/smilies/Krankes.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f48a.png) | `:pill:` | `Krankes.gif`
 `:doof1:` | ![](https://youthweb.net/dist/smilies/bin_ich_doof.gif) | :question: | `` | `bin_ich_doof.gif`
