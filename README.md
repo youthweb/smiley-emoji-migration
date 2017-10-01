@@ -188,7 +188,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:nein:` | ![](https://youthweb.net/dist/smilies/nein.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f61f.png)![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f44e.png) | `:worried::thumbsdown:` | `nein.gif`
 `:uncool:` | ![](https://youthweb.net/dist/smilies/uncool.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f44e.png) | `:thumbsdown:` | `uncool.gif`
 `:klatschen:` | ![](https://youthweb.net/dist/smilies/klatschen.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f44f.png) | `:clap:` | `klatschen.gif`
-`:handy:` | ![](https://youthweb.net/dist/smilies/handy.gif) | :question: | `` | `handy.gif`
+`:handy:` | ![](https://youthweb.net/dist/smilies/handy.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f933.png) | `:selfie:` | `handy.gif`
 `:muede:` | ![](https://youthweb.net/dist/smilies/gaehnen.gif) | ![](https://cdn.jsdelivr.net/emojione/assets/3.0/png/64/1f62a.png) | `:sleepy:` | `gaehnen.gif`
 `:keineahnung:` | ![](https://youthweb.net/dist/smilies/keineahnung.gif) | :question: | `` | `keineahnung.gif`
 `:rudolf:` | ![](https://youthweb.net/dist/smilies/rudolf.gif) | :question: | `` | `rudolf.gif`
