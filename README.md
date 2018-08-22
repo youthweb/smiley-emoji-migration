@@ -60,9 +60,9 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:krach:` | ![](https://youthweb.net/dist/smilies/Krach.gif) | ![](/dist/png-64/1f621.png) | `:rage:` | `Krach.gif`
 `:kreisen:` | ![](https://youthweb.net/dist/smilies/kreisen.gif) | ![](/dist/png-64/1f643.png) | `:upside_down:` | `kreisen.gif`
 `:lol:` | ![](https://youthweb.net/dist/smilies/lol.gif) | ![](/dist/png-64/1f606.png) | `:laughing:` | `lol.gif`
-`:leaa:` | ![](https://youthweb.net/dist/smilies/smilie_girl_151.gif) | ![](/dist/png-64/270c.png)![](/dist/png-64/1f600.png)![](/dist/png-64/270c.png) | `:v::grinning::v:` | `smilie_girl_151.gif`
+`:leaa:` | ![](https://youthweb.net/dist/smilies/smilie_girl_151.gif) | ![](/dist/png-64/270c-fe0f.png)![](/dist/png-64/1f600.png)![](/dist/png-64/270c-fe0f.png) | `:v::grinning::v:` | `smilie_girl_151.gif`
 `:esta:` | ![](https://youthweb.net/dist/smilies/496.gif) | :question: | `` | `496.gif`
-`:mecker:` | ![](https://youthweb.net/dist/smilies/mecker.gif) | ![](/dist/png-64/261d.png)![](/dist/png-64/1f620.png) | `:point_up::angry:` | `mecker.gif`
+`:mecker:` | ![](https://youthweb.net/dist/smilies/mecker.gif) | ![](/dist/png-64/261d-fe0f.png)![](/dist/png-64/1f620.png) | `:point_up::angry:` | `mecker.gif`
 `:band:` | ![](https://youthweb.net/dist/smilies/Band.gif) | ![](/dist/png-64/1f3a4.png)![](/dist/png-64/1f3b8.png) | `:microphone::guitar:` | `Band.gif`
 `:music:` | ![](https://youthweb.net/dist/smilies/kopfhoehrer.gif) | ![](/dist/png-64/1f3a7.png) | `:headphones:` | `kopfhoehrer.gif`
 `:band2:` | ![](https://youthweb.net/dist/smilies/musicband.gif) | ![](/dist/png-64/1f3bb.png)![](/dist/png-64/1f3b8.png) | `:violin::guitar:` | `musicband.gif`
@@ -72,18 +72,18 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:schulstreit:` | ![](https://youthweb.net/dist/smilies/059.gif) | :question: | `` | `059.gif`
 `:lesen:` | ![](https://youthweb.net/dist/smilies/buch.gif) | ![](/dist/png-64/1f4da.png) | `:books:` | `buch.gif`
 `:rofl:` | ![](https://youthweb.net/dist/smilies/rofl.gif) | ![](/dist/png-64/1f923.png) | `:rofl:` | `rofl.gif`
-`:-)` | ![](https://youthweb.net/dist/smilies/smile0001.gif) | ![](/dist/png-64/263a.png) | `:relaxed:` | `smile0001.gif`
+`:-)` | ![](https://youthweb.net/dist/smilies/smile0001.gif) | ![](/dist/png-64/263a-fe0f.png) | `:relaxed:` | `smile0001.gif`
 `:super:` | ![](https://youthweb.net/dist/smilies/489.gif) | ![](/dist/png-64/1f609.png)![](/dist/png-64/1f44d.png) | `:wink::thumbsup:` | `489.gif`
 `:ww:` | ![](https://youthweb.net/dist/smilies/222.gif) | ![](/dist/png-64/1f44b.png) | `:wave:` | `222.gif`
 `:blinz:` | ![](https://youthweb.net/dist/smilies/blinkendes_auge.gif) | ![](/dist/png-64/1f609.png) | `:wink:` | `blinkendes_auge.gif`
 `:crazy:` | ![](https://youthweb.net/dist/smilies/paranoid.gif) | ![](/dist/png-64/1f61c.png) | `:stuck_out_tongue_winking_eye:` | `paranoid.gif`
 `:morgen:` | ![](https://youthweb.net/dist/smilies/morgen.gif) | ![](/dist/png-64/1f634.png)![](/dist/png-64/1f304.png) | `:sleeping::sunrise_over_mountains:` | `morgen.gif`
-`:giveup:` | ![](https://youthweb.net/dist/smilies/giveup.gif) | ![](/dist/png-64/1f3f3.png) | `:flag_white:` | `giveup.gif`
+`:giveup:` | ![](https://youthweb.net/dist/smilies/giveup.gif) | ![](/dist/png-64/1f3f3-fe0f.png) | `:flag_white:` | `giveup.gif`
 `:kruecken:` | ![](https://youthweb.net/dist/smilies/bhindi.gif) | ![](/dist/png-64/1f915.png) | `:head_bandage:` | `bhindi.gif`
 `:essen:` | ![](https://youthweb.net/dist/smilies/39[1].gif) | ![](/dist/png-64/1f374.png) | `:fork_and_knife:` | `39[1].gif`
-`:fernsehn:` | ![](https://youthweb.net/dist/smilies/fernsehen.gif) | ![](/dist/png-64/1f6cb.png)![](/dist/png-64/1f4fa.png) | `:couch::tv: ` | `fernsehen.gif`
+`:fernsehn:` | ![](https://youthweb.net/dist/smilies/fernsehen.gif) | ![](/dist/png-64/1f6cb-fe0f.png)![](/dist/png-64/1f4fa.png) | `:couch::tv: ` | `fernsehen.gif`
 `:duschen:` | ![](https://youthweb.net/dist/smilies/00001783.gif) | ![](/dist/png-64/1f6bf.png) | `:shower:` | `00001783.gif`
-`:abwasch:` | ![](https://youthweb.net/dist/smilies/abwasch.gif) | ![](/dist/png-64/1f37d.png)![](/dist/png-64/1f6b0.png) | `:fork::potable_water:` | `abwasch.gif`
+`:abwasch:` | ![](https://youthweb.net/dist/smilies/abwasch.gif) | ![](/dist/png-64/1f37d-fe0f.png)![](/dist/png-64/1f6b0.png) | `:fork::potable_water:` | `abwasch.gif`
 `:arbeiten:` | ![](https://youthweb.net/dist/smilies/00001777.gif) | ![](/dist/png-64/1f528.png) | `:hammer:` | `00001777.gif`
 `:toilette:` | ![](https://youthweb.net/dist/smilies/00001798.gif) | ![](/dist/png-64/1f6bd.png) | `:toilet:` | `00001798.gif`
 `:sdu8:` | ![](https://youthweb.net/dist/smilies/coolkaugummi.gif) | ![](/dist/png-64/1f60e.png) | `:sunglasses:` | `coolkaugummi.gif`
@@ -92,7 +92,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:boxen:` | ![](https://youthweb.net/dist/smilies/boxxen.gif) | ![](/dist/png-64/1f94a.png) | `:boxing_glove:` | `boxxen.gif`
 `:verrückt:` | ![](https://youthweb.net/dist/smilies/verrueckt.gif) | ![](/dist/png-64/1f44a.png) | `:punch:` | `verrueckt.gif`
 `:urlaub:` | ![](https://youthweb.net/dist/smilies/strand.gif) | ![](/dist/png-64/1f3c4.png) | `:surfer:` | `strand.gif`
-`:victory:` | ![](https://youthweb.net/dist/smilies/b025.gif) | ![](/dist/png-64/270c.png) | `:v:` | `b025.gif`
+`:victory:` | ![](https://youthweb.net/dist/smilies/b025.gif) | ![](/dist/png-64/270c-fe0f.png) | `:v:` | `b025.gif`
 `:liebesbrief:` | ![](https://youthweb.net/dist/smilies/liebesbrief.gif) | ![](/dist/png-64/1f48c.png) | `:love_letter:` | `liebesbrief.gif`
 `:weinen:` | ![](https://youthweb.net/dist/smilies/weinen.gif) | ![](/dist/png-64/1f62d.png) | `:sob:` | `weinen.gif`
 `:gucken:` | ![](https://youthweb.net/dist/smilies/00000952[1].gif) | :question: | `` | `00000952[1].gif`
@@ -154,7 +154,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:schleimer2:` | ![](https://youthweb.net/dist/smilies/nerd.gif) | ![](/dist/png-64/1f913.png) | :nerd: | `nerd.gif`
 `:boxer:` | ![](https://youthweb.net/dist/smilies/boxed3_h4h.gif) | :question: | `` | `boxed3_h4h.gif`
 `:ala:` | ![](https://youthweb.net/dist/smilies/ala.gif) | :question: | `` | `ala.gif`
-`:bike:` | ![](https://youthweb.net/dist/smilies/biker_h4h.gif) | ![](/dist/png-64/1f3cd.png) | `:motorcycle:` | `biker_h4h.gif`
+`:bike:` | ![](https://youthweb.net/dist/smilies/biker_h4h.gif) | ![](/dist/png-64/1f3cd-fe0f.png) | `:motorcycle:` | `biker_h4h.gif`
 `:lecker:` | ![](https://youthweb.net/dist/smilies/licklips.gif) | ![](/dist/png-64/1f60b.png) | `:yum:` | `licklips.gif`
 `:schlafen:` | ![](https://youthweb.net/dist/smilies/456.gif) | :question: | `` | `456.gif`
 `:rappen:` | ![](https://youthweb.net/dist/smilies/rappen.gif) | :question: | `` | `rappen.gif`
@@ -236,7 +236,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:hase2:` | ![](https://youthweb.net/dist/smilies/HASE4.gif) | :question: | `` | `HASE4.gif`
 `:hase3:` | ![](https://youthweb.net/dist/smilies/has2.gif) | ![](/dist/png-64/1f407.png) | `:rabbit2:` | `has2.gif`
 `:irre:` | ![](https://youthweb.net/dist/smilies/bunny_4.gif) | :question: | `` | `bunny_4.gif`
-`:herz:` | ![](https://youthweb.net/dist/smilies/herzchen.gif) | ![](/dist/png-64/2764.png) | `:heart:` | `herzchen.gif`
+`:herz:` | ![](https://youthweb.net/dist/smilies/herzchen.gif) | ![](/dist/png-64/2764-fe0f.png) | `:heart:` | `herzchen.gif`
 `:achja:` | ![](https://youthweb.net/dist/smilies/achja.gif) | :question: | `` | `achja.gif`
 `:morgähn:` | ![](https://youthweb.net/dist/smilies/morgaehn.gif) | :question: | `` | `morgaehn.gif`
 `:amen:` | ![](https://youthweb.net/dist/smilies/amen.gif) | :question: | `` | `amen.gif`
@@ -290,7 +290,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:JoLo:` | ![](https://youthweb.net/dist/smilies/MrSax02.gif) | :question: | `` | `MrSax02.gif`
 `:on:` | ![](https://youthweb.net/dist/smilies/On.gif) | :question: | `` | `On.gif`
 `:mb:` | ![](https://youthweb.net/dist/smilies/eine_wie_keine.png) | :question: | `` | `eine_wie_keine.png`
-`:boese1:` | ![](https://youthweb.net/dist/smilies/boese.gif) | ![](/dist/png-64/261d.png) | `:point_up:` | `boese.gif`
+`:boese1:` | ![](https://youthweb.net/dist/smilies/boese.gif) | ![](/dist/png-64/261d-fe0f.png) | `:point_up:` | `boese.gif`
 `:boese2:` | ![](https://youthweb.net/dist/smilies/boese1.gif) | ![](/dist/png-64/1f446.png) | `:point_up_2:` | `boese1.gif`
 `:friend:` | ![](https://youthweb.net/dist/smilies/friend.gif) | ![](/dist/png-64/1f46c.png) | `:two_men_holding_hands:` | `friend.gif`
 `:muede1:` | ![](https://youthweb.net/dist/smilies/muede.gif) | ![](/dist/png-64/1f629.png) | `:weary:` | `muede.gif`
@@ -366,7 +366,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:blackb:` | ![](https://youthweb.net/dist/smilies/82.gif) | :question: | `` | `82.gif`
 `:koko:` | ![](https://youthweb.net/dist/smilies/c010.gif) | :question: | `` | `c010.gif`
 `:bahnhof:` | ![](https://youthweb.net/dist/smilies/bahnhof.gif) | :question: | `` | `bahnhof.gif`
-`:basketball:` | ![](https://youthweb.net/dist/smilies/basketball.gif) | ![](/dist/png-64/26f9.png) | `:basketball_player:` | `basketball.gif`
+`:basketball:` | ![](https://youthweb.net/dist/smilies/basketball.gif) | ![](/dist/png-64/26f9-fe0f.png) | `:basketball_player:` | `basketball.gif`
 `:boxer1:` | ![](https://youthweb.net/dist/smilies/boxer.gif) | ![](/dist/png-64/1f94a.png) | `:boxing_glove:` | `boxer.gif`
 `:gitarre:` | ![](https://youthweb.net/dist/smilies/gittare.gif) | ![](/dist/png-64/1f3b8.png) | `:guitar:` | `gittare.gif`
 `:hand:` | ![](https://youthweb.net/dist/smilies/haendedruck.gif) | :question: | `` | `haendedruck.gif`
