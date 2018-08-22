@@ -12,50 +12,36 @@ namespace Youthweb\SmileyEmojiMigration;
 
 class Converter
 {
-	/**
-	 * export as json
-	 */
-	public function toJsonFile($file_path, $options = 0)
-	{
-		$file_path = realpath($file_path);
+    /**
+     * export as json
+     */
+    public function toJsonFile($file_path, $options = 0)
+    {
+        $file_path = realpath($file_path);
 
-		$data = $this->createJson($options);
+        $data = $this->createJson($options);
 
-		file_put_contents($file_path, $data);
-	}
+        file_put_contents($file_path, $data);
+    }
 
-	/**
-	 * export as JS file
-	 */
-	public function toJavaScriptFile($file_path)
-	{
-		$file_path = realpath($file_path);
+    private function createJson($options = 0)
+    {
+        $parser = new Parser();
 
-		$data = $this->createJson();
+        $data = [];
 
-		$content = sprintf('var youthweb_smilies = %s;', $data);
+        $raw = $parser->parseReadme();
 
-		file_put_contents($file_path, $content);
-	}
+        foreach ($raw as $raw_part)
+        {
+            $smiley_code = $raw_part['smiley_code'];
 
-	private function createJson($options = 0)
-	{
-		$parser = new Parser();
+            $data[$smiley_code] = [
+                'unicode_images' => $raw_part['unicodes'],
+                'smiley_image' => $raw_part['smiley_filename'],
+            ];
+        }
 
-		$data = [];
-
-		$raw = $parser->parseReadme();
-
-		foreach ($raw as $raw_part)
-		{
-			$smiley_code = $raw_part['smiley_code'];
-
-			$data[$smiley_code] = [
-				'unicode_images' => $raw_part['unicodes'],
-				'smiley_image' => $raw_part['smiley_filename'],
-			];
-		}
-
-		return json_encode($data, $options);
-	}
+        return json_encode($data, $options);
+    }
 }
