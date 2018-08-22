@@ -1,4 +1,4 @@
-const Normalizer = require('../../lib/normalizer');
+const Normalizer = require('../../lib/emojidata-normalizer');
 
 describe('The Normalizer', () => {
     describe('on method normalizeEmojiData()', () => {

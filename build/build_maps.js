@@ -1,5 +1,5 @@
 const fs = require('fs');
-const Normalizer = require('../lib/normalizer');
+const Normalizer = require('../lib/emojidata-normalizer');
 const emojiData = require('emoji-datasource-twitter/emoji.json');
 
 var normalizer = new Normalizer();
