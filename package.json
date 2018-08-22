@@ -7,7 +7,8 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "sh build/build.sh",
+    "test": "jasmine --config=spec/config/jasmine.json"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
   },
   "homepage": "https://github.com/youthweb/smiley-emoji-migration#readme",
   "devDependencies": {
-    "emoji-datasource-twitter": "^4.1.0"
+    "emoji-datasource-twitter": "^4.1.0",
+    "jasmine": "^3.2.0"
   }
 }
