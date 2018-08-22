@@ -1,0 +1,33 @@
+{
+  "name": "smiley-emoji-migration",
+  "version": "1.0.0",
+  "description": "Migration of smilies to emojis at Youthweb.net",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youthweb/smiley-emoji-migration.git"
+  },
+  "keywords": [
+    "smiley",
+    "smilies",
+    "emoji",
+    "emojis",
+    "youthweb",
+    "migration"
+  ],
+  "author": "Artur Weigandt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/youthweb/smiley-emoji-migration/issues"
+  },
+  "homepage": "https://github.com/youthweb/smiley-emoji-migration#readme",
+  "devDependencies": {
+    "emoji-datasource-twitter": "^4.1.0"
+  }
+}
