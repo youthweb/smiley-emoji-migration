@@ -48,11 +48,6 @@ class Converter
 
 		foreach ($raw as $raw_part)
 		{
-			if ( count($raw_part['unicodes']) === 0 )
-			{
-				continue;
-			}
-
 			$smiley_code = $raw_part['smiley_code'];
 
 			$data[$smiley_code] = [

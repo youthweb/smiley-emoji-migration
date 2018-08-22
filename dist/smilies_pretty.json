@@ -103,6 +103,10 @@
         ],
         "smiley_image": "smilie_girl_151.gif"
     },
+    ":esta:": {
+        "unicode_images": [],
+        "smiley_image": "496.gif"
+    },
     ":mecker:": {
         "unicode_images": [
             "261d-fe0f.png",
@@ -136,11 +140,19 @@
         ],
         "smiley_image": "nervensaege.gif"
     },
+    ":dj:": {
+        "unicode_images": [],
+        "smiley_image": "dj.gif"
+    },
     ":birthday3:": {
         "unicode_images": [
             "1f388.png"
         ],
         "smiley_image": "birthday3.gif"
+    },
+    ":schulstreit:": {
+        "unicode_images": [],
+        "smiley_image": "059.gif"
     },
     ":lesen:": {
         "unicode_images": [
@@ -297,6 +309,10 @@
         ],
         "smiley_image": "weinen.gif"
     },
+    ":gucken:": {
+        "unicode_images": [],
+        "smiley_image": "00000952[1].gif"
+    },
     ":pcprob:": {
         "unicode_images": [
             "1f4bb.png",
@@ -330,6 +346,30 @@
         ],
         "smiley_image": "troesten.gif"
     },
+    ":b\u00fcgeln:": {
+        "unicode_images": [],
+        "smiley_image": "buegeln.gif"
+    },
+    ":respekt:": {
+        "unicode_images": [],
+        "smiley_image": "288.gif"
+    },
+    ":naund:": {
+        "unicode_images": [],
+        "smiley_image": "00000673.gif"
+    },
+    ":doof:": {
+        "unicode_images": [],
+        "smiley_image": "doof.gif"
+    },
+    ":ethe:": {
+        "unicode_images": [],
+        "smiley_image": "blumen.gif"
+    },
+    ":pascholti:": {
+        "unicode_images": [],
+        "smiley_image": "paschol.png"
+    },
     ":love1:": {
         "unicode_images": [
             "1f491.png"
@@ -341,6 +381,10 @@
             "1f93c.png"
         ],
         "smiley_image": "box.gif"
+    },
+    ":aldi:": {
+        "unicode_images": [],
+        "smiley_image": "aldi.gif"
     },
     ":mama:": {
         "unicode_images": [
@@ -366,11 +410,39 @@
         ],
         "smiley_image": "eingebildet.gif"
     },
+    ":bipa:": {
+        "unicode_images": [],
+        "smiley_image": "spassbremse.gif"
+    },
+    ":gewalt:": {
+        "unicode_images": [],
+        "smiley_image": "Gewalt.gif"
+    },
     ":kopfschlag:": {
         "unicode_images": [
             "1f926.png"
         ],
         "smiley_image": "Kopfschlag.gif"
+    },
+    ":look:": {
+        "unicode_images": [],
+        "smiley_image": "atanz2.gif"
+    },
+    ":noterror:": {
+        "unicode_images": [],
+        "smiley_image": "noterror.gif"
+    },
+    ":schleimer:": {
+        "unicode_images": [],
+        "smiley_image": "schleimer.gif"
+    },
+    ":gassi:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_hund1.gif"
+    },
+    ":heck:": {
+        "unicode_images": [],
+        "smiley_image": "heck.gif"
     },
     ":baseball:": {
         "unicode_images": [
@@ -378,11 +450,19 @@
         ],
         "smiley_image": "aufsmaul.gif"
     },
+    ":heuldoch:": {
+        "unicode_images": [],
+        "smiley_image": "heuldoch.gif"
+    },
     ":gutenacht:": {
         "unicode_images": [
             "1f303.png"
         ],
         "smiley_image": "Gute nacht.gif"
+    },
+    ":weck": {
+        "unicode_images": [],
+        "smiley_image": "62.gif"
     },
     ":bussi:": {
         "unicode_images": [
@@ -395,6 +475,14 @@
             "1f691.png"
         ],
         "smiley_image": "477.gif"
+    },
+    ":worship:": {
+        "unicode_images": [],
+        "smiley_image": "a030.gif"
+    },
+    ":regin:": {
+        "unicode_images": [],
+        "smiley_image": "a035.gif"
     },
     ":campen:": {
         "unicode_images": [
@@ -426,6 +514,58 @@
         ],
         "smiley_image": "kotzen.gif"
     },
+    ":pfeifen:": {
+        "unicode_images": [],
+        "smiley_image": "a050.gif"
+    },
+    ":feierabend:": {
+        "unicode_images": [],
+        "smiley_image": "feierabend.gif"
+    },
+    ":danke:": {
+        "unicode_images": [],
+        "smiley_image": "Danke.gif"
+    },
+    ":dagegen:": {
+        "unicode_images": [],
+        "smiley_image": "dagegen.gif"
+    },
+    ":frauenpower:": {
+        "unicode_images": [],
+        "smiley_image": "frauen_power.gif"
+    },
+    ":bitte:": {
+        "unicode_images": [],
+        "smiley_image": "bbitte.gif"
+    },
+    ":gibtnix:": {
+        "unicode_images": [],
+        "smiley_image": "gibtnix.gif"
+    },
+    ":wiejetzt:": {
+        "unicode_images": [],
+        "smiley_image": "haewiejetzt.gif"
+    },
+    ":hilfe:": {
+        "unicode_images": [],
+        "smiley_image": "iloveme.gif"
+    },
+    ":partyon:": {
+        "unicode_images": [],
+        "smiley_image": "partyon+.gif"
+    },
+    ":wolke7:": {
+        "unicode_images": [],
+        "smiley_image": "love5.gif"
+    },
+    ":stecher:": {
+        "unicode_images": [],
+        "smiley_image": "stecher.gif"
+    },
+    ":bart:": {
+        "unicode_images": [],
+        "smiley_image": "disguise.gif"
+    },
     ":rofll:": {
         "unicode_images": [
             "1f616.png"
@@ -450,6 +590,14 @@
         ],
         "smiley_image": "nerd.gif"
     },
+    ":boxer:": {
+        "unicode_images": [],
+        "smiley_image": "boxed3_h4h.gif"
+    },
+    ":ala:": {
+        "unicode_images": [],
+        "smiley_image": "ala.gif"
+    },
     ":bike:": {
         "unicode_images": [
             "1f3cd-fe0f.png"
@@ -462,17 +610,53 @@
         ],
         "smiley_image": "licklips.gif"
     },
+    ":schlafen:": {
+        "unicode_images": [],
+        "smiley_image": "456.gif"
+    },
+    ":rappen:": {
+        "unicode_images": [],
+        "smiley_image": "rappen.gif"
+    },
+    ":ohnmacht:": {
+        "unicode_images": [],
+        "smiley_image": "Ohnmacht1.gif"
+    },
+    ":wersucht:": {
+        "unicode_images": [],
+        "smiley_image": "wrsucht.gif"
+    },
+    ":insel:": {
+        "unicode_images": [],
+        "smiley_image": "Insel.gif"
+    },
     ":l\u00fcgen:": {
         "unicode_images": [
             "1f925.png"
         ],
         "smiley_image": "pinoccio.gif"
     },
+    ":freak:": {
+        "unicode_images": [],
+        "smiley_image": "smiley-channel.de_schilder173.gif"
+    },
     ":schwein:": {
         "unicode_images": [
             "1f437.png"
         ],
         "smiley_image": "smiley-channel.de_schilder195.gif"
+    },
+    ":lol4:": {
+        "unicode_images": [],
+        "smiley_image": "smiley-channel.de_schilder048.gif"
+    },
+    ":admin:": {
+        "unicode_images": [],
+        "smiley_image": "admins.gif"
+    },
+    ":firefox:": {
+        "unicode_images": [],
+        "smiley_image": "270.gif"
     },
     ":school:": {
         "unicode_images": [
@@ -486,11 +670,23 @@
         ],
         "smiley_image": "286.gif"
     },
+    ":ausflippen:": {
+        "unicode_images": [],
+        "smiley_image": "522.gif"
+    },
+    ":ww2:": {
+        "unicode_images": [],
+        "smiley_image": "221.gif"
+    },
     ":bigeyes:": {
         "unicode_images": [
             "1f440.png"
         ],
         "smiley_image": "267.gif"
+    },
+    ":kaputtlachen:": {
+        "unicode_images": [],
+        "smiley_image": "281.gif"
     },
     ":unschuldig:": {
         "unicode_images": [
@@ -510,11 +706,23 @@
         ],
         "smiley_image": "weiberplausch.gif"
     },
+    ":krieger:": {
+        "unicode_images": [],
+        "smiley_image": "379.gif"
+    },
+    ":essen2:": {
+        "unicode_images": [],
+        "smiley_image": "essen.gif"
+    },
     ":boese:": {
         "unicode_images": [
             "1f620.png"
         ],
         "smiley_image": "boese.gif"
+    },
+    ":verneigen:": {
+        "unicode_images": [],
+        "smiley_image": "verneigen.gif"
     },
     ";-)": {
         "unicode_images": [
@@ -528,6 +736,10 @@
             "1f44d.png"
         ],
         "smiley_image": "ja.gif"
+    },
+    ":-p": {
+        "unicode_images": [],
+        "smiley_image": "zunge.gif"
     },
     ":-(": {
         "unicode_images": [
@@ -566,6 +778,14 @@
         ],
         "smiley_image": "gaehnen.gif"
     },
+    ":keineahnung:": {
+        "unicode_images": [],
+        "smiley_image": "keineahnung.gif"
+    },
+    ":rudolf:": {
+        "unicode_images": [],
+        "smiley_image": "rudolf.gif"
+    },
     ":kalt:": {
         "unicode_images": [
             "1f630.png"
@@ -578,11 +798,19 @@
         ],
         "smiley_image": "weihnachtsmann.gif"
     },
+    ":zitter:": {
+        "unicode_images": [],
+        "smiley_image": "xpb_zitter.gif"
+    },
     ":wman2:": {
         "unicode_images": [
             "1f385.png"
         ],
         "smiley_image": "woswmann950.gif"
+    },
+    ":wman3:": {
+        "unicode_images": [],
+        "smiley_image": "woswmann1550.gif"
     },
     ":hochzeit:": {
         "unicode_images": [
@@ -590,11 +818,35 @@
         ],
         "smiley_image": "hochzeit.gif"
     },
+    ":oops:": {
+        "unicode_images": [],
+        "smiley_image": "oops.gif"
+    },
+    ":kaputthauen:": {
+        "unicode_images": [],
+        "smiley_image": "kaputthauen.gif"
+    },
     ":baden3:": {
         "unicode_images": [
             "1f6c1.png"
         ],
         "smiley_image": "baden3.gif"
+    },
+    ":lenak:": {
+        "unicode_images": [],
+        "smiley_image": "484.gif"
+    },
+    ":jeff:": {
+        "unicode_images": [],
+        "smiley_image": "Jeff.gif"
+    },
+    ":knuddell:": {
+        "unicode_images": [],
+        "smiley_image": "knuddel.gif"
+    },
+    ":ruhe:": {
+        "unicode_images": [],
+        "smiley_image": "ruhe.gif"
     },
     ":cool:": {
         "unicode_images": [
@@ -602,11 +854,35 @@
         ],
         "smiley_image": "cool.gif"
     },
+    ":manweisetnich:": {
+        "unicode_images": [],
+        "smiley_image": "man_weiset.png"
+    },
+    ":(": {
+        "unicode_images": [],
+        "smiley_image": "frown.gif"
+    },
+    ":knuddel2:": {
+        "unicode_images": [],
+        "smiley_image": "liebe_061.gif"
+    },
     ":denken:": {
         "unicode_images": [
             "1f614.png"
         ],
         "smiley_image": "verwirrte_026.gif"
+    },
+    ":denken2:": {
+        "unicode_images": [],
+        "smiley_image": "Denken2.gif"
+    },
+    ":denken3:": {
+        "unicode_images": [],
+        "smiley_image": "idee.gif"
+    },
+    ":knuddel3:": {
+        "unicode_images": [],
+        "smiley_image": "liebe_028.gif"
     },
     ":romantik:": {
         "unicode_images": [
@@ -620,11 +896,19 @@
         ],
         "smiley_image": "fotosmilie.gif"
     },
+    ":sauer2:": {
+        "unicode_images": [],
+        "smiley_image": "sauer.gif"
+    },
     ":krankes:": {
         "unicode_images": [
             "1f48a.png"
         ],
         "smiley_image": "Krankes.gif"
+    },
+    ":doof1:": {
+        "unicode_images": [],
+        "smiley_image": "bin_ich_doof.gif"
     },
     ":car:": {
         "unicode_images": [
@@ -632,11 +916,43 @@
         ],
         "smiley_image": "car.gif"
     },
+    ":wayne:": {
+        "unicode_images": [],
+        "smiley_image": "wayne_interessierts.gif"
+    },
     ":snowboard:": {
         "unicode_images": [
             "1f3c2.png"
         ],
         "smiley_image": "snowboardler.gif"
+    },
+    ":sagnix:": {
+        "unicode_images": [],
+        "smiley_image": "ich_sag_nix.gif"
+    },
+    ":regin2:": {
+        "unicode_images": [],
+        "smiley_image": "hauen.gif"
+    },
+    ":kuuhl:": {
+        "unicode_images": [],
+        "smiley_image": "kuuuhl.png"
+    },
+    ":saugen:": {
+        "unicode_images": [],
+        "smiley_image": "staubsauger!.gif"
+    },
+    ":para:": {
+        "unicode_images": [],
+        "smiley_image": "kreis.gif"
+    },
+    ":blach:": {
+        "unicode_images": [],
+        "smiley_image": "blach.gif"
+    },
+    ":rofllll:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_happy_251.gif"
     },
     ":spam:": {
         "unicode_images": [
@@ -644,11 +960,31 @@
         ],
         "smiley_image": "forum.gif"
     },
+    ":ohnemich:": {
+        "unicode_images": [],
+        "smiley_image": "bpb_ohnemi.gif"
+    },
+    ":osterkuss:": {
+        "unicode_images": [],
+        "smiley_image": "o_78-001.gif"
+    },
+    ":eiermaler:": {
+        "unicode_images": [],
+        "smiley_image": "ostern_71.gif"
+    },
     ":hase:": {
         "unicode_images": [
             "1f430.png"
         ],
         "smiley_image": "HAAAAAAAAAAAASE.gif"
+    },
+    ":hase1:": {
+        "unicode_images": [],
+        "smiley_image": "hase3.gif"
+    },
+    ":hase2:": {
+        "unicode_images": [],
+        "smiley_image": "HASE4.gif"
     },
     ":hase3:": {
         "unicode_images": [
@@ -656,11 +992,43 @@
         ],
         "smiley_image": "has2.gif"
     },
+    ":irre:": {
+        "unicode_images": [],
+        "smiley_image": "bunny_4.gif"
+    },
     ":herz:": {
         "unicode_images": [
             "2764-fe0f.png"
         ],
         "smiley_image": "herzchen.gif"
+    },
+    ":achja:": {
+        "unicode_images": [],
+        "smiley_image": "achja.gif"
+    },
+    ":morg\u00e4hn:": {
+        "unicode_images": [],
+        "smiley_image": "morgaehn.gif"
+    },
+    ":amen:": {
+        "unicode_images": [],
+        "smiley_image": "amen.gif"
+    },
+    ":aufwachen:": {
+        "unicode_images": [],
+        "smiley_image": "aufwachen.gif"
+    },
+    ":vio:": {
+        "unicode_images": [],
+        "smiley_image": "phone02.gif"
+    },
+    ":admins:": {
+        "unicode_images": [],
+        "smiley_image": "admin.jpg"
+    },
+    ":romeo:": {
+        "unicode_images": [],
+        "smiley_image": "Romeo.gif"
     },
     ":shy:": {
         "unicode_images": [
@@ -674,11 +1042,31 @@
         ],
         "smiley_image": "1xmas500.gif"
     },
+    ":kopf:": {
+        "unicode_images": [],
+        "smiley_image": "kopf.gif"
+    },
+    ":closed:": {
+        "unicode_images": [],
+        "smiley_image": "cl.gif"
+    },
     ":deutschland:": {
         "unicode_images": [
             "1f1e9-1f1ea.png"
         ],
         "smiley_image": "deutsc.gif"
+    },
+    ":laugh:": {
+        "unicode_images": [],
+        "smiley_image": "deutschland-lacht-ueber-holland.gif"
+    },
+    ":final:": {
+        "unicode_images": [],
+        "smiley_image": "final04.gif"
+    },
+    ":wmleo:": {
+        "unicode_images": [],
+        "smiley_image": "wmgoleo.gif"
     },
     ":brasil:": {
         "unicode_images": [
@@ -692,6 +1080,22 @@
         ],
         "smiley_image": "fussball-smilie.gif"
     },
+    ":kopfball:": {
+        "unicode_images": [],
+        "smiley_image": "soccer_2.gif"
+    },
+    ":rot:": {
+        "unicode_images": [],
+        "smiley_image": "platzverweis.gif"
+    },
+    ":leeep:": {
+        "unicode_images": [],
+        "smiley_image": "leep.gif"
+    },
+    ":-[": {
+        "unicode_images": [],
+        "smiley_image": "49_2.gif"
+    },
     ":togo:": {
         "unicode_images": [
             "1f1f9-1f1ec.png"
@@ -704,11 +1108,35 @@
         ],
         "smiley_image": "wm2006japan0.gif"
     },
+    ":roli:": {
+        "unicode_images": [],
+        "smiley_image": "boese2.gif"
+    },
     ":portugal:": {
         "unicode_images": [
             "1f1f5-1f1f9.png"
         ],
         "smiley_image": "portugal.gif"
+    },
+    ":meld:": {
+        "unicode_images": [],
+        "smiley_image": "meld.gif"
+    },
+    ":moin:": {
+        "unicode_images": [],
+        "smiley_image": "Moin.gif"
+    },
+    ":hm:": {
+        "unicode_images": [],
+        "smiley_image": "hm.gif"
+    },
+    ":blume:": {
+        "unicode_images": [],
+        "smiley_image": "6874.gif"
+    },
+    ":inlove2:": {
+        "unicode_images": [],
+        "smiley_image": "huglove.gif"
     },
     ":tess:": {
         "unicode_images": [
@@ -734,6 +1162,10 @@
         ],
         "smiley_image": "wm2006italien1.gif"
     },
+    ":ich:": {
+        "unicode_images": [],
+        "smiley_image": "iiich.gif"
+    },
     ":shok:": {
         "unicode_images": [
             "1f62f.png"
@@ -751,6 +1183,14 @@
             "1f1f3-1f1f1.png"
         ],
         "smiley_image": "wm2006niederlande1.gif"
+    },
+    ":gelb:": {
+        "unicode_images": [],
+        "smiley_image": "gelb.gif"
+    },
+    ":weight:": {
+        "unicode_images": [],
+        "smiley_image": "weight_lift2.gif"
     },
     ":england:": {
         "unicode_images": [
@@ -770,17 +1210,49 @@
         ],
         "smiley_image": "wm2006frankreich1.gif"
     },
+    ":spam1:": {
+        "unicode_images": [],
+        "smiley_image": "spamfrust.gif"
+    },
     ":ukraine:": {
         "unicode_images": [
             "1f1fa-1f1e6.png"
         ],
         "smiley_image": "wm2006ukraine1.gif"
     },
+    ":2cool:": {
+        "unicode_images": [],
+        "smiley_image": "cool3.gif"
+    },
+    ":rulez:": {
+        "unicode_images": [],
+        "smiley_image": "smiley-channel.de_lesen021.gif"
+    },
     ":israel:": {
         "unicode_images": [
             "1f1ee-1f1f1.png"
         ],
         "smiley_image": "tikva.gif"
+    },
+    ":poker:": {
+        "unicode_images": [],
+        "smiley_image": "poker.gif"
+    },
+    ":spth:": {
+        "unicode_images": [],
+        "smiley_image": "spth.png"
+    },
+    ":JoLo:": {
+        "unicode_images": [],
+        "smiley_image": "MrSax02.gif"
+    },
+    ":on:": {
+        "unicode_images": [],
+        "smiley_image": "On.gif"
+    },
+    ":mb:": {
+        "unicode_images": [],
+        "smiley_image": "eine_wie_keine.png"
     },
     ":boese1:": {
         "unicode_images": [
@@ -806,17 +1278,137 @@
         ],
         "smiley_image": "muede.gif"
     },
+    ":steffi:": {
+        "unicode_images": [],
+        "smiley_image": "traurig.gif"
+    },
+    ":super1:": {
+        "unicode_images": [],
+        "smiley_image": "froh.gif"
+    },
+    ":ody:": {
+        "unicode_images": [],
+        "smiley_image": "gg!!!!!!!!!!!!!!!!!!!.gif"
+    },
+    ":halt:": {
+        "unicode_images": [],
+        "smiley_image": "halt_stop.gif"
+    },
+    ":lachen1:": {
+        "unicode_images": [],
+        "smiley_image": "hand_vorm_mund.gif"
+    },
+    ":LP:": {
+        "unicode_images": [],
+        "smiley_image": "ironie.gif"
+    },
+    ":superman:": {
+        "unicode_images": [],
+        "smiley_image": "sman.gif"
+    },
+    ":skater:": {
+        "unicode_images": [],
+        "smiley_image": "skateboard.gif"
+    },
+    ":gelb1:": {
+        "unicode_images": [],
+        "smiley_image": "sport.gif"
+    },
+    ":abcheck:": {
+        "unicode_images": [],
+        "smiley_image": "blinkendes_auge_mit_herzchen.gif"
+    },
+    ":dl:": {
+        "unicode_images": [],
+        "smiley_image": "diane.gif"
+    },
+    ":RW:": {
+        "unicode_images": [],
+        "smiley_image": "rita.gif"
+    },
+    ":yw:": {
+        "unicode_images": [],
+        "smiley_image": "fehler.gif"
+    },
+    ":schild:": {
+        "unicode_images": [],
+        "smiley_image": "schild.gif"
+    },
+    ":firefox1:": {
+        "unicode_images": [],
+        "smiley_image": "mozilla.gif"
+    },
+    ":2lee:": {
+        "unicode_images": [],
+        "smiley_image": "lee.gif"
+    },
     ":pizzaess:": {
         "unicode_images": [
             "1f355.png"
         ],
         "smiley_image": "pizzaess.gif"
     },
+    ":emoo:": {
+        "unicode_images": [],
+        "smiley_image": "emo.gif"
+    },
+    ":hehe:": {
+        "unicode_images": [],
+        "smiley_image": "hehe.gif"
+    },
+    ":ljena:": {
+        "unicode_images": [],
+        "smiley_image": "ani_sonstige137.gif"
+    },
+    ":neugierig:": {
+        "unicode_images": [],
+        "smiley_image": "Neugierig.gif"
+    },
+    ":F5:": {
+        "unicode_images": [],
+        "smiley_image": "ani_schilder55.gif"
+    },
+    ":lachen:": {
+        "unicode_images": [],
+        "smiley_image": "ani_lachende2.gif"
+    },
+    ":saugen1:": {
+        "unicode_images": [],
+        "smiley_image": "Saugen1.gif"
+    },
+    ":angi:": {
+        "unicode_images": [],
+        "smiley_image": "f025.gif"
+    },
+    ":hau:": {
+        "unicode_images": [],
+        "smiley_image": "hau.gif"
+    },
+    ":hust:": {
+        "unicode_images": [],
+        "smiley_image": "husten.gif"
+    },
+    ":lolli:": {
+        "unicode_images": [],
+        "smiley_image": "lolli.gif"
+    },
+    ":ranger:": {
+        "unicode_images": [],
+        "smiley_image": "ranger.gif"
+    },
+    ":lena87:": {
+        "unicode_images": [],
+        "smiley_image": "a020.gif"
+    },
     ":partytime:": {
         "unicode_images": [
             "1f389.png"
         ],
         "smiley_image": "sta_schilder140.gif"
+    },
+    ":graade:": {
+        "unicode_images": [],
+        "smiley_image": "sta_schilder365.gif"
     },
     ":wishes:": {
         "unicode_images": [
@@ -829,6 +1421,22 @@
             "1f1f7-1f1fa.png"
         ],
         "smiley_image": "smilies_flaggen056.gif"
+    },
+    ":sorry:": {
+        "unicode_images": [],
+        "smiley_image": "sta_schilder116.gif"
+    },
+    ":spiegel:": {
+        "unicode_images": [],
+        "smiley_image": "lustich.gif"
+    },
+    ":wman5:": {
+        "unicode_images": [],
+        "smiley_image": "woswmann1560.gif"
+    },
+    ":wmanlachen:": {
+        "unicode_images": [],
+        "smiley_image": "woswmann1810.gif"
     },
     ":hannibal:": {
         "unicode_images": [
@@ -848,11 +1456,35 @@
         ],
         "smiley_image": "Teddy.gif"
     },
+    ":frauenimforum:": {
+        "unicode_images": [],
+        "smiley_image": "frauen_im_forum.gif"
+    },
+    ":checka:": {
+        "unicode_images": [],
+        "smiley_image": "peace.gif"
+    },
+    ":yeah:": {
+        "unicode_images": [],
+        "smiley_image": "yeeeah.gif"
+    },
     ":klavier:": {
         "unicode_images": [
             "1f3b9.png"
         ],
         "smiley_image": "klvier.gif"
+    },
+    ":kante:": {
+        "unicode_images": [],
+        "smiley_image": "bodybuilder.gif"
+    },
+    ":roflll:": {
+        "unicode_images": [],
+        "smiley_image": "roflll.gif"
+    },
+    ":ohnmacht1:": {
+        "unicode_images": [],
+        "smiley_image": "ohnmacht.gif"
     },
     ":sylvester:": {
         "unicode_images": [
@@ -860,11 +1492,19 @@
         ],
         "smiley_image": "weihnachten17.gif"
     },
+    ":keks:": {
+        "unicode_images": [],
+        "smiley_image": "keks.gif"
+    },
     ":radfahrer:": {
         "unicode_images": [
             "1f6b4.png"
         ],
         "smiley_image": "chiller.gif"
+    },
+    ":nadia:": {
+        "unicode_images": [],
+        "smiley_image": "nadia.gif"
     },
     ":bball:": {
         "unicode_images": [
@@ -884,11 +1524,23 @@
         ],
         "smiley_image": "gaige.gif"
     },
+    ":qfl\u00f6te:": {
+        "unicode_images": [],
+        "smiley_image": "querfloete.gif"
+    },
     ":training:": {
         "unicode_images": [
             "1f4aa.png"
         ],
         "smiley_image": "training1.gif"
+    },
+    ":chor:": {
+        "unicode_images": [],
+        "smiley_image": "schief_singen.gif"
+    },
+    ":luck:": {
+        "unicode_images": [],
+        "smiley_image": "good_luck.gif"
     },
     ":otto:": {
         "unicode_images": [
@@ -901,6 +1553,50 @@
             "1f941.png"
         ],
         "smiley_image": "schlagzeug.gif"
+    },
+    ":isy:": {
+        "unicode_images": [],
+        "smiley_image": "skuchen.gif"
+    },
+    ":alex:": {
+        "unicode_images": [],
+        "smiley_image": "dunce.gif"
+    },
+    ":shenok:": {
+        "unicode_images": [],
+        "smiley_image": "hund.gif"
+    },
+    ":ade:": {
+        "unicode_images": [],
+        "smiley_image": "ADE_Smily.gif"
+    },
+    ":dachschaden:": {
+        "unicode_images": [],
+        "smiley_image": "a085.gif"
+    },
+    ":yves:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_sonst_011.gif"
+    },
+    ":aly:": {
+        "unicode_images": [],
+        "smiley_image": "c080.gif"
+    },
+    ":laurie:": {
+        "unicode_images": [],
+        "smiley_image": "ups.gif"
+    },
+    ":blackb:": {
+        "unicode_images": [],
+        "smiley_image": "82.gif"
+    },
+    ":koko:": {
+        "unicode_images": [],
+        "smiley_image": "c010.gif"
+    },
+    ":bahnhof:": {
+        "unicode_images": [],
+        "smiley_image": "bahnhof.gif"
     },
     ":basketball:": {
         "unicode_images": [
@@ -920,11 +1616,27 @@
         ],
         "smiley_image": "gittare.gif"
     },
+    ":hand:": {
+        "unicode_images": [],
+        "smiley_image": "haendedruck.gif"
+    },
     ":sos:": {
         "unicode_images": [
             "1f198.png"
         ],
         "smiley_image": "help_sos.gif"
+    },
+    ":krank:": {
+        "unicode_images": [],
+        "smiley_image": "krank.gif"
+    },
+    ":krank1:": {
+        "unicode_images": [],
+        "smiley_image": "krank1.gif"
+    },
+    ":l\u00e4stern:": {
+        "unicode_images": [],
+        "smiley_image": "laestern.gif"
     },
     ":k\u00fcsschen:": {
         "unicode_images": [
@@ -932,17 +1644,65 @@
         ],
         "smiley_image": "love_350.gif"
     },
+    ":willkommen:": {
+        "unicode_images": [],
+        "smiley_image": "Willkommen.gif"
+    },
+    ":ywsuchti:": {
+        "unicode_images": [],
+        "smiley_image": "urlaub_lapi.gif"
+    },
     ":sun:": {
         "unicode_images": [
             "1f31e.png"
         ],
         "smiley_image": "sun.gif"
     },
+    ":run:": {
+        "unicode_images": [],
+        "smiley_image": "run.gif"
+    },
+    ":chris:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_frech_126.gif"
+    },
+    ":gassi1:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_tier_142.gif"
+    },
+    ":olympia:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_sp_257.gif"
+    },
+    ":pico:": {
+        "unicode_images": [],
+        "smiley_image": "pico.gif"
+    },
     ":pray:": {
         "unicode_images": [
             "1f64f.png"
         ],
         "smiley_image": "202_animated_person_praying.gif"
+    },
+    ":mimi:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_frech_129.gif"
+    },
+    ":pecora:": {
+        "unicode_images": [],
+        "smiley_image": "n030.gif"
+    },
+    ":achso:": {
+        "unicode_images": [],
+        "smiley_image": "99.gif"
+    },
+    ":elliw:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_winke_003.gif"
+    },
+    ":sunchill:": {
+        "unicode_images": [],
+        "smiley_image": "s030.gif"
     },
     ":JoLo1:": {
         "unicode_images": [
@@ -956,16 +1716,72 @@
         ],
         "smiley_image": "blumekuss.gif"
     },
+    ":grill:": {
+        "unicode_images": [],
+        "smiley_image": "grillen.gif"
+    },
+    ":rubin:": {
+        "unicode_images": [],
+        "smiley_image": "boast.gif"
+    },
     ":gamer:": {
         "unicode_images": [
             "1f3ae.png"
         ],
         "smiley_image": "gamer4.gif"
     },
+    ":manni:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_winke_048.gif"
+    },
+    ":evi:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_girl_068.gif"
+    },
+    ":ordi:": {
+        "unicode_images": [],
+        "smiley_image": "ordi.gif"
+    },
+    ":bvb:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_bvb.gif"
+    },
+    ":shy2:": {
+        "unicode_images": [],
+        "smiley_image": "smilie_girl_066.gif"
+    },
+    ":deutschland2:": {
+        "unicode_images": [],
+        "smiley_image": "WM.gif"
+    },
+    ":uschke:": {
+        "unicode_images": [],
+        "smiley_image": "3434.gif"
+    },
+    ":admin2:": {
+        "unicode_images": [],
+        "smiley_image": "admins2.gif"
+    },
+    ":gutebesserung:": {
+        "unicode_images": [],
+        "smiley_image": "Gute Besserung.gif"
+    },
+    ":welcome:": {
+        "unicode_images": [],
+        "smiley_image": "welcome.gif"
+    },
     ":hotwheel:": {
         "unicode_images": [
             "267f.png"
         ],
         "smiley_image": "wheelchair.gif"
+    },
+    ":mokka:": {
+        "unicode_images": [],
+        "smiley_image": "mokka.gif"
+    },
+    ":schalke:": {
+        "unicode_images": [],
+        "smiley_image": "s04fahne.gif"
     }
 }
