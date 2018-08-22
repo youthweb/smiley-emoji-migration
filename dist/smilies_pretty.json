@@ -1,956 +1,971 @@
 {
     ":fischer:": {
-        "unicode": [
+        "unicode_images": [
             "1f3a3.png"
         ],
-        "isSmiley": true
+        "smiley_image": "angeln.gif"
     },
     ":sleep:": {
-        "unicode": [
+        "unicode_images": [
             "1f634.png"
         ],
-        "isSmiley": true
+        "smiley_image": "14.gif"
     },
     ":angst:": {
-        "unicode": [
+        "unicode_images": [
             "1f628.png"
         ],
-        "isSmiley": true
+        "smiley_image": "angst.gif"
     },
     ":gworsky:": {
-        "unicode": [
+        "unicode_images": [
             "1f483.png"
         ],
-        "isSmiley": true
+        "smiley_image": "crazydace.gif"
     },
     ":streiten:": {
-        "unicode": [
+        "unicode_images": [
             "1f4a2.png"
         ],
-        "isSmiley": true
+        "smiley_image": "093.gif"
     },
     ":baby:": {
-        "unicode": [
+        "unicode_images": [
             "1f476.png"
         ],
-        "isSmiley": true
+        "smiley_image": "Baby.gif"
     },
     ":birthday:": {
-        "unicode": [
+        "unicode_images": [
             "1f382.png"
         ],
-        "isSmiley": true
+        "smiley_image": "birthday.gif"
     },
     ":bounce:": {
-        "unicode": [
+        "unicode_images": [
             "1f603.png"
         ],
-        "isSmiley": true
+        "smiley_image": "a065.gif"
     },
     ":buck:": {
-        "unicode": [
+        "unicode_images": [
             "1f61d.png"
         ],
-        "isSmiley": true
+        "smiley_image": "buck.gif"
     },
     ":confused:": {
-        "unicode": [
+        "unicode_images": [
             "1f615.png"
         ],
-        "isSmiley": true
+        "smiley_image": "confused2.gif"
     },
     ":heul:": {
-        "unicode": [
+        "unicode_images": [
             "1f62d.png"
         ],
-        "isSmiley": true
+        "smiley_image": "crying.gif"
     },
     ":gg:": {
-        "unicode": [
+        "unicode_images": [
             "1f600.png"
         ],
-        "isSmiley": true
+        "smiley_image": "gg.gif"
     },
     ":king:": {
-        "unicode": [
+        "unicode_images": [
             "1f451.png"
         ],
-        "isSmiley": true
+        "smiley_image": "king.gif"
     },
     ":krach:": {
-        "unicode": [
+        "unicode_images": [
             "1f621.png"
         ],
-        "isSmiley": true
+        "smiley_image": "Krach.gif"
     },
     ":kreisen:": {
-        "unicode": [
+        "unicode_images": [
             "1f643.png"
         ],
-        "isSmiley": true
+        "smiley_image": "kreisen.gif"
     },
     ":lol:": {
-        "unicode": [
+        "unicode_images": [
             "1f606.png"
         ],
-        "isSmiley": true
+        "smiley_image": "lol.gif"
     },
     ":leaa:": {
-        "unicode": [
-            "270c.png-1f600.png-270c.png"
+        "unicode_images": [
+            "270c-fe0f.png",
+            "1f600.png",
+            "270c-fe0f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "smilie_girl_151.gif"
     },
     ":mecker:": {
-        "unicode": [
-            "261d.png-1f620.png"
+        "unicode_images": [
+            "261d-fe0f.png",
+            "1f620.png"
         ],
-        "isSmiley": true
+        "smiley_image": "mecker.gif"
     },
     ":band:": {
-        "unicode": [
-            "1f3a4.png-1f3b8.png"
+        "unicode_images": [
+            "1f3a4.png",
+            "1f3b8.png"
         ],
-        "isSmiley": true
+        "smiley_image": "Band.gif"
     },
     ":music:": {
-        "unicode": [
+        "unicode_images": [
             "1f3a7.png"
         ],
-        "isSmiley": true
+        "smiley_image": "kopfhoehrer.gif"
     },
     ":band2:": {
-        "unicode": [
-            "1f3bb.png-1f3b8.png"
+        "unicode_images": [
+            "1f3bb.png",
+            "1f3b8.png"
         ],
-        "isSmiley": true
+        "smiley_image": "musicband.gif"
     },
     ":nervensaege:": {
-        "unicode": [
+        "unicode_images": [
             "1f3bb.png"
         ],
-        "isSmiley": true
+        "smiley_image": "nervensaege.gif"
     },
     ":birthday3:": {
-        "unicode": [
+        "unicode_images": [
             "1f388.png"
         ],
-        "isSmiley": true
+        "smiley_image": "birthday3.gif"
     },
     ":lesen:": {
-        "unicode": [
+        "unicode_images": [
             "1f4da.png"
         ],
-        "isSmiley": true
+        "smiley_image": "buch.gif"
     },
     ":rofl:": {
-        "unicode": [
+        "unicode_images": [
             "1f923.png"
         ],
-        "isSmiley": true
+        "smiley_image": "rofl.gif"
     },
     ":-)": {
-        "unicode": [
-            "263a.png"
+        "unicode_images": [
+            "263a-fe0f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "smile0001.gif"
     },
     ":super:": {
-        "unicode": [
-            "1f609.png-1f44d.png"
+        "unicode_images": [
+            "1f609.png",
+            "1f44d.png"
         ],
-        "isSmiley": true
+        "smiley_image": "489.gif"
     },
     ":ww:": {
-        "unicode": [
+        "unicode_images": [
             "1f44b.png"
         ],
-        "isSmiley": true
+        "smiley_image": "222.gif"
     },
     ":blinz:": {
-        "unicode": [
+        "unicode_images": [
             "1f609.png"
         ],
-        "isSmiley": true
+        "smiley_image": "blinkendes_auge.gif"
     },
     ":crazy:": {
-        "unicode": [
+        "unicode_images": [
             "1f61c.png"
         ],
-        "isSmiley": true
+        "smiley_image": "paranoid.gif"
     },
     ":morgen:": {
-        "unicode": [
-            "1f634.png-1f304.png"
+        "unicode_images": [
+            "1f634.png",
+            "1f304.png"
         ],
-        "isSmiley": true
+        "smiley_image": "morgen.gif"
     },
     ":giveup:": {
-        "unicode": [
-            "1f3f3.png"
+        "unicode_images": [
+            "1f3f3-fe0f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "giveup.gif"
     },
     ":kruecken:": {
-        "unicode": [
+        "unicode_images": [
             "1f915.png"
         ],
-        "isSmiley": true
+        "smiley_image": "bhindi.gif"
     },
     ":essen:": {
-        "unicode": [
+        "unicode_images": [
             "1f374.png"
         ],
-        "isSmiley": true
+        "smiley_image": "39[1].gif"
     },
     ":fernsehn:": {
-        "unicode": [
-            "1f6cb.png-1f4fa.png"
+        "unicode_images": [
+            "1f6cb-fe0f.png",
+            "1f4fa.png"
         ],
-        "isSmiley": true
+        "smiley_image": "fernsehen.gif"
     },
     ":duschen:": {
-        "unicode": [
+        "unicode_images": [
             "1f6bf.png"
         ],
-        "isSmiley": true
+        "smiley_image": "00001783.gif"
     },
     ":abwasch:": {
-        "unicode": [
-            "1f37d.png-1f6b0.png"
+        "unicode_images": [
+            "1f37d-fe0f.png",
+            "1f6b0.png"
         ],
-        "isSmiley": true
+        "smiley_image": "abwasch.gif"
     },
     ":arbeiten:": {
-        "unicode": [
+        "unicode_images": [
             "1f528.png"
         ],
-        "isSmiley": true
+        "smiley_image": "00001777.gif"
     },
     ":toilette:": {
-        "unicode": [
+        "unicode_images": [
             "1f6bd.png"
         ],
-        "isSmiley": true
+        "smiley_image": "00001798.gif"
     },
     ":sdu8:": {
-        "unicode": [
+        "unicode_images": [
             "1f60e.png"
         ],
-        "isSmiley": true
+        "smiley_image": "coolkaugummi.gif"
     },
     ":arab:": {
-        "unicode": [
+        "unicode_images": [
             "1f473.png"
         ],
-        "isSmiley": true
+        "smiley_image": "arab.gif"
     },
     ":mcdonalds:": {
-        "unicode": [
-            "1f354.png-1f35f.png"
+        "unicode_images": [
+            "1f354.png",
+            "1f35f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "mcdonald.gif"
     },
     ":boxen:": {
-        "unicode": [
+        "unicode_images": [
             "1f94a.png"
         ],
-        "isSmiley": true
+        "smiley_image": "boxxen.gif"
     },
     ":verr\u00fcckt:": {
-        "unicode": [
+        "unicode_images": [
             "1f44a.png"
         ],
-        "isSmiley": true
+        "smiley_image": "verrueckt.gif"
     },
     ":urlaub:": {
-        "unicode": [
+        "unicode_images": [
             "1f3c4.png"
         ],
-        "isSmiley": true
+        "smiley_image": "strand.gif"
     },
     ":victory:": {
-        "unicode": [
-            "270c.png"
+        "unicode_images": [
+            "270c-fe0f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "b025.gif"
     },
     ":liebesbrief:": {
-        "unicode": [
+        "unicode_images": [
             "1f48c.png"
         ],
-        "isSmiley": true
+        "smiley_image": "liebesbrief.gif"
     },
     ":weinen:": {
-        "unicode": [
+        "unicode_images": [
             "1f62d.png"
         ],
-        "isSmiley": true
+        "smiley_image": "weinen.gif"
     },
     ":pcprob:": {
-        "unicode": [
-            "1f4bb.png-1f620.png-1f44a.png"
+        "unicode_images": [
+            "1f4bb.png",
+            "1f620.png",
+            "1f44a.png"
         ],
-        "isSmiley": true
+        "smiley_image": "PcProb.gif"
     },
     ":waschen2:": {
-        "unicode": [
-            "1f455.png-1f6bf.png"
+        "unicode_images": [
+            "1f455.png",
+            "1f6bf.png"
         ],
-        "isSmiley": true
+        "smiley_image": "00001797[1].gif"
     },
     ":koch:": {
-        "unicode": [
+        "unicode_images": [
             "1f373.png"
         ],
-        "isSmiley": true
+        "smiley_image": "Koch.gif"
     },
     ":baden:": {
-        "unicode": [
+        "unicode_images": [
             "1f6c0.png"
         ],
-        "isSmiley": true
+        "smiley_image": "00001779[1].gif"
     },
     ":troesten:": {
-        "unicode": [
+        "unicode_images": [
             "1f917.png"
         ],
-        "isSmiley": true
+        "smiley_image": "troesten.gif"
     },
     ":love1:": {
-        "unicode": [
+        "unicode_images": [
             "1f491.png"
         ],
-        "isSmiley": true
+        "smiley_image": "Love1.gif"
     },
     ":boxen2:": {
-        "unicode": [
+        "unicode_images": [
             "1f93c.png"
         ],
-        "isSmiley": true
+        "smiley_image": "box.gif"
     },
     ":mama:": {
-        "unicode": [
+        "unicode_images": [
             "1f469.png"
         ],
-        "isSmiley": true
+        "smiley_image": "mama.gif"
     },
     ":bye:": {
-        "unicode": [
+        "unicode_images": [
             "1f44b.png"
         ],
-        "isSmiley": true
+        "smiley_image": "fol.gif"
     },
     ":birthday2:": {
-        "unicode": [
+        "unicode_images": [
             "1f38a.png"
         ],
-        "isSmiley": true
+        "smiley_image": "birthday2.gif"
     },
     ":eingebildet:": {
-        "unicode": [
+        "unicode_images": [
             "1f633.png"
         ],
-        "isSmiley": true
+        "smiley_image": "eingebildet.gif"
     },
     ":kopfschlag:": {
-        "unicode": [
+        "unicode_images": [
             "1f926.png"
         ],
-        "isSmiley": true
+        "smiley_image": "Kopfschlag.gif"
     },
     ":baseball:": {
-        "unicode": [
+        "unicode_images": [
             "26be.png"
         ],
-        "isSmiley": true
+        "smiley_image": "aufsmaul.gif"
     },
     ":gutenacht:": {
-        "unicode": [
+        "unicode_images": [
             "1f303.png"
         ],
-        "isSmiley": true
+        "smiley_image": "Gute nacht.gif"
     },
     ":bussi:": {
-        "unicode": [
+        "unicode_images": [
             "1f48f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "bussi.gif"
     },
     ":sani:": {
-        "unicode": [
+        "unicode_images": [
             "1f691.png"
         ],
-        "isSmiley": true
+        "smiley_image": "477.gif"
     },
     ":campen:": {
-        "unicode": [
+        "unicode_images": [
             "26fa.png"
         ],
-        "isSmiley": true
+        "smiley_image": "haus56.gif"
     },
     ":inlove:": {
-        "unicode": [
+        "unicode_images": [
             "1f46b.png"
         ],
-        "isSmiley": true
+        "smiley_image": "inlove.gif"
     },
     ":rockon:": {
-        "unicode": [
+        "unicode_images": [
             "1f3b8.png"
         ],
-        "isSmiley": true
+        "smiley_image": "rockon.gif"
     },
     ":reiten:": {
-        "unicode": [
+        "unicode_images": [
             "1f3c7.png"
         ],
-        "isSmiley": true
+        "smiley_image": "Reiten.gif"
     },
     ":kotz:": {
-        "unicode": [
+        "unicode_images": [
             "1f637.png"
         ],
-        "isSmiley": true
+        "smiley_image": "kotzen.gif"
     },
     ":rofll:": {
-        "unicode": [
+        "unicode_images": [
             "1f616.png"
         ],
-        "isSmiley": true
+        "smiley_image": "rofl1.gif"
     },
     ":trainieren:": {
-        "unicode": [
+        "unicode_images": [
             "1f4aa.png"
         ],
-        "isSmiley": true
+        "smiley_image": "weight_lift.gif"
     },
     ":sboard:": {
-        "unicode": [
+        "unicode_images": [
             "1f3c2.png"
         ],
-        "isSmiley": true
+        "smiley_image": "snowboard.gif"
     },
     ":schleimer2:": {
-        "unicode": [
+        "unicode_images": [
             "1f913.png"
         ],
-        "isSmiley": true
+        "smiley_image": "nerd.gif"
     },
     ":bike:": {
-        "unicode": [
-            "1f3cd.png"
+        "unicode_images": [
+            "1f3cd-fe0f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "biker_h4h.gif"
     },
     ":lecker:": {
-        "unicode": [
+        "unicode_images": [
             "1f60b.png"
         ],
-        "isSmiley": true
+        "smiley_image": "licklips.gif"
     },
     ":l\u00fcgen:": {
-        "unicode": [
+        "unicode_images": [
             "1f925.png"
         ],
-        "isSmiley": true
+        "smiley_image": "pinoccio.gif"
     },
     ":schwein:": {
-        "unicode": [
+        "unicode_images": [
             "1f437.png"
         ],
-        "isSmiley": true
+        "smiley_image": "smiley-channel.de_schilder195.gif"
     },
     ":school:": {
-        "unicode": [
+        "unicode_images": [
             "1f3eb.png"
         ],
-        "isSmiley": true
+        "smiley_image": "012.gif"
     },
     ":charmant:": {
-        "unicode": [
+        "unicode_images": [
             "1f3a9.png"
         ],
-        "isSmiley": true
+        "smiley_image": "286.gif"
     },
     ":bigeyes:": {
-        "unicode": [
+        "unicode_images": [
             "1f440.png"
         ],
-        "isSmiley": true
+        "smiley_image": "267.gif"
     },
     ":unschuldig:": {
-        "unicode": [
+        "unicode_images": [
             "1f607.png"
         ],
-        "isSmiley": true
+        "smiley_image": "unschuldig.gif"
     },
     ":kirche:": {
-        "unicode": [
+        "unicode_images": [
             "26ea.png"
         ],
-        "isSmiley": true
+        "smiley_image": "kirche.gif"
     },
     ":frauenklatsch:": {
-        "unicode": [
+        "unicode_images": [
             "1f4ac.png"
         ],
-        "isSmiley": true
+        "smiley_image": "weiberplausch.gif"
     },
     ":boese:": {
-        "unicode": [
+        "unicode_images": [
             "1f620.png"
         ],
-        "isSmiley": true
+        "smiley_image": "boese.gif"
     },
     ";-)": {
-        "unicode": [
+        "unicode_images": [
             "1f609.png"
         ],
-        "isSmiley": true
+        "smiley_image": "winking.gif"
     },
     ":ja:": {
-        "unicode": [
-            "1f60a.png-1f44d.png"
+        "unicode_images": [
+            "1f60a.png",
+            "1f44d.png"
         ],
-        "isSmiley": true
+        "smiley_image": "ja.gif"
     },
     ":-(": {
-        "unicode": [
+        "unicode_images": [
             "1f620.png"
         ],
-        "isSmiley": true
+        "smiley_image": "mad01.gif"
     },
     ":nein:": {
-        "unicode": [
-            "1f61f.png-1f44e.png"
-        ],
-        "isSmiley": true
-    },
-    ":uncool:": {
-        "unicode": [
+        "unicode_images": [
+            "1f61f.png",
             "1f44e.png"
         ],
-        "isSmiley": true
+        "smiley_image": "nein.gif"
+    },
+    ":uncool:": {
+        "unicode_images": [
+            "1f44e.png"
+        ],
+        "smiley_image": "uncool.gif"
     },
     ":klatschen:": {
-        "unicode": [
+        "unicode_images": [
             "1f44f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "klatschen.gif"
     },
     ":handy:": {
-        "unicode": [
+        "unicode_images": [
             "1f933.png"
         ],
-        "isSmiley": true
+        "smiley_image": "handy.gif"
     },
     ":muede:": {
-        "unicode": [
+        "unicode_images": [
             "1f62a.png"
         ],
-        "isSmiley": true
+        "smiley_image": "gaehnen.gif"
     },
     ":kalt:": {
-        "unicode": [
+        "unicode_images": [
             "1f630.png"
         ],
-        "isSmiley": true
+        "smiley_image": "cold.gif"
     },
     ":wman:": {
-        "unicode": [
+        "unicode_images": [
             "1f385.png"
         ],
-        "isSmiley": true
+        "smiley_image": "weihnachtsmann.gif"
     },
     ":wman2:": {
-        "unicode": [
+        "unicode_images": [
             "1f385.png"
         ],
-        "isSmiley": true
+        "smiley_image": "woswmann950.gif"
     },
     ":hochzeit:": {
-        "unicode": [
+        "unicode_images": [
             "1f492.png"
         ],
-        "isSmiley": true
+        "smiley_image": "hochzeit.gif"
     },
     ":baden3:": {
-        "unicode": [
+        "unicode_images": [
             "1f6c1.png"
         ],
-        "isSmiley": true
+        "smiley_image": "baden3.gif"
     },
     ":cool:": {
-        "unicode": [
+        "unicode_images": [
             "1f60e.png"
         ],
-        "isSmiley": true
+        "smiley_image": "cool.gif"
     },
     ":denken:": {
-        "unicode": [
+        "unicode_images": [
             "1f614.png"
         ],
-        "isSmiley": true
+        "smiley_image": "verwirrte_026.gif"
     },
     ":romantik:": {
-        "unicode": [
+        "unicode_images": [
             "1f339.png"
         ],
-        "isSmiley": true
+        "smiley_image": "romantik.gif"
     },
     ":foto:": {
-        "unicode": [
+        "unicode_images": [
             "1f4f8.png"
         ],
-        "isSmiley": true
+        "smiley_image": "fotosmilie.gif"
     },
     ":krankes:": {
-        "unicode": [
+        "unicode_images": [
             "1f48a.png"
         ],
-        "isSmiley": true
+        "smiley_image": "Krankes.gif"
     },
     ":car:": {
-        "unicode": [
+        "unicode_images": [
             "1f697.png"
         ],
-        "isSmiley": true
+        "smiley_image": "car.gif"
     },
     ":snowboard:": {
-        "unicode": [
+        "unicode_images": [
             "1f3c2.png"
         ],
-        "isSmiley": true
+        "smiley_image": "snowboardler.gif"
     },
     ":spam:": {
-        "unicode": [
+        "unicode_images": [
             "1f38f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "forum.gif"
     },
     ":hase:": {
-        "unicode": [
+        "unicode_images": [
             "1f430.png"
         ],
-        "isSmiley": true
+        "smiley_image": "HAAAAAAAAAAAASE.gif"
     },
     ":hase3:": {
-        "unicode": [
+        "unicode_images": [
             "1f407.png"
         ],
-        "isSmiley": true
+        "smiley_image": "has2.gif"
     },
     ":herz:": {
-        "unicode": [
-            "2764.png"
+        "unicode_images": [
+            "2764-fe0f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "herzchen.gif"
     },
     ":shy:": {
-        "unicode": [
+        "unicode_images": [
             "1f60a.png"
         ],
-        "isSmiley": true
+        "smiley_image": "jo.gif"
     },
     ":tbaum:": {
-        "unicode": [
+        "unicode_images": [
             "1f384.png"
         ],
-        "isSmiley": true
+        "smiley_image": "1xmas500.gif"
     },
     ":deutschland:": {
-        "unicode": [
+        "unicode_images": [
             "1f1e9-1f1ea.png"
         ],
-        "isSmiley": true
+        "smiley_image": "deutsc.gif"
     },
     ":brasil:": {
-        "unicode": [
+        "unicode_images": [
             "1f1e7-1f1f7.png"
         ],
-        "isSmiley": true
+        "smiley_image": "brasil.gif"
     },
     ":fussball:": {
-        "unicode": [
+        "unicode_images": [
             "26bd.png"
         ],
-        "isSmiley": true
+        "smiley_image": "fussball-smilie.gif"
     },
     ":togo:": {
-        "unicode": [
+        "unicode_images": [
             "1f1f9-1f1ec.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006togo1.gif"
     },
     ":japan:": {
-        "unicode": [
+        "unicode_images": [
             "1f1ef-1f1f5.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006japan0.gif"
     },
     ":portugal:": {
-        "unicode": [
+        "unicode_images": [
             "1f1f5-1f1f9.png"
         ],
-        "isSmiley": true
+        "smiley_image": "portugal.gif"
     },
     ":tess:": {
-        "unicode": [
+        "unicode_images": [
             "1f1e8-1f1ff.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006tschechien1.gif"
     },
     ":spanien:": {
-        "unicode": [
+        "unicode_images": [
             "1f1ea-1f1f8.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006spanien1.gif"
     },
     ":angola:": {
-        "unicode": [
+        "unicode_images": [
             "1f1e6-1f1f4.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006angola2.gif"
     },
     ":Italien:": {
-        "unicode": [
+        "unicode_images": [
             "1f1ee-1f1f9.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006italien1.gif"
     },
     ":shok:": {
-        "unicode": [
+        "unicode_images": [
             "1f62f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "1shok.gif"
     },
     ":luna:": {
-        "unicode": [
+        "unicode_images": [
             "1f431.png"
         ],
-        "isSmiley": true
+        "smiley_image": "animal-smiley-031.gif"
     },
     ":holland:": {
-        "unicode": [
+        "unicode_images": [
             "1f1f3-1f1f1.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006niederlande1.gif"
     },
     ":england:": {
-        "unicode": [
+        "unicode_images": [
             "1f1ec-1f1e7.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006england1.gif"
     },
     ":ghana:": {
-        "unicode": [
+        "unicode_images": [
             "1f1ec-1f1ed.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006ghana1.gif"
     },
     ":frankreich:": {
-        "unicode": [
+        "unicode_images": [
             "1f1eb-1f1f7.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006frankreich1.gif"
     },
     ":ukraine:": {
-        "unicode": [
+        "unicode_images": [
             "1f1fa-1f1e6.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wm2006ukraine1.gif"
     },
     ":israel:": {
-        "unicode": [
+        "unicode_images": [
             "1f1ee-1f1f1.png"
         ],
-        "isSmiley": true
+        "smiley_image": "tikva.gif"
     },
     ":boese1:": {
-        "unicode": [
-            "261d.png"
+        "unicode_images": [
+            "261d-fe0f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "boese.gif"
     },
     ":boese2:": {
-        "unicode": [
+        "unicode_images": [
             "1f446.png"
         ],
-        "isSmiley": true
+        "smiley_image": "boese1.gif"
     },
     ":friend:": {
-        "unicode": [
+        "unicode_images": [
             "1f46c.png"
         ],
-        "isSmiley": true
+        "smiley_image": "friend.gif"
     },
     ":muede1:": {
-        "unicode": [
+        "unicode_images": [
             "1f629.png"
         ],
-        "isSmiley": true
+        "smiley_image": "muede.gif"
     },
     ":pizzaess:": {
-        "unicode": [
+        "unicode_images": [
             "1f355.png"
         ],
-        "isSmiley": true
+        "smiley_image": "pizzaess.gif"
     },
     ":partytime:": {
-        "unicode": [
+        "unicode_images": [
             "1f389.png"
         ],
-        "isSmiley": true
+        "smiley_image": "sta_schilder140.gif"
     },
     ":wishes:": {
-        "unicode": [
+        "unicode_images": [
             "1f388.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wishes.gif"
     },
     ":russ:": {
-        "unicode": [
+        "unicode_images": [
             "1f1f7-1f1fa.png"
         ],
-        "isSmiley": true
+        "smiley_image": "smilies_flaggen056.gif"
     },
     ":hannibal:": {
-        "unicode": [
+        "unicode_images": [
             "1f482.png"
         ],
-        "isSmiley": true
+        "smiley_image": "shv.gif"
     },
     ":sheep:": {
-        "unicode": [
+        "unicode_images": [
             "1f411.png"
         ],
-        "isSmiley": true
+        "smiley_image": "sheep.gif"
     },
     ":grizzly:": {
-        "unicode": [
+        "unicode_images": [
             "1f43b.png"
         ],
-        "isSmiley": true
+        "smiley_image": "Teddy.gif"
     },
     ":klavier:": {
-        "unicode": [
+        "unicode_images": [
             "1f3b9.png"
         ],
-        "isSmiley": true
+        "smiley_image": "klvier.gif"
     },
     ":sylvester:": {
-        "unicode": [
+        "unicode_images": [
             "1f386.png"
         ],
-        "isSmiley": true
+        "smiley_image": "weihnachten17.gif"
     },
     ":radfahrer:": {
-        "unicode": [
+        "unicode_images": [
             "1f6b4.png"
         ],
-        "isSmiley": true
+        "smiley_image": "chiller.gif"
     },
     ":bball:": {
-        "unicode": [
+        "unicode_images": [
             "1f3c0.png"
         ],
-        "isSmiley": true
+        "smiley_image": "baseball.gif"
     },
     ":eis:": {
-        "unicode": [
+        "unicode_images": [
             "1f366.png"
         ],
-        "isSmiley": true
+        "smiley_image": "eis.gif"
     },
     ":geige:": {
-        "unicode": [
+        "unicode_images": [
             "1f3bb.png"
         ],
-        "isSmiley": true
+        "smiley_image": "gaige.gif"
     },
     ":training:": {
-        "unicode": [
+        "unicode_images": [
             "1f4aa.png"
         ],
-        "isSmiley": true
+        "smiley_image": "training1.gif"
     },
     ":otto:": {
-        "unicode": [
+        "unicode_images": [
             "1f3c6.png"
         ],
-        "isSmiley": true
+        "smiley_image": "eclipsee_gold_cup.gif"
     },
     ":diddy:": {
-        "unicode": [
+        "unicode_images": [
             "1f941.png"
         ],
-        "isSmiley": true
+        "smiley_image": "schlagzeug.gif"
     },
     ":basketball:": {
-        "unicode": [
-            "26f9.png"
+        "unicode_images": [
+            "26f9-fe0f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "basketball.gif"
     },
     ":boxer1:": {
-        "unicode": [
+        "unicode_images": [
             "1f94a.png"
         ],
-        "isSmiley": true
+        "smiley_image": "boxer.gif"
     },
     ":gitarre:": {
-        "unicode": [
+        "unicode_images": [
             "1f3b8.png"
         ],
-        "isSmiley": true
+        "smiley_image": "gittare.gif"
     },
     ":sos:": {
-        "unicode": [
+        "unicode_images": [
             "1f198.png"
         ],
-        "isSmiley": true
+        "smiley_image": "help_sos.gif"
     },
     ":k\u00fcsschen:": {
-        "unicode": [
+        "unicode_images": [
             "1f48f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "love_350.gif"
     },
     ":sun:": {
-        "unicode": [
+        "unicode_images": [
             "1f31e.png"
         ],
-        "isSmiley": true
+        "smiley_image": "sun.gif"
     },
     ":pray:": {
-        "unicode": [
+        "unicode_images": [
             "1f64f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "202_animated_person_praying.gif"
     },
     ":JoLo1:": {
-        "unicode": [
+        "unicode_images": [
             "1f3b7.png"
         ],
-        "isSmiley": true
+        "smiley_image": "saxo.gif"
     },
     ":bl\u00fcmchen:": {
-        "unicode": [
+        "unicode_images": [
             "1f490.png"
         ],
-        "isSmiley": true
+        "smiley_image": "blumekuss.gif"
     },
     ":gamer:": {
-        "unicode": [
+        "unicode_images": [
             "1f3ae.png"
         ],
-        "isSmiley": true
+        "smiley_image": "gamer4.gif"
     },
     ":hotwheel:": {
-        "unicode": [
+        "unicode_images": [
             "267f.png"
         ],
-        "isSmiley": true
+        "smiley_image": "wheelchair.gif"
     }
 }

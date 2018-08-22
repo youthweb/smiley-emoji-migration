@@ -53,15 +53,12 @@ class Converter
 				continue;
 			}
 
-			$unicode = implode('-', $raw_part['unicodes']);
+			$smiley_code = $raw_part['smiley_code'];
 
-			$data_set = [
-				//'isCanonical' = false,
-				'unicode' => [$unicode],
-				'isSmiley' => true,
+			$data[$smiley_code] = [
+				'unicode_images' => $raw_part['unicodes'],
+				'smiley_image' => $raw_part['smiley_filename'],
 			];
-
-			$data[$raw_part['smiley_code']] = $data_set;
 		}
 
 		return json_encode($data, $options);
