@@ -1,7 +1,7 @@
 const Normalizer = require('../../lib/emojidata-normalizer');
 
 describe('The Normalizer', () => {
-    describe('on method normalizeEmojiData()', () => {
+    describe('on method normalizeData()', () => {
         var normalizer = new Normalizer();
         // Data from https://github.com/iamcal/emoji-data#using-the-data
         var data = [
@@ -165,7 +165,7 @@ describe('The Normalizer', () => {
         };
 
         it('returns normalized data', () => {
-            expect(normalizer.normalizeEmojiData(data)).toEqual(expected);
+            expect(normalizer.normalizeData(data)).toEqual(expected);
         });
     });
 });
