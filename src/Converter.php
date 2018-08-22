@@ -15,11 +15,11 @@ class Converter
 	/**
 	 * export as json
 	 */
-	public function toJsonFile($file_path)
+	public function toJsonFile($file_path, $options = 0)
 	{
 		$file_path = realpath($file_path);
 
-		$data = $this->createJson();
+		$data = $this->createJson($options);
 
 		file_put_contents($file_path, $data);
 	}
@@ -38,7 +38,7 @@ class Converter
 		file_put_contents($file_path, $content);
 	}
 
-	private function createJson()
+	private function createJson($options = 0)
 	{
 		$parser = new Parser();
 
@@ -64,6 +64,6 @@ class Converter
 			$data[$raw_part['smiley_code']] = $data_set;
 		}
 
-		return json_encode($data);
+		return json_encode($data, $options);
 	}
 }
