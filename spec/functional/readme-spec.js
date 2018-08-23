@@ -2,18 +2,12 @@ const fs = require('fs');
 const Normalizer = require('../../lib/readme-normalizer');
 
 describe('The README.md file is normalized', () => {
-    var dataPromise = new Promise((resolve, reject) => {
-        var readmeData = fs.readFileSync('./README.md');
-        var readmeNormalizer = new Normalizer();
-        var normalized = readmeNormalizer.normalizeData(readmeData.toString());
-
-        resolve(normalized);
-    });
+    var readmeData = fs.readFileSync('./README.md');
+    var readmeNormalizer = new Normalizer();
+    var normalized = readmeNormalizer.normalizeData(readmeData.toString());
 
     it('and contains 363 entries', () => {
-        return dataPromise.then((result) => {
-            expect(Object.entries(result).length).toBe(363);
-        })
+        expect(Object.entries(normalized).length).toBe(363);
     });
 });
 
