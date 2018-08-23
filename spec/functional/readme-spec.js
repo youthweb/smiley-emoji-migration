@@ -28,7 +28,7 @@ describe('The README.md file is normalized', () => {
             var entry = normalized[shortcode];
 
             it('has the right shortcode format', () => {
-                expect(shortcode).toMatch(/^:[a-z0-9äöü]+:$|^[:|;]-[\)|\(|\[|p]$|^:\($/gi);
+                expect(shortcode).toMatch(/^:[a-z0-9äöü]+:$|^:weck$|^[:|;]-[\)|\(|\[|p]$|^:\($/gi);
             });
 
             it('has the right properties', () => {
