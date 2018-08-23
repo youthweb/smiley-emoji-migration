@@ -22,9 +22,14 @@ describe('The README.md file is normalized', () => {
     var readmeNormalizer = new Normalizer();
     var normalized = readmeNormalizer.normalizeData(readmeData.toString());
 
-    for (var shortcode in normalized) {
-        describe('and the entry "'+shortcode+'"', () => {
+    for (var code in normalized) {
+        describe('and the entry "'+code+'"', () => {
+            var shortcode = code;
             var entry = normalized[shortcode];
+
+            it('has the right shortcode format', () => {
+                expect(shortcode).toMatch(/[:|;]\+?\-?[a-z0-9_\(\)\[]+:?/gi);
+            });
 
             it('has the right properties', () => {
                 expect(Object.keys(entry)).toEqual(['unicode_images', 'smiley_image']);
