@@ -12,6 +12,6 @@ var readmeData = fs.readFileSync('./README.md');
 var readmeNormalizer = new ReadmeNormalizer();
 var data = readmeNormalizer.normalizeData(readmeData.toString());
 
-fs.writeFileSync('./dist/readmedata_pretty.json', JSON.stringify(data, null, 4));
+fs.writeFileSync('./dist/smilies_pretty.json', JSON.stringify(data, null, 4));
 
 console.log('All maps were created.');
