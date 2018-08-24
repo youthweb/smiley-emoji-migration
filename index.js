@@ -1,3 +1,4 @@
-const data = require('dist/emojidata_pretty.json');
+const emojisData = require('dist/emojidata_pretty.json');
+const smiliesData = require('dist/smilies_pretty.json');
 
-module.exports.maps.shortcode_to_images = data;
+module.exports.maps.shortcodeToImagesMap = Object.assign({}, emojisData, smiliesData);

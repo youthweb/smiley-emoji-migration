@@ -1,6 +1,6 @@
 {
   "name": "smiley-emoji-migration",
-  "version": "1.0.0",
+  "version": "1.0.0-RC1",
   "description": "Migration of smilies to emojis at Youthweb.net",
   "main": "index.js",
   "directories": {
