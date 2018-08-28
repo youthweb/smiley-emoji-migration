@@ -1092,13 +1092,13 @@
         "smiley_image": "platzverweis.gif"
     },
     ":leeep:": {
-        "unicode_images": [],
-        "smiley_image": "leep.gif"
-    },
-    ":-[": {
         "unicode_images": [
             "1f607.png"
         ],
+        "smiley_image": "leep.gif"
+    },
+    ":-[": {
+        "unicode_images": [],
         "smiley_image": "49_2.gif"
     },
     ":togo:": {

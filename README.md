@@ -1,6 +1,6 @@
 # Migration der Smilies zu Emojis
 
-Fortschritt: ![](http://progressed.io/bar/44) (161/363)
+Fortschritt: ![](http://progressed.io/bar/42) (161/363)
 
 [![Build Status](https://travis-ci.org/youthweb/smiley-emoji-migration.svg?branch=master)](https://travis-ci.org/youthweb/smiley-emoji-migration)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/youthweb/smiley-emoji-migration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -256,8 +256,8 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:fussball:` | ![](https://youthweb.net/dist/smilies/fussball-smilie.gif) | ![](/dist/png-64/26bd.png) | `:soccer:` | `fussball-smilie.gif`
 `:kopfball:` | ![](https://youthweb.net/dist/smilies/soccer_2.gif) | :question: | `` | `soccer_2.gif`
 `:rot:` | ![](https://youthweb.net/dist/smilies/platzverweis.gif) | :question: | `` | `platzverweis.gif`
-`:leeep:` | ![](https://youthweb.net/dist/smilies/leep.gif) | :question: | `` | `leep.gif`
-`:-[` | ![](https://youthweb.net/dist/smilies/49_2.gif) | ![](/dist/png-64/1f607.png) | `:innocent:` | `49_2.gif`
+`:leeep:` | ![](https://youthweb.net/dist/smilies/leep.gif) | ![](/dist/png-64/1f607.png) | `:innocent:` | `leep.gif`
+`:-[` | ![](https://youthweb.net/dist/smilies/49_2.gif) | :question: | `` | `49_2.gif`
 `:togo:` | ![](https://youthweb.net/dist/smilies/wm2006togo1.gif) | ![](/dist/png-64/1f1f9-1f1ec.png) | `:tg:` | `wm2006togo1.gif`
 `:japan:` | ![](https://youthweb.net/dist/smilies/wm2006japan0.gif) | ![](/dist/png-64/1f1ef-1f1f5.png) | `:jp:` | `wm2006japan0.gif`
 `:roli:` | ![](https://youthweb.net/dist/smilies/boese2.gif) | :question: | `` | `boese2.gif`
