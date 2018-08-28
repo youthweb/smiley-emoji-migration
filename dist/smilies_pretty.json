@@ -437,7 +437,10 @@
         "smiley_image": "schleimer.gif"
     },
     ":gassi:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f436.png",
+            "1f6b6.png"
+        ],
         "smiley_image": "smilie_hund1.gif"
     },
     ":heck:": {
@@ -1093,7 +1096,9 @@
         "smiley_image": "leep.gif"
     },
     ":-[": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f607.png"
+        ],
         "smiley_image": "49_2.gif"
     },
     ":togo:": {
