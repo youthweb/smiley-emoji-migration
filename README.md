@@ -1,6 +1,6 @@
 # Migration der Smilies zu Emojis
 
-Fortschritt: ![](http://progressed.io/bar/42) (161/363)
+Fortschritt: ![](http://progressed.io/bar/45) (165/363)
 
 [![Build Status](https://travis-ci.org/youthweb/smiley-emoji-migration.svg?branch=master)](https://travis-ci.org/youthweb/smiley-emoji-migration)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/youthweb/smiley-emoji-migration?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -156,11 +156,11 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:ala:` | ![](https://youthweb.net/dist/smilies/ala.gif) | :question: | `` | `ala.gif`
 `:bike:` | ![](https://youthweb.net/dist/smilies/biker_h4h.gif) | ![](/dist/png-64/1f3cd-fe0f.png) | `:motorcycle:` | `biker_h4h.gif`
 `:lecker:` | ![](https://youthweb.net/dist/smilies/licklips.gif) | ![](/dist/png-64/1f60b.png) | `:yum:` | `licklips.gif`
-`:schlafen:` | ![](https://youthweb.net/dist/smilies/456.gif) | :question: | `` | `456.gif`
+`:schlafen:` | ![](https://youthweb.net/dist/smilies/456.gif) | ![](/dist/png-64/1f6cc.png) | `:sleeping_accommodation:` | `456.gif`
 `:rappen:` | ![](https://youthweb.net/dist/smilies/rappen.gif) | :question: | `` | `rappen.gif`
 `:ohnmacht:` | ![](https://youthweb.net/dist/smilies/Ohnmacht1.gif) | :question: | `` | `Ohnmacht1.gif`
 `:wersucht:` | ![](https://youthweb.net/dist/smilies/wrsucht.gif) | :question: | `` | `wrsucht.gif`
-`:insel:` | ![](https://youthweb.net/dist/smilies/Insel.gif) | :question: | `` | `Insel.gif`
+`:insel:` | ![](https://youthweb.net/dist/smilies/Insel.gif) | ![](/dist/png-64/1f3dd.png) | `:island:` | `Insel.gif`
 `:lügen:` | ![](https://youthweb.net/dist/smilies/pinoccio.gif) | ![](/dist/png-64/1f925.png) | `:lying_face:` | `pinoccio.gif`
 `:freak:` | ![](https://youthweb.net/dist/smilies/smiley-channel.de_schilder173.gif) | :question: | `` | `smiley-channel.de_schilder173.gif`
 `:schwein:` | ![](https://youthweb.net/dist/smilies/smiley-channel.de_schilder195.gif) | ![](/dist/png-64/1f437.png) | `:pig:` | `smiley-channel.de_schilder195.gif`
@@ -182,7 +182,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:verneigen:` | ![](https://youthweb.net/dist/smilies/verneigen.gif) | :question: | `` | `verneigen.gif`
 `;-)` | ![](https://youthweb.net/dist/smilies/winking.gif) | ![](/dist/png-64/1f609.png) | `:wink:` | `winking.gif`
 `:ja:` | ![](https://youthweb.net/dist/smilies/ja.gif) | ![](/dist/png-64/1f60a.png)![](/dist/png-64/1f44d.png) | `:blush::thumbsup:` | `ja.gif`
-`:-p` | ![](https://youthweb.net/dist/smilies/zunge.gif) | :question: | `` | `zunge.gif`
+`:-p` | ![](https://youthweb.net/dist/smilies/zunge.gif) | ![](/dist/png-64/1f61d.png) | `:stuck_out_tongue_closed_eyes:` | `zunge.gif`
 `:-(` | ![](https://youthweb.net/dist/smilies/mad01.gif) | ![](/dist/png-64/1f620.png) | `:angry:` | `mad01.gif`
 `:nein:` | ![](https://youthweb.net/dist/smilies/nein.gif) | ![](/dist/png-64/1f61f.png)![](/dist/png-64/1f44e.png) | `:worried::thumbsdown:` | `nein.gif`
 `:uncool:` | ![](https://youthweb.net/dist/smilies/uncool.gif) | ![](/dist/png-64/1f44e.png) | `:thumbsdown:` | `uncool.gif`
@@ -209,7 +209,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:(` | ![](https://youthweb.net/dist/smilies/frown.gif) | :question: | `` | `frown.gif`
 `:knuddel2:` | ![](https://youthweb.net/dist/smilies/liebe_061.gif) | :question: | `` | `liebe_061.gif`
 `:denken:` | ![](https://youthweb.net/dist/smilies/verwirrte_026.gif) | ![](/dist/png-64/1f614.png) | `:pensive:` | `verwirrte_026.gif`
-`:denken2:` | ![](https://youthweb.net/dist/smilies/Denken2.gif) | :question: | `` | `Denken2.gif`
+`:denken2:` | ![](https://youthweb.net/dist/smilies/Denken2.gif) | ![](/dist/png-64/1f914.png) | `:thinking:` | `Denken2.gif`
 `:denken3:` | ![](https://youthweb.net/dist/smilies/idee.gif) | :question: | `` | `idee.gif`
 `:knuddel3:` | ![](https://youthweb.net/dist/smilies/liebe_028.gif) | :question: | `` | `liebe_028.gif`
 `:romantik:` | ![](https://youthweb.net/dist/smilies/romantik.gif) | ![](/dist/png-64/1f339.png) | `:rose:` | `romantik.gif`

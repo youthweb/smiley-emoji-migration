@@ -614,7 +614,9 @@
         "smiley_image": "licklips.gif"
     },
     ":schlafen:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f6cc.png"
+        ],
         "smiley_image": "456.gif"
     },
     ":rappen:": {
@@ -630,7 +632,9 @@
         "smiley_image": "wrsucht.gif"
     },
     ":insel:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f3dd.png"
+        ],
         "smiley_image": "Insel.gif"
     },
     ":lügen:": {
@@ -741,7 +745,9 @@
         "smiley_image": "ja.gif"
     },
     ":-p": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f61d.png"
+        ],
         "smiley_image": "zunge.gif"
     },
     ":-(": {
@@ -876,7 +882,9 @@
         "smiley_image": "verwirrte_026.gif"
     },
     ":denken2:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f914.png"
+        ],
         "smiley_image": "Denken2.gif"
     },
     ":denken3:": {

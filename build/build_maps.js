@@ -25,5 +25,6 @@ for (var entry of Object.entries(data)) {
 }
 var percent = (100 * count / 363).toFixed(1);
 console.log(count+' of 363 ('+percent+'%) smilies have a Emoji replacement.');
+console.log((363 - count)+' of 363 Emoji replacements are missing.');
 
 console.log('All maps were created.');
