@@ -518,7 +518,10 @@
         "smiley_image": "kotzen.gif"
     },
     ":pfeifen:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f617.png",
+            "1f3b6.png"
+        ],
         "smiley_image": "a050.gif"
     },
     ":feierabend:": {
@@ -566,7 +569,9 @@
         "smiley_image": "stecher.gif"
     },
     ":bart:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f9d4.png"
+        ],
         "smiley_image": "disguise.gif"
     },
     ":rofll:": {
@@ -888,7 +893,10 @@
         "smiley_image": "Denken2.gif"
     },
     ":denken3:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f914.png",
+            "1f4a1.png"
+        ],
         "smiley_image": "idee.gif"
     },
     ":knuddel3:": {
@@ -918,7 +926,9 @@
         "smiley_image": "Krankes.gif"
     },
     ":doof1:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f926.png"
+        ],
         "smiley_image": "bin_ich_doof.gif"
     },
     ":car:": {
@@ -1296,7 +1306,10 @@
         "smiley_image": "traurig.gif"
     },
     ":super1:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f642.png",
+            "1f44d.png"
+        ],
         "smiley_image": "froh.gif"
     },
     ":ody:": {
