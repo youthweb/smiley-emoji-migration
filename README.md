@@ -134,7 +134,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:inlove:` | ![](https://youthweb.net/dist/smilies/inlove.gif) | ![](/dist/png-64/1f46b.png) | `:couple:` | `inlove.gif`
 `:rockon:` | ![](https://youthweb.net/dist/smilies/rockon.gif) | ![](/dist/png-64/1f3b8.png) | `:guitar:` | `rockon.gif`
 `:reiten:` | ![](https://youthweb.net/dist/smilies/Reiten.gif) | ![](/dist/png-64/1f3c7.png) | `:horse_racing:` | `Reiten.gif`
-`:kotz:` | ![](https://youthweb.net/dist/smilies/kotzen.gif) | ![](/dist/png-64/1f637.png) | `:mask:` | `kotzen.gif`
+`:kotz:` | ![](https://youthweb.net/dist/smilies/kotzen.gif) | ![](/dist/png-64/1f922.png)![](/dist/png-64/1f92e.png) | `:nauseated_face::face_vomiting:` | `kotzen.gif`
 `:pfeifen:` | ![](https://youthweb.net/dist/smilies/a050.gif) | ![](/dist/png-64/1f617.png)![](/dist/png-64/1f3b6.png) | `:kissing::notes:` | `a050.gif`
 `:feierabend:` | ![](https://youthweb.net/dist/smilies/feierabend.gif) | :question: | `` | `feierabend.gif`
 `:danke:` | ![](https://youthweb.net/dist/smilies/Danke.gif) | :question: | `` | `Danke.gif`

@@ -513,7 +513,8 @@
     },
     ":kotz:": {
         "unicode_images": [
-            "1f637.png"
+            "1f922.png",
+            "1f92e.png"
         ],
         "smiley_image": "kotzen.gif"
     },
