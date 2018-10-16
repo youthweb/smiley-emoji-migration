@@ -105,7 +105,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:respekt:` | ![](https://youthweb.net/dist/smilies/288.gif) | :question: | `` | `288.gif`
 `:naund:` | ![](https://youthweb.net/dist/smilies/00000673.gif) | :question: | `` | `00000673.gif`
 `:doof:` | ![](https://youthweb.net/dist/smilies/doof.gif) | :question: | `` | `doof.gif`
-`:ethe:` | ![](https://youthweb.net/dist/smilies/blumen.gif) | :question: | `` | `blumen.gif`
+`:ethe:` | ![](https://youthweb.net/dist/smilies/blumen.gif) | ![](/dist/png-64/1f642.png)![](/dist/png-64/1f339.png) | `:slightly_smiling_face::rose:` | `blumen.gif`
 `:pascholti:` | ![](https://youthweb.net/dist/smilies/paschol.png) | :question: | `` | `paschol.png`
 `:love1:` | ![](https://youthweb.net/dist/smilies/Love1.gif) | ![](/dist/png-64/1f491.png) | `:couple_with_heart:` | `Love1.gif`
 `:boxen2:` | ![](https://youthweb.net/dist/smilies/box.gif) | ![](/dist/png-64/1f93c.png) | `:wrestlers:` | `box.gif`
