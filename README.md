@@ -144,7 +144,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:gibtnix:` | ![](https://youthweb.net/dist/smilies/gibtnix.gif) | :question: | `` | `gibtnix.gif`
 `:wiejetzt:` | ![](https://youthweb.net/dist/smilies/haewiejetzt.gif) | :question: | `` | `haewiejetzt.gif`
 `:hilfe:` | ![](https://youthweb.net/dist/smilies/iloveme.gif) | :question: | `` | `iloveme.gif`
-`:partyon:` | ![](https://youthweb.net/dist/smilies/partyon+.gif) | :question: | ` ` | `partyon+.gif`
+`:partyon:` | ![](https://youthweb.net/dist/smilies/partyon+.gif) | :question: | `` | `partyon+.gif`
 `:wolke7:` | ![](https://youthweb.net/dist/smilies/love5.gif) | ![](/dist/png-64/1f60a.png)![](/dist/png-64/2601-fe0f.png)![](/dist/png-64/0037-fe0f-20e3.png) | `:blush::cloud::seven:` | `love5.gif`
 `:stecher:` | ![](https://youthweb.net/dist/smilies/stecher.gif) | :question: | `` | `stecher.gif`
 `:bart:` | ![](https://youthweb.net/dist/smilies/disguise.gif) | ![](/dist/png-64/1f9d4.png) | `:bearded_person:` | `disguise.gif`
