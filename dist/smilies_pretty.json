@@ -151,7 +151,11 @@
         "smiley_image": "birthday3.gif"
     },
     ":schulstreit:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f92c.png",
+            "1f4a2.png",
+            "1f620.png"
+        ],
         "smiley_image": "059.gif"
     },
     ":lesen:": {
@@ -168,7 +172,7 @@
     },
     ":-)": {
         "unicode_images": [
-            "263a-fe0f.png"
+            "1f600.png"
         ],
         "smiley_image": "smile0001.gif"
     },
@@ -363,7 +367,10 @@
         "smiley_image": "doof.gif"
     },
     ":ethe:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f642.png",
+            "1f339.png"
+        ],
         "smiley_image": "blumen.gif"
     },
     ":pascholti:": {
@@ -444,7 +451,9 @@
         "smiley_image": "smilie_hund1.gif"
     },
     ":heck:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f60f.png"
+        ],
         "smiley_image": "heck.gif"
     },
     ":baseball:": {
@@ -464,7 +473,10 @@
         "smiley_image": "Gute nacht.gif"
     },
     ":weck": {
-        "unicode_images": [],
+        "unicode_images": [
+            "23f0.png",
+            "1f92c.png"
+        ],
         "smiley_image": "62.gif"
     },
     ":bussi:": {
@@ -480,7 +492,10 @@
         "smiley_image": "477.gif"
     },
     ":worship:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f604.png",
+            "1f44f.png"
+        ],
         "smiley_image": "a030.gif"
     },
     ":regin:": {
@@ -562,7 +577,11 @@
         "smiley_image": "partyon+.gif"
     },
     ":wolke7:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f60a.png",
+            "2601-fe0f.png",
+            "0037-fe0f-20e3.png"
+        ],
         "smiley_image": "love5.gif"
     },
     ":stecher:": {
@@ -604,7 +623,9 @@
         "smiley_image": "boxed3_h4h.gif"
     },
     ":ala:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f9d4.png"
+        ],
         "smiley_image": "ala.gif"
     },
     ":bike:": {
@@ -626,11 +647,16 @@
         "smiley_image": "456.gif"
     },
     ":rappen:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f57a.png",
+            "1f3a4.png"
+        ],
         "smiley_image": "rappen.gif"
     },
     ":ohnmacht:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f635.png"
+        ],
         "smiley_image": "Ohnmacht1.gif"
     },
     ":wersucht:": {
@@ -684,11 +710,16 @@
         "smiley_image": "286.gif"
     },
     ":ausflippen:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f604.png"
+        ],
         "smiley_image": "522.gif"
     },
     ":ww2:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f622.png",
+            "1f44b.png"
+        ],
         "smiley_image": "221.gif"
     },
     ":bigeyes:": {
@@ -698,7 +729,9 @@
         "smiley_image": "267.gif"
     },
     ":kaputtlachen:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f602.png"
+        ],
         "smiley_image": "281.gif"
     },
     ":unschuldig:": {
@@ -724,7 +757,10 @@
         "smiley_image": "379.gif"
     },
     ":essen2:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f642.png",
+            "1f37f.png"
+        ],
         "smiley_image": "essen.gif"
     },
     ":boese:": {
@@ -734,7 +770,9 @@
         "smiley_image": "boese.gif"
     },
     ":verneigen:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f647.png"
+        ],
         "smiley_image": "verneigen.gif"
     },
     ";-)": {
@@ -794,7 +832,9 @@
         "smiley_image": "gaehnen.gif"
     },
     ":keineahnung:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f610.png"
+        ],
         "smiley_image": "keineahnung.gif"
     },
     ":rudolf:": {
@@ -852,7 +892,9 @@
         "smiley_image": "484.gif"
     },
     ":jeff:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f92c.png"
+        ],
         "smiley_image": "Jeff.gif"
     },
     ":knuddell:": {
@@ -1510,7 +1552,9 @@
         "smiley_image": "roflll.gif"
     },
     ":ohnmacht1:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f635.png"
+        ],
         "smiley_image": "ohnmacht.gif"
     },
     ":sylvester:": {
