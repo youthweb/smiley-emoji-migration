@@ -151,9 +151,9 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:rofll:` | ![](https://youthweb.net/dist/smilies/rofl1.gif) | ![](/dist/png-64/1f616.png) | `:confounded:` | `rofl1.gif`
 `:trainieren:` | ![](https://youthweb.net/dist/smilies/weight_lift.gif) | ![](/dist/png-64/1f4aa.png) | `:muscle:` | `weight_lift.gif`
 `:sboard:` | ![](https://youthweb.net/dist/smilies/snowboard.gif) | ![](/dist/png-64/1f3c2.png) | `:snowboarder:` | `snowboard.gif`
-`:schleimer2:` | ![](https://youthweb.net/dist/smilies/nerd.gif) | ![](/dist/png-64/1f913.png) | :nerd: | `nerd.gif`
+`:schleimer2:` | ![](https://youthweb.net/dist/smilies/nerd.gif) | ![](/dist/png-64/1f913.png) | `:nerd:` | `nerd.gif`
 `:boxer:` | ![](https://youthweb.net/dist/smilies/boxed3_h4h.gif) | :question: | `` | `boxed3_h4h.gif`
-`:ala:` | ![](https://youthweb.net/dist/smilies/ala.gif) | :question: | `` | `ala.gif`
+`:ala:` | ![](https://youthweb.net/dist/smilies/ala.gif) | ![](/dist/png-64/1f9d4.png) | `:bearded_person:` | `ala.gif`
 `:bike:` | ![](https://youthweb.net/dist/smilies/biker_h4h.gif) | ![](/dist/png-64/1f3cd-fe0f.png) | `:motorcycle:` | `biker_h4h.gif`
 `:lecker:` | ![](https://youthweb.net/dist/smilies/licklips.gif) | ![](/dist/png-64/1f60b.png) | `:yum:` | `licklips.gif`
 `:schlafen:` | ![](https://youthweb.net/dist/smilies/456.gif) | ![](/dist/png-64/1f6cc.png) | `:sleeping_accommodation:` | `456.gif`
