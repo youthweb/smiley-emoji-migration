@@ -121,7 +121,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:noterror:` | ![](https://youthweb.net/dist/smilies/noterror.gif) | :question: | `` | `noterror.gif`
 `:schleimer:` | ![](https://youthweb.net/dist/smilies/schleimer.gif) | :question: | `` | `schleimer.gif`
 `:gassi:` | ![](https://youthweb.net/dist/smilies/smilie_hund1.gif) | ![](/dist/png-64/1f436.png)![](/dist/png-64/1f6b6.png) | `:dog::walking:` | `smilie_hund1.gif`
-`:heck:` | ![](https://youthweb.net/dist/smilies/heck.gif) | :question: | `` | `heck.gif`
+`:heck:` | ![](https://youthweb.net/dist/smilies/heck.gif) | ![](/dist/png-64/1f60f.png) | `:smirk:` | `heck.gif`
 `:baseball:` | ![](https://youthweb.net/dist/smilies/aufsmaul.gif) | ![](/dist/png-64/26be.png) | `:baseball:` | `aufsmaul.gif`
 `:heuldoch:` | ![](https://youthweb.net/dist/smilies/heuldoch.gif) | :question: | `` | `heuldoch.gif`
 `:gutenacht:` | ![](https://youthweb.net/dist/smilies/Gute%20nacht.gif) | ![](/dist/png-64/1f303.png) | `:night_with_stars:` | `Gute nacht.gif`
