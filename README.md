@@ -125,7 +125,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:baseball:` | ![](https://youthweb.net/dist/smilies/aufsmaul.gif) | ![](/dist/png-64/26be.png) | `:baseball:` | `aufsmaul.gif`
 `:heuldoch:` | ![](https://youthweb.net/dist/smilies/heuldoch.gif) | :question: | `` | `heuldoch.gif`
 `:gutenacht:` | ![](https://youthweb.net/dist/smilies/Gute%20nacht.gif) | ![](/dist/png-64/1f303.png) | `:night_with_stars:` | `Gute nacht.gif`
-`:weck` | ![](https://youthweb.net/dist/smilies/62.gif) | :question: | `` | `62.gif`
+`:weck` | ![](https://youthweb.net/dist/smilies/62.gif) | ![](/dist/png-64/23f0.png)![](/dist/png-64/1f92c.png) | `:alarm_clock::face_with_symbols_on_mouth:` | `62.gif`
 `:bussi:` | ![](https://youthweb.net/dist/smilies/bussi.gif) | ![](/dist/png-64/1f48f.png) | `:couplekiss:` | `bussi.gif`
 `:sani:` | ![](https://youthweb.net/dist/smilies/477.gif) | ![](/dist/png-64/1f691.png) | `:ambulance:` | `477.gif`
 `:worship:` | ![](https://youthweb.net/dist/smilies/a030.gif) | :question: | `` | `a030.gif`
