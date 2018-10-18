@@ -309,7 +309,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:yw:` | ![](https://youthweb.net/dist/smilies/fehler.gif) | :question: | `` | `fehler.gif`
 `:schild:` | ![](https://youthweb.net/dist/smilies/schild.gif) | :question: | `` | `schild.gif`
 `:firefox1:` | ![](https://youthweb.net/dist/smilies/mozilla.gif) | :question: | `` | `mozilla.gif`
-`:2lee:` | ![](https://youthweb.net/dist/smilies/lee.gif) | :question: | `` | `lee.gif`
+`:2lee:` | ![](https://youthweb.net/dist/smilies/lee.gif) | ![](/dist/png-64/1f3b9.png) | :musical_keyboard: | `lee.gif`
 `:pizzaess:` | ![](https://youthweb.net/dist/smilies/pizzaess.gif) | ![](/dist/png-64/1f355.png) | `:pizza:` | `pizzaess.gif`
 `:emoo:` | ![](https://youthweb.net/dist/smilies/emo.gif) | :question: | `` | `emo.gif`
 `:hehe:` | ![](https://youthweb.net/dist/smilies/hehe.gif) | :question: | `` | `hehe.gif`
