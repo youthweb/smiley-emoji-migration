@@ -391,7 +391,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:sunchill:` | ![](https://youthweb.net/dist/smilies/s030.gif) | :question: | `` | `s030.gif`
 `:JoLo1:` | ![](https://youthweb.net/dist/smilies/saxo.gif) | ![](/dist/png-64/1f3b7.png) | `:saxophone:` | `saxo.gif`
 `:blümchen:` | ![](https://youthweb.net/dist/smilies/blumekuss.gif) | ![](/dist/png-64/1f490.png) | `:bouquet:` | `blumekuss.gif`
-`:grill:` | ![](https://youthweb.net/dist/smilies/grillen.gif) | :question: | `` | `grillen.gif`
+`:grill:` | ![](https://youthweb.net/dist/smilies/grillen.gif) | ![](/dist/png-64/1f525.png)![](/dist/png-64/1f969.png) | `:fire::cut_of_meat:` | `grillen.gif`
 `:rubin:` | ![](https://youthweb.net/dist/smilies/boast.gif) | :question: | `` | `boast.gif`
 `:gamer:` | ![](https://youthweb.net/dist/smilies/gamer4.gif) | ![](/dist/png-64/1f3ae.png) | `:video_game:` | `gamer4.gif`
 `:manni:` | ![](https://youthweb.net/dist/smilies/smilie_winke_048.gif) | :question: | `` | `smilie_winke_048.gif`
