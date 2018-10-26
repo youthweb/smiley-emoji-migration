@@ -399,7 +399,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:ordi:` | ![](https://youthweb.net/dist/smilies/ordi.gif) | :question: | `` | `ordi.gif`
 `:bvb:` | ![](https://youthweb.net/dist/smilies/smilie_bvb.gif) | :question: | `` | `smilie_bvb.gif`
 `:shy2:` | ![](https://youthweb.net/dist/smilies/smilie_girl_066.gif) | :question: | `` | `smilie_girl_066.gif`
-`:deutschland2:` | ![](https://youthweb.net/dist/smilies/WM.gif) | :question: | `` | `WM.gif`
+`:deutschland2:` | ![](https://youthweb.net/dist/smilies/WM.gif) | ![](/dist/png-64/1f1e9-1f1ea.png)![](/dist/png-64/26bd.png) | `:de::soccer:` | `WM.gif`
 `:uschke:` | ![](https://youthweb.net/dist/smilies/3434.gif) | :question: | `` | `3434.gif`
 `:admin2:` | ![](https://youthweb.net/dist/smilies/admins2.gif) | :question: | `` | `admins2.gif`
 `:gutebesserung:` | ![](https://youthweb.net/dist/smilies/Gute%20Besserung.gif) | :question: | `` | `Gute Besserung.gif`
