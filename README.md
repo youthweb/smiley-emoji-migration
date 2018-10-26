@@ -102,7 +102,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:baden:` | ![](https://youthweb.net/dist/smilies/00001779[1].gif) | ![](/dist/png-64/1f6c0.png) | `:bath:` | `00001779[1].gif`
 `:troesten:` | ![](https://youthweb.net/dist/smilies/troesten.gif) | ![](/dist/png-64/1f917.png) | `:hugging:` | `troesten.gif`
 `:bügeln:` | ![](https://youthweb.net/dist/smilies/buegeln.gif) | :question: | `` | `buegeln.gif`
-`:respekt:` | ![](https://youthweb.net/dist/smilies/288.gif) | ![](/dist/png-64/1f44d-1f3fe.png) | `:respekt:` | `288.gif`
+`:respekt:` | ![](https://youthweb.net/dist/smilies/288.gif) | ![](/dist/png-64/1f600.png)![](/dist/png-64/1f44d.png) | `:grinning::thumbsup:` | `288.gif`
 `:naund:` | ![](https://youthweb.net/dist/smilies/00000673.gif) | :question: | `` | `00000673.gif`
 `:doof:` | ![](https://youthweb.net/dist/smilies/doof.gif) | :question: | `` | `doof.gif`
 `:ethe:` | ![](https://youthweb.net/dist/smilies/blumen.gif) | ![](/dist/png-64/1f642.png)![](/dist/png-64/1f339.png) | `:slightly_smiling_face::rose:` | `blumen.gif`
