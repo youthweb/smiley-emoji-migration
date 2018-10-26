@@ -395,7 +395,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:rubin:` | ![](https://youthweb.net/dist/smilies/boast.gif) | :question: | `` | `boast.gif`
 `:gamer:` | ![](https://youthweb.net/dist/smilies/gamer4.gif) | ![](/dist/png-64/1f3ae.png) | `:video_game:` | `gamer4.gif`
 `:manni:` | ![](https://youthweb.net/dist/smilies/smilie_winke_048.gif) | :question: | `` | `smilie_winke_048.gif`
-`:evi:` | ![](https://youthweb.net/dist/smilies/smilie_girl_068.gif) | :question: | `` | `smilie_girl_068.gif`
+`:evi:` | ![](https://youthweb.net/dist/smilies/smilie_girl_068.gif) | ![](/dist/png-64/1f469-200d-1f3a4.png) | `:female-singer:` | `smilie_girl_068.gif`
 `:ordi:` | ![](https://youthweb.net/dist/smilies/ordi.gif) | :question: | `` | `ordi.gif`
 `:bvb:` | ![](https://youthweb.net/dist/smilies/smilie_bvb.gif) | :question: | `` | `smilie_bvb.gif`
 `:shy2:` | ![](https://youthweb.net/dist/smilies/smilie_girl_066.gif) | :question: | `` | `smilie_girl_066.gif`
