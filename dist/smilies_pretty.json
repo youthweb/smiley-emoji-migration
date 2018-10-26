@@ -355,7 +355,10 @@
         "smiley_image": "buegeln.gif"
     },
     ":respekt:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f600.png",
+            "1f44d.png"
+        ],
         "smiley_image": "288.gif"
     },
     ":naund:": {
@@ -1408,7 +1411,9 @@
         "smiley_image": "mozilla.gif"
     },
     ":2lee:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f3b9.png"
+        ],
         "smiley_image": "lee.gif"
     },
     ":pizzaess:": {
