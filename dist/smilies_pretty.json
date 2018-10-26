@@ -915,7 +915,9 @@
         "smiley_image": "cool.gif"
     },
     ":manweisetnich:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f937.png"
+        ],
         "smiley_image": "man_weiset.png"
     },
     ":(": {
@@ -1811,7 +1813,9 @@
         "smiley_image": "smilie_winke_048.gif"
     },
     ":evi:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f469-200d-1f3a4.png"
+        ],
         "smiley_image": "smilie_girl_068.gif"
     },
     ":ordi:": {
@@ -1827,7 +1831,10 @@
         "smiley_image": "smilie_girl_066.gif"
     },
     ":deutschland2:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f1e9-1f1ea.png",
+            "26bd.png"
+        ],
         "smiley_image": "WM.gif"
     },
     ":uschke:": {
