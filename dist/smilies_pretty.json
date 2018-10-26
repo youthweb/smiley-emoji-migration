@@ -1795,7 +1795,10 @@
         "smiley_image": "blumekuss.gif"
     },
     ":grill:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "1f525.png",
+            "1f969.png"
+        ],
         "smiley_image": "grillen.gif"
     },
     ":rubin:": {
@@ -1860,7 +1863,9 @@
         "smiley_image": "wheelchair.gif"
     },
     ":mokka:": {
-        "unicode_images": [],
+        "unicode_images": [
+            "2615.png"
+        ],
         "smiley_image": "mokka.gif"
     },
     ":schalke:": {
