@@ -405,5 +405,5 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:gutebesserung:` | ![](https://youthweb.net/dist/smilies/Gute%20Besserung.gif) | :question: | `` | `Gute Besserung.gif`
 `:welcome:` | ![](https://youthweb.net/dist/smilies/welcome.gif) | :question: | `` | `welcome.gif`
 `:hotwheel:` | ![](https://youthweb.net/dist/smilies/wheelchair.gif) | ![](/dist/png-64/267f.png) | `:wheelchair:` | `wheelchair.gif`
-`:mokka:` | ![](https://youthweb.net/dist/smilies/mokka.gif) | :question: | `` | `mokka.gif`
+`:mokka:` | ![](https://youthweb.net/dist/smilies/mokka.gif) | ![](/dist/png-64/2615.png) | `:coffee:` | `mokka.gif` 
 `:schalke:` | ![](https://youthweb.net/dist/smilies/s04fahne.gif) | :question: | `` | `s04fahne.gif`
