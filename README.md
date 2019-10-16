@@ -206,7 +206,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:ruhe:` | ![](https://youthweb.net/dist/smilies/ruhe.gif) | :question: | `` | `ruhe.gif`
 `:cool:` | ![](https://youthweb.net/dist/smilies/cool.gif) | ![](/dist/png-64/1f60e.png) | `:sunglasses:` | `cool.gif`
 `:manweisetnich:` | ![](https://youthweb.net/dist/smilies/man_weiset.png) | ![](/dist/png-64/1f937.png) | `:shrug:` | `man_weiset.png`
-`:(` | ![](https://youthweb.net/dist/smilies/frown.gif) | :question: | `` | `frown.gif`
+`:(` | ![](https://youthweb.net/dist/smilies/frown.gif) | ![](/dist/png-64/1f61f.png) | `:worried:` | `frown.gif`
 `:knuddel2:` | ![](https://youthweb.net/dist/smilies/liebe_061.gif) | ![](/dist/png-64/1f917.png) | `:hugging_face:` | `liebe_061.gif`
 `:denken:` | ![](https://youthweb.net/dist/smilies/verwirrte_026.gif) | ![](/dist/png-64/1f614.png) | `:pensive:` | `verwirrte_026.gif`
 `:denken2:` | ![](https://youthweb.net/dist/smilies/Denken2.gif) | ![](/dist/png-64/1f914.png) | `:thinking:` | `Denken2.gif`
