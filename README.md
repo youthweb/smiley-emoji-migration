@@ -202,7 +202,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:baden3:` | ![](https://youthweb.net/dist/smilies/baden3.gif) | ![](/dist/png-64/1f6c1.png) | `:bathtub:` | `baden3.gif`
 `:lenak:` | ![](https://youthweb.net/dist/smilies/484.gif) | :question: | `` | `484.gif`
 `:jeff:` | ![](https://youthweb.net/dist/smilies/Jeff.gif) | ![](/dist/png-64/1f92c.png) | `:face_with_symbols_on_mouth:` | `Jeff.gif`
-`:knuddell:` | ![](https://youthweb.net/dist/smilies/knuddel.gif) | :question: | `` | `knuddel.gif`
+`:knuddell:` | ![](https://youthweb.net/dist/smilies/knuddel.gif) | ![](/dist/png-64/1f917.png) | `:hugging_face:` | `knuddel.gif`
 `:ruhe:` | ![](https://youthweb.net/dist/smilies/ruhe.gif) | :question: | `` | `ruhe.gif`
 `:cool:` | ![](https://youthweb.net/dist/smilies/cool.gif) | ![](/dist/png-64/1f60e.png) | `:sunglasses:` | `cool.gif`
 `:manweisetnich:` | ![](https://youthweb.net/dist/smilies/man_weiset.png) | ![](/dist/png-64/1f937.png) | `:shrug:` | `man_weiset.png`
