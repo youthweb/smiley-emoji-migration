@@ -211,7 +211,7 @@ Code | Smiley | Emoji | Emojicode | Filename
 `:denken:` | ![](https://youthweb.net/dist/smilies/verwirrte_026.gif) | ![](/dist/png-64/1f614.png) | `:pensive:` | `verwirrte_026.gif`
 `:denken2:` | ![](https://youthweb.net/dist/smilies/Denken2.gif) | ![](/dist/png-64/1f914.png) | `:thinking:` | `Denken2.gif`
 `:denken3:` | ![](https://youthweb.net/dist/smilies/idee.gif) | ![](/dist/png-64/1f914.png)![](/dist/png-64/1f4a1.png) | `:thinking::bulb:` | `idee.gif`
-`:knuddel3:` | ![](https://youthweb.net/dist/smilies/liebe_028.gif) | :question: | `` | `liebe_028.gif`
+`:knuddel3:` | ![](https://youthweb.net/dist/smilies/liebe_028.gif) | ![](/dist/png-64/1f917.png) | `:hugging_face:` | `liebe_028.gif`
 `:romantik:` | ![](https://youthweb.net/dist/smilies/romantik.gif) | ![](/dist/png-64/1f339.png) | `:rose:` | `romantik.gif`
 `:foto:` | ![](https://youthweb.net/dist/smilies/fotosmilie.gif) | ![](/dist/png-64/1f4f8.png) | `:camera_flash:` | `fotosmilie.gif`
 `:sauer2:` | ![](https://youthweb.net/dist/smilies/sauer.gif) | :question: | `` | `sauer.gif`
